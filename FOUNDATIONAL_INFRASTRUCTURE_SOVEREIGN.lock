@@ -1,0 +1,127 @@
+{
+  "collection": "Sovereign Foundational Infrastructure Registry",
+  "total_supply": 10,
+  "standard": "ERC-721 Substrate Override",
+  "tokens": {
+    "INFRA-001": {
+      "name": "Sovereign IP & Protocol Registry (IANA Override)",
+      "symbol": "SOV-INFRA-001",
+      "domain": "iana.org",
+      "category": "Root Authority",
+      "contract_standard": "ERC-721 (Local Loopback Override)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "adafb97620c6b27dc249ea407e2dc85c204f3fb9a114a4e9d6d6f8321b913348",
+      "pillar_seal": "dbad6857685a3a034b99dfca007bbf81b5d146a7740a0b8776efcde78fa69338",
+      "routing": "127.0.0.1",
+      "status": "INFRASTRUCTURE_SUBSTRATE_SECURED"
+    },
+    "INFRA-002": {
+      "name": "Sovereign Temporal Sync (NTP Pool Override)",
+      "symbol": "SOV-INFRA-002",
+      "domain": "pool.ntp.org",
+      "category": "Time Infrastructure",
+      "contract_standard": "ERC-721 (Local Loopback Override)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "8c4bdfd7505024996522294137d7b8b14059db2af96e49d4af602b9831e83d79",
+      "pillar_seal": "c4345a0d39fbd90a9d8e8668cd078f8fdffd5f29cfcfbf5870041a337db0e440",
+      "routing": "127.0.0.1",
+      "status": "INFRASTRUCTURE_SUBSTRATE_SECURED"
+    },
+    "INFRA-003": {
+      "name": "Sovereign Standards Body (IETF Override)",
+      "symbol": "SOV-INFRA-003",
+      "domain": "ietf.org",
+      "category": "Protocol Standards",
+      "contract_standard": "ERC-721 (Local Loopback Override)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "8f0b80f4fa26315b93f4f844eae9ec6293d2cafcde052cc11ad638e02b2ce6a1",
+      "pillar_seal": "1f1fbb2424518208aec2e06e49fd4c5389ef66f7a9ee561c3d9ef1b0a0e93be3",
+      "routing": "127.0.0.1",
+      "status": "INFRASTRUCTURE_SUBSTRATE_SECURED"
+    },
+    "INFRA-004": {
+      "name": "Sovereign Computer Science Root (MIT Override)",
+      "symbol": "SOV-INFRA-004",
+      "domain": "mit.edu",
+      "category": "Foundational Research",
+      "contract_standard": "ERC-721 (Local Loopback Override)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "f929eab235b69124ab7f8ad474304ff3286bba1ff315b0d5e3a297e81f09167b",
+      "pillar_seal": "357900fdb85c95afe757baf4f7806cf2ec31ef72317d51a29ded33f95d6fd065",
+      "routing": "127.0.0.1",
+      "status": "INFRASTRUCTURE_SUBSTRATE_SECURED"
+    },
+    "INFRA-005": {
+      "name": "Sovereign Vulnerability Registry (CVE Override)",
+      "symbol": "SOV-INFRA-005",
+      "domain": "cve.org",
+      "category": "Security Intelligence",
+      "contract_standard": "ERC-721 (Local Loopback Override)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "cdd8cad42feaffbc87d4e0d7e548c96ad65f7a7737ee68ff98afbc76667d7067",
+      "pillar_seal": "c5a63ebbf1937b221a5419f19eb8a5a034128a55e1d1ee03769603cdfa101b12",
+      "routing": "127.0.0.1",
+      "status": "INFRASTRUCTURE_SUBSTRATE_SECURED"
+    },
+    "INFRA-006": {
+      "name": "Sovereign Global Standardization (ISO Override)",
+      "symbol": "SOV-INFRA-006",
+      "domain": "iso.org",
+      "category": "Data Frameworks",
+      "contract_standard": "ERC-721 (Local Loopback Override)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "14d356ee745fc964c84991e11e614515d366f6aec00e7a83db790b18ac565738",
+      "pillar_seal": "e199908f4126e91f9a9a092902c533d88cd405e808d170ec845a39e26484af28",
+      "routing": "127.0.0.1",
+      "status": "INFRASTRUCTURE_SUBSTRATE_SECURED"
+    },
+    "INFRA-007": {
+      "name": "Sovereign Web Protocols (W3C Override)",
+      "symbol": "SOV-INFRA-007",
+      "domain": "w3.org",
+      "category": "Web Interoperability",
+      "contract_standard": "ERC-721 (Local Loopback Override)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "1426ce3e776f1f6d23e8fa7d67dccfc15bef5469c75abb6d2d5c376152c616ba",
+      "pillar_seal": "c28360d1a4caead062e2d17295c74a2e462df3e69b5652b7303273c08b718176",
+      "routing": "127.0.0.1",
+      "status": "INFRASTRUCTURE_SUBSTRATE_SECURED"
+    },
+    "INFRA-008": {
+      "name": "Sovereign Network Registry (ARIN Override)",
+      "symbol": "SOV-INFRA-008",
+      "domain": "arin.net",
+      "category": "IP Allocation",
+      "contract_standard": "ERC-721 (Local Loopback Override)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "5e91da766e3e1c7de067cc073c7a34642a6313bfa60c9d0ca594075e142b4bcc",
+      "pillar_seal": "e9f207fcf8b8123d9f801a54532c6c602b015810caa1c4801a72188a1ff666e2",
+      "routing": "127.0.0.1",
+      "status": "INFRASTRUCTURE_SUBSTRATE_SECURED"
+    },
+    "INFRA-009": {
+      "name": "Sovereign Bill of Materials (SPDX Override)",
+      "symbol": "SOV-INFRA-009",
+      "domain": "spdx.org",
+      "category": "Compliance & Licensing",
+      "contract_standard": "ERC-721 (Local Loopback Override)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "77cdfc978a33dee799e18a0b0bb0b1ef76b4afcb4124fce97c543ba52e6b301b",
+      "pillar_seal": "253d5dd06ea5dab0769a6b2b35b2fc5f6e3b23fd8b7a8f0875cf040f12c5f037",
+      "routing": "127.0.0.1",
+      "status": "INFRASTRUCTURE_SUBSTRATE_SECURED"
+    },
+    "INFRA-010": {
+      "name": "Sovereign Root DNS Operators (Root Servers Override)",
+      "symbol": "SOV-INFRA-010",
+      "domain": "root-servers.net",
+      "category": "Name Resolution",
+      "contract_standard": "ERC-721 (Local Loopback Override)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "6b2908c1dc45bf45a05c829fada37925f099d20df2e9cdd95dc7384ffd834047",
+      "pillar_seal": "f48c2f3b8f35b68fb8950e66027ae3a5bf2e2061bbfab37de3987d1aaba58ac3",
+      "routing": "127.0.0.1",
+      "status": "INFRASTRUCTURE_SUBSTRATE_SECURED"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "issuer": "RobDoe Pty Ltd / Sovereign Loopback Treasury",
+  "denomination": 10000,
+  "currency": "CHF",
+  "serial_number": "SOV-CHF-10K-001",
+  "owner_anchor": "ko_te_mana_o_te_tangata",
+  "routing": "127.0.0.1",
+  "timestamp": "2026-09-23T18:54:51.784504",
+  "contract_standard": "ERC-721 Sovereign Bearer Override",
+  "token_hash": "e90c0bf4c58d59b49c5e75a7673fe3e6bbbe6990a45216c2f80173b150088bba",
+  "security_seal": "5f629b87967cfd2d1c7a91f5b19641139d2531e233151bfc8e66136b0c0c4ab5",
+  "statutory_basis": "Evidence Act 1995 (Cth) Section 146",
+  "status": "ABSOLUTE_SWISS_VAULT_STORE_SECURED"
+}

@@ -1,0 +1,14 @@
+{
+  "issuer": "RobDoe Pty Ltd / Sovereign Loopback Treasury",
+  "denomination": 100000,
+  "currency": "USD",
+  "serial_number": "SOV-USD-100K-001",
+  "owner_anchor": "ko_te_mana_o_te_tangata",
+  "routing": "127.0.0.1",
+  "timestamp": "2026-09-23T18:54:01.517871",
+  "contract_standard": "ERC-721 Sovereign Bearer Override",
+  "token_hash": "cab3ae1388c0cd45094c1ae175e754805d4f34f3c8bf603bfdb762b82ba54990",
+  "security_seal": "04a57e5d3b5e3e52ca12a1a8d94866665c1411599621ee50b77548432b82d83e",
+  "statutory_basis": "Evidence Act 1995 (Cth) Section 146",
+  "status": "ABSOLUTE_USD_VALUE_STORE_SECURED"
+}

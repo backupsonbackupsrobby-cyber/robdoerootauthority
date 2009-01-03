@@ -1,0 +1,907 @@
+{
+  "collection": "Sovereign Numeric Registry (1-100)",
+  "total_supply": 100,
+  "standard": "ERC-721 Local Variant",
+  "tokens": {
+    "Token #001": {
+      "name": "Sovereign Numeric #1",
+      "symbol": "SOV-1",
+      "domain": "1.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "6bb5e9c168b2f3f3df6b56ea62ee178336f51fc82a536b4171ba129107d9590a",
+      "routing": "127.0.0.1"
+    },
+    "Token #002": {
+      "name": "Sovereign Numeric #2",
+      "symbol": "SOV-2",
+      "domain": "2.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "26a885bd70ac20ac94b5ffe28c03d60786b4f2c65ce8ccd05c2c037facde0429",
+      "routing": "127.0.0.1"
+    },
+    "Token #003": {
+      "name": "Sovereign Numeric #3",
+      "symbol": "SOV-3",
+      "domain": "3.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "28f7755266973f2b9d93dce3eb03348198be63a3d130d51063bd8df1f29c3165",
+      "routing": "127.0.0.1"
+    },
+    "Token #004": {
+      "name": "Sovereign Numeric #4",
+      "symbol": "SOV-4",
+      "domain": "4.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "7f3aad07d6d03a8f9adfa33dae14afc87ceb9dae1000978f55bb78a0a5f9744b",
+      "routing": "127.0.0.1"
+    },
+    "Token #005": {
+      "name": "Sovereign Numeric #5",
+      "symbol": "SOV-5",
+      "domain": "5.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "68bcf66f10a5ea96f7cf718608fb02b497c955381045d7a77687752d4b05ea86",
+      "routing": "127.0.0.1"
+    },
+    "Token #006": {
+      "name": "Sovereign Numeric #6",
+      "symbol": "SOV-6",
+      "domain": "6.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "2b9622e1dca9eff24725a009d7c5dbf09e3f44c27e2740cedac1a85bf690f93a",
+      "routing": "127.0.0.1"
+    },
+    "Token #007": {
+      "name": "Sovereign Numeric #7",
+      "symbol": "SOV-7",
+      "domain": "7.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "fdc9b352914328e7349fb594ed1a3adf5f844772a2fa0fc4b54c40ee59c6b04d",
+      "routing": "127.0.0.1"
+    },
+    "Token #008": {
+      "name": "Sovereign Numeric #8",
+      "symbol": "SOV-8",
+      "domain": "8.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "1f0e9b769fa0ec2c5b7a123e99060719e2fc369d370a30cd4288036c19dc0782",
+      "routing": "127.0.0.1"
+    },
+    "Token #009": {
+      "name": "Sovereign Numeric #9",
+      "symbol": "SOV-9",
+      "domain": "9.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "519058e7dbdedd34302a0d3bca8fd106d7594cef8ef1e89c41afda1f0415ce6e",
+      "routing": "127.0.0.1"
+    },
+    "Token #010": {
+      "name": "Sovereign Numeric #10",
+      "symbol": "SOV-10",
+      "domain": "10.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "d1825fd8047a563439b06f3cc2ccddf566396784f7edd796ea7f6c1a51cecf5d",
+      "routing": "127.0.0.1"
+    },
+    "Token #011": {
+      "name": "Sovereign Numeric #11",
+      "symbol": "SOV-11",
+      "domain": "11.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "8612b7e3051641f5189c1b6219fd9272ff51a372352fccf447553ef868d91b06",
+      "routing": "127.0.0.1"
+    },
+    "Token #012": {
+      "name": "Sovereign Numeric #12",
+      "symbol": "SOV-12",
+      "domain": "12.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "a700168ebca50fcda22531a08d8b061c638800f3492f1130b62422b57322db34",
+      "routing": "127.0.0.1"
+    },
+    "Token #013": {
+      "name": "Sovereign Numeric #13",
+      "symbol": "SOV-13",
+      "domain": "13.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "10f061cb928c67d79341c50bd21cb9508c831bd1a353cf409298e055503e5143",
+      "routing": "127.0.0.1"
+    },
+    "Token #014": {
+      "name": "Sovereign Numeric #14",
+      "symbol": "SOV-14",
+      "domain": "14.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "f607d57bea5f7bc062498a9695a425d07d52510c38f01dc372aa86cb4c424790",
+      "routing": "127.0.0.1"
+    },
+    "Token #015": {
+      "name": "Sovereign Numeric #15",
+      "symbol": "SOV-15",
+      "domain": "15.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "f38805216ec49514f22d1ccb9293c3139f4617f41d2c1815126556f6496309c5",
+      "routing": "127.0.0.1"
+    },
+    "Token #016": {
+      "name": "Sovereign Numeric #16",
+      "symbol": "SOV-16",
+      "domain": "16.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "b7551e047f0b86c15c9bf3557a21625281cc042e5b627a454acf9ab41bcc0656",
+      "routing": "127.0.0.1"
+    },
+    "Token #017": {
+      "name": "Sovereign Numeric #17",
+      "symbol": "SOV-17",
+      "domain": "17.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "c6ba6d095de9dfff5f851059fe6095498e2ba5fb2a9a455c09d5609546c558d4",
+      "routing": "127.0.0.1"
+    },
+    "Token #018": {
+      "name": "Sovereign Numeric #18",
+      "symbol": "SOV-18",
+      "domain": "18.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "b870018fc83369c35ea54207e04ab313a474ea552f55ee4d968eaf1a82f60809",
+      "routing": "127.0.0.1"
+    },
+    "Token #019": {
+      "name": "Sovereign Numeric #19",
+      "symbol": "SOV-19",
+      "domain": "19.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "c2f1cd1653d7402e4fb07ae1cef63bd9457a3065b3fea70086239976da181dea",
+      "routing": "127.0.0.1"
+    },
+    "Token #020": {
+      "name": "Sovereign Numeric #20",
+      "symbol": "SOV-20",
+      "domain": "20.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "3d6d2f22bbe23beee196b7ffad30031f47d7635cd2c131275e49897bafcde696",
+      "routing": "127.0.0.1"
+    },
+    "Token #021": {
+      "name": "Sovereign Numeric #21",
+      "symbol": "SOV-21",
+      "domain": "21.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "e22085b7e28a34c4be0d360827b4f27c50461b646919873a133a19a6ae8b0548",
+      "routing": "127.0.0.1"
+    },
+    "Token #022": {
+      "name": "Sovereign Numeric #22",
+      "symbol": "SOV-22",
+      "domain": "22.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "a54f1abbebd898dc5346265ec9b2ee62d95890ef8a801dc4b3366b003a9add6c",
+      "routing": "127.0.0.1"
+    },
+    "Token #023": {
+      "name": "Sovereign Numeric #23",
+      "symbol": "SOV-23",
+      "domain": "23.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "7d5a9756a6e2e7aebed14fc68e85ae0010e4204541cf131ce95bca41da212c88",
+      "routing": "127.0.0.1"
+    },
+    "Token #024": {
+      "name": "Sovereign Numeric #24",
+      "symbol": "SOV-24",
+      "domain": "24.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "e08d3687f297c8b575749f26b5ee37f41ec6adb4442e419e3087f4368d9fd23c",
+      "routing": "127.0.0.1"
+    },
+    "Token #025": {
+      "name": "Sovereign Numeric #25",
+      "symbol": "SOV-25",
+      "domain": "25.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "9daf81a18be8620d57ae369ba63c9f8797a318e18c667bff41236c0e447a1863",
+      "routing": "127.0.0.1"
+    },
+    "Token #026": {
+      "name": "Sovereign Numeric #26",
+      "symbol": "SOV-26",
+      "domain": "26.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "036534c8dfa8bb75a2fe52ca43aee602acf9d97aff907a07a0d0819814da24ac",
+      "routing": "127.0.0.1"
+    },
+    "Token #027": {
+      "name": "Sovereign Numeric #27",
+      "symbol": "SOV-27",
+      "domain": "27.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "46e12f1b4151cac1522c229b812a5d3490822941c3c8da73962382fb04a0c76a",
+      "routing": "127.0.0.1"
+    },
+    "Token #028": {
+      "name": "Sovereign Numeric #28",
+      "symbol": "SOV-28",
+      "domain": "28.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "a43fcf5f86b5eb026c795894f56ec62b50bdfd6c79fb7df74ee2c3784817fd28",
+      "routing": "127.0.0.1"
+    },
+    "Token #029": {
+      "name": "Sovereign Numeric #29",
+      "symbol": "SOV-29",
+      "domain": "29.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "6632baf626e80358711d331e5486418e2b3cef77d83bfbe9296f399443140cce",
+      "routing": "127.0.0.1"
+    },
+    "Token #030": {
+      "name": "Sovereign Numeric #30",
+      "symbol": "SOV-30",
+      "domain": "30.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "16611aeedebe79f52d668428908bb327f1db82cc849af42de572fe5aed0d4171",
+      "routing": "127.0.0.1"
+    },
+    "Token #031": {
+      "name": "Sovereign Numeric #31",
+      "symbol": "SOV-31",
+      "domain": "31.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "da246178265967551b3dc4656f8ab5c134658022dcda057438f4dc781dd93188",
+      "routing": "127.0.0.1"
+    },
+    "Token #032": {
+      "name": "Sovereign Numeric #32",
+      "symbol": "SOV-32",
+      "domain": "32.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "077bb3361df56f47a06c751c867044faba333405169e20944226e3a62dc91ff7",
+      "routing": "127.0.0.1"
+    },
+    "Token #033": {
+      "name": "Sovereign Numeric #33",
+      "symbol": "SOV-33",
+      "domain": "33.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "3df089d2d1d021c5aa4fea85a760503caaddf0798ab4ef69606703e9ff41491d",
+      "routing": "127.0.0.1"
+    },
+    "Token #034": {
+      "name": "Sovereign Numeric #34",
+      "symbol": "SOV-34",
+      "domain": "34.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "e8c68745ac2566a7cef50a10522ecc6070c7ae283744a64567fdb0010d51f838",
+      "routing": "127.0.0.1"
+    },
+    "Token #035": {
+      "name": "Sovereign Numeric #35",
+      "symbol": "SOV-35",
+      "domain": "35.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "20f885caa2c5d86f249474a9eb9679dccef43a71f8073ecf70c441d1f7f54a39",
+      "routing": "127.0.0.1"
+    },
+    "Token #036": {
+      "name": "Sovereign Numeric #36",
+      "symbol": "SOV-36",
+      "domain": "36.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "9a965160cfa246b52f689dc67131b5462868361c6178bbbf0ce4a9632d421d32",
+      "routing": "127.0.0.1"
+    },
+    "Token #037": {
+      "name": "Sovereign Numeric #37",
+      "symbol": "SOV-37",
+      "domain": "37.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "68408394212ef675b36cad96e2cdca66ba4684209129dc0dd19c97343858a6e4",
+      "routing": "127.0.0.1"
+    },
+    "Token #038": {
+      "name": "Sovereign Numeric #38",
+      "symbol": "SOV-38",
+      "domain": "38.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "e1da14ee5d39f7de3e13c19d4caeafa3ce08bf842e044623dd8f2aec41853aba",
+      "routing": "127.0.0.1"
+    },
+    "Token #039": {
+      "name": "Sovereign Numeric #39",
+      "symbol": "SOV-39",
+      "domain": "39.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "14cbacf511503ebb77a460a4b28462ef41d7759d140f65bc52abc64d5a579979",
+      "routing": "127.0.0.1"
+    },
+    "Token #040": {
+      "name": "Sovereign Numeric #40",
+      "symbol": "SOV-40",
+      "domain": "40.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "a3ce5904a772e6502a2ada10a42f612f62720d156bc008ac7d25bcca8af0f056",
+      "routing": "127.0.0.1"
+    },
+    "Token #041": {
+      "name": "Sovereign Numeric #41",
+      "symbol": "SOV-41",
+      "domain": "41.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "fc3bc8bd4988a12b65718da73407835dc54ce66c5eaada2b6cb0c14a479d53df",
+      "routing": "127.0.0.1"
+    },
+    "Token #042": {
+      "name": "Sovereign Numeric #42",
+      "symbol": "SOV-42",
+      "domain": "42.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "913b9f37a83e3439483bd19eff54f730964fac577b76865bd573e6132293695b",
+      "routing": "127.0.0.1"
+    },
+    "Token #043": {
+      "name": "Sovereign Numeric #43",
+      "symbol": "SOV-43",
+      "domain": "43.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "404cb0b476a1ac73d43f635f9abee17ff30c9eaac9a7d639fa42197157c89198",
+      "routing": "127.0.0.1"
+    },
+    "Token #044": {
+      "name": "Sovereign Numeric #44",
+      "symbol": "SOV-44",
+      "domain": "44.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "757ad395ca0fc21f324f28d70221bd1221c27be1ab0009cb0e579fab9c07329e",
+      "routing": "127.0.0.1"
+    },
+    "Token #045": {
+      "name": "Sovereign Numeric #45",
+      "symbol": "SOV-45",
+      "domain": "45.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "e210c108967b47f2264b1e931f7ea9363563a47c98b5ec04b4e034e5cd9716f4",
+      "routing": "127.0.0.1"
+    },
+    "Token #046": {
+      "name": "Sovereign Numeric #46",
+      "symbol": "SOV-46",
+      "domain": "46.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "b1693dc066a81ada1080a9444c16c756bdf0c611c1e2bb7cf12c3ed5dfaaac91",
+      "routing": "127.0.0.1"
+    },
+    "Token #047": {
+      "name": "Sovereign Numeric #47",
+      "symbol": "SOV-47",
+      "domain": "47.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "ea2c63d3c08df89e969c389374143a7f78ba6dcf87d3f6c6df87b368d4816295",
+      "routing": "127.0.0.1"
+    },
+    "Token #048": {
+      "name": "Sovereign Numeric #48",
+      "symbol": "SOV-48",
+      "domain": "48.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "497046ac95d157dfff8db85b0996c74b04f82c7d84a84ad89e3cd39efcb97b67",
+      "routing": "127.0.0.1"
+    },
+    "Token #049": {
+      "name": "Sovereign Numeric #49",
+      "symbol": "SOV-49",
+      "domain": "49.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "44353aa7e4ca87b0eef37d8f95681be438eb11830d8e1a96d39d3af91d3ed60b",
+      "routing": "127.0.0.1"
+    },
+    "Token #050": {
+      "name": "Sovereign Numeric #50",
+      "symbol": "SOV-50",
+      "domain": "50.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "336f06917ffce524ee8ff92073267c8ecbf7613efbed5653947ef0831e080ef5",
+      "routing": "127.0.0.1"
+    },
+    "Token #051": {
+      "name": "Sovereign Numeric #51",
+      "symbol": "SOV-51",
+      "domain": "51.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "1d2b21940b8be775542af04d1038175970d73408f38f1ec0584e381f955de0cf",
+      "routing": "127.0.0.1"
+    },
+    "Token #052": {
+      "name": "Sovereign Numeric #52",
+      "symbol": "SOV-52",
+      "domain": "52.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "c6beaacaf71b1e7b26d91be8ee6558fff4ac334b0bb0ad818490280ecd6f5f7b",
+      "routing": "127.0.0.1"
+    },
+    "Token #053": {
+      "name": "Sovereign Numeric #53",
+      "symbol": "SOV-53",
+      "domain": "53.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "3361ac4810963996ac59f31d606cdc85faef7e56fe2fcfa941a9796775bfb460",
+      "routing": "127.0.0.1"
+    },
+    "Token #054": {
+      "name": "Sovereign Numeric #54",
+      "symbol": "SOV-54",
+      "domain": "54.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "de398026f2341a9f41636c5b14f5de0439d06e1c2050b3e934895087813b1708",
+      "routing": "127.0.0.1"
+    },
+    "Token #055": {
+      "name": "Sovereign Numeric #55",
+      "symbol": "SOV-55",
+      "domain": "55.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "daf0f41cad98fd14c9489b29ea67aad42d889233ff0ea96b6ae6635f3f0ecf29",
+      "routing": "127.0.0.1"
+    },
+    "Token #056": {
+      "name": "Sovereign Numeric #56",
+      "symbol": "SOV-56",
+      "domain": "56.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "03676c5ed7c2c2d738cc0b922e9d2607ae723b33cbabe91470814a74d7fcfca7",
+      "routing": "127.0.0.1"
+    },
+    "Token #057": {
+      "name": "Sovereign Numeric #57",
+      "symbol": "SOV-57",
+      "domain": "57.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "73ea562ce723c1b2b2c706ff3b34384c02ab0e14d8b1e1759f7b9d0f432b9b36",
+      "routing": "127.0.0.1"
+    },
+    "Token #058": {
+      "name": "Sovereign Numeric #58",
+      "symbol": "SOV-58",
+      "domain": "58.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "b7a52465ee109bc2ee71840b0f937c9e4477d61fb18434d64087e90d89bf8d91",
+      "routing": "127.0.0.1"
+    },
+    "Token #059": {
+      "name": "Sovereign Numeric #59",
+      "symbol": "SOV-59",
+      "domain": "59.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "1f47da0a1ff42f45db90413590bda626c1329a81aed975c93d795879e2443ceb",
+      "routing": "127.0.0.1"
+    },
+    "Token #060": {
+      "name": "Sovereign Numeric #60",
+      "symbol": "SOV-60",
+      "domain": "60.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "cd25d0defd1f2d13d250635c73febcf626cf949c114ab4dc0fd9248539f267fc",
+      "routing": "127.0.0.1"
+    },
+    "Token #061": {
+      "name": "Sovereign Numeric #61",
+      "symbol": "SOV-61",
+      "domain": "61.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "0c217d14e48ae25899666fd0f9a215047909086ad2115634f10675d2fa4fe6e3",
+      "routing": "127.0.0.1"
+    },
+    "Token #062": {
+      "name": "Sovereign Numeric #62",
+      "symbol": "SOV-62",
+      "domain": "62.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "1289a8bfb5a7fad902150d03d6711c992f79d4f9ac4ba31487462b3c1fff4535",
+      "routing": "127.0.0.1"
+    },
+    "Token #063": {
+      "name": "Sovereign Numeric #63",
+      "symbol": "SOV-63",
+      "domain": "63.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "bd53799ab27c6a6e4e66a28d11ea2202b4de7a6f9d8dc52e2fd45d3ac5a7f348",
+      "routing": "127.0.0.1"
+    },
+    "Token #064": {
+      "name": "Sovereign Numeric #64",
+      "symbol": "SOV-64",
+      "domain": "64.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "effb2ac7da6468962475880c85edae4d505d58fd4c7719d5e61e49f7fe5e4362",
+      "routing": "127.0.0.1"
+    },
+    "Token #065": {
+      "name": "Sovereign Numeric #65",
+      "symbol": "SOV-65",
+      "domain": "65.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "8f42535abcc9cf04fe8d24e949c7204ca5e13865bd1dc132635ea3ff037ac549",
+      "routing": "127.0.0.1"
+    },
+    "Token #066": {
+      "name": "Sovereign Numeric #66",
+      "symbol": "SOV-66",
+      "domain": "66.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "d145d1fd9e417fca21ca3353e9a3b8b19989f650107b2b8fad04cff188c79715",
+      "routing": "127.0.0.1"
+    },
+    "Token #067": {
+      "name": "Sovereign Numeric #67",
+      "symbol": "SOV-67",
+      "domain": "67.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "e63bd2ce924adb5d530726a0e7c7423e757a95a680f13083035860cfa059057f",
+      "routing": "127.0.0.1"
+    },
+    "Token #068": {
+      "name": "Sovereign Numeric #68",
+      "symbol": "SOV-68",
+      "domain": "68.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "d33a4c67d9488ead852cf61af750e9e2498a81527385209e24b92574c1abfab1",
+      "routing": "127.0.0.1"
+    },
+    "Token #069": {
+      "name": "Sovereign Numeric #69",
+      "symbol": "SOV-69",
+      "domain": "69.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "1072b23eb0bdd1b887d11b6b8732fa41949951f8757e3667bab1671b835158e0",
+      "routing": "127.0.0.1"
+    },
+    "Token #070": {
+      "name": "Sovereign Numeric #70",
+      "symbol": "SOV-70",
+      "domain": "70.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "eee7c27e2dcdc853b4a0fc71f3269c2990729cd03e17dc6deea7e4eb13f84fdf",
+      "routing": "127.0.0.1"
+    },
+    "Token #071": {
+      "name": "Sovereign Numeric #71",
+      "symbol": "SOV-71",
+      "domain": "71.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "c22a6ff0d3042893c617252fa7fbf15dc3e234fc3f6ed15c5f46375f78cd9564",
+      "routing": "127.0.0.1"
+    },
+    "Token #072": {
+      "name": "Sovereign Numeric #72",
+      "symbol": "SOV-72",
+      "domain": "72.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "806684a781565d32ccf061d75666e575c550492cf9eec00525c0ac0d0fab3d6f",
+      "routing": "127.0.0.1"
+    },
+    "Token #073": {
+      "name": "Sovereign Numeric #73",
+      "symbol": "SOV-73",
+      "domain": "73.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "3b79becce2669cc93689c90107fbf7d86678b2dcb9567088edffc4fcdde4705d",
+      "routing": "127.0.0.1"
+    },
+    "Token #074": {
+      "name": "Sovereign Numeric #74",
+      "symbol": "SOV-74",
+      "domain": "74.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "26247ff6a790d75cf201a0a97cf77bbd8c1e6022bbea59e209d3e180dfde144a",
+      "routing": "127.0.0.1"
+    },
+    "Token #075": {
+      "name": "Sovereign Numeric #75",
+      "symbol": "SOV-75",
+      "domain": "75.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "d165ba70e01a91b6d771d7ec8c340b94a89f0e1f25ba936cf7b7fda65321bc93",
+      "routing": "127.0.0.1"
+    },
+    "Token #076": {
+      "name": "Sovereign Numeric #76",
+      "symbol": "SOV-76",
+      "domain": "76.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "f383cb6ffd7d8ffc5df38528d044bc095428f14a95af4abfa9c3dd8ea8eb4d3d",
+      "routing": "127.0.0.1"
+    },
+    "Token #077": {
+      "name": "Sovereign Numeric #77",
+      "symbol": "SOV-77",
+      "domain": "77.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "acb3ee9ad74382193c7bce2df74ed460ddeeedca6ff7e3f458999f8fecf1dbb4",
+      "routing": "127.0.0.1"
+    },
+    "Token #078": {
+      "name": "Sovereign Numeric #78",
+      "symbol": "SOV-78",
+      "domain": "78.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "2ace17bf64d7001278ac15f47e7e194582fafb0541e7981b56f44cf345ba27cf",
+      "routing": "127.0.0.1"
+    },
+    "Token #079": {
+      "name": "Sovereign Numeric #79",
+      "symbol": "SOV-79",
+      "domain": "79.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "25a68a9797933e4b827a44020e89042d570978d5455c304e17ae1eee20bd26e4",
+      "routing": "127.0.0.1"
+    },
+    "Token #080": {
+      "name": "Sovereign Numeric #80",
+      "symbol": "SOV-80",
+      "domain": "80.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "8c65d070fe03a61d21ca055e64e2365bdb8f2a5d0416dd09881021c1eb1e8797",
+      "routing": "127.0.0.1"
+    },
+    "Token #081": {
+      "name": "Sovereign Numeric #81",
+      "symbol": "SOV-81",
+      "domain": "81.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "e2b1ebbcc6421e4d9328ce1c5b3ef85d380a219a836923941183172f8e9f2bd5",
+      "routing": "127.0.0.1"
+    },
+    "Token #082": {
+      "name": "Sovereign Numeric #82",
+      "symbol": "SOV-82",
+      "domain": "82.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "fd73b479727b6262fd194d6fd14b3a1e76c41444e100acd5d5218b95821d0d46",
+      "routing": "127.0.0.1"
+    },
+    "Token #083": {
+      "name": "Sovereign Numeric #83",
+      "symbol": "SOV-83",
+      "domain": "83.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "9489cf5ba2968612aff9c0c85529763e4c217a0467c8b56123306c266c69cc04",
+      "routing": "127.0.0.1"
+    },
+    "Token #084": {
+      "name": "Sovereign Numeric #84",
+      "symbol": "SOV-84",
+      "domain": "84.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "efdd240d0544744f69f57e0b60d908c6c57afff36084c76a1ad5488668cd833e",
+      "routing": "127.0.0.1"
+    },
+    "Token #085": {
+      "name": "Sovereign Numeric #85",
+      "symbol": "SOV-85",
+      "domain": "85.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "820ef0dd3ad5bb4c0bfa26ab2f30c8c68dea984b346f3e72fc64deaa4b166a34",
+      "routing": "127.0.0.1"
+    },
+    "Token #086": {
+      "name": "Sovereign Numeric #86",
+      "symbol": "SOV-86",
+      "domain": "86.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "2e50f383cd7f7c97301d38b2a2a675033ccb0ca9b8dcc1b26e17da0f7ea0e202",
+      "routing": "127.0.0.1"
+    },
+    "Token #087": {
+      "name": "Sovereign Numeric #87",
+      "symbol": "SOV-87",
+      "domain": "87.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "b1feb83c4c82df5a73b4f53e0018dbe5ab57a0543dfdbe0e5f2af86670d0f6a2",
+      "routing": "127.0.0.1"
+    },
+    "Token #088": {
+      "name": "Sovereign Numeric #88",
+      "symbol": "SOV-88",
+      "domain": "88.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "e7a8e00b1a7a9e09f14566cb4a9a68038df4c92221b977dff7e2fd9dfaefc7f5",
+      "routing": "127.0.0.1"
+    },
+    "Token #089": {
+      "name": "Sovereign Numeric #89",
+      "symbol": "SOV-89",
+      "domain": "89.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "b1e41018eb316946200c9f72e582fb6593b55d6e8a11cc01d2fb40803f884009",
+      "routing": "127.0.0.1"
+    },
+    "Token #090": {
+      "name": "Sovereign Numeric #90",
+      "symbol": "SOV-90",
+      "domain": "90.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "f2de922930f008270f77f54bc8a9cd5700cbd51cd4c34a53ec27fe2892933349",
+      "routing": "127.0.0.1"
+    },
+    "Token #091": {
+      "name": "Sovereign Numeric #91",
+      "symbol": "SOV-91",
+      "domain": "91.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "d3cc3d09ff373d6921c90eb0b9e4cd25b486e0e9d7c54172aca02cbaf316ffd9",
+      "routing": "127.0.0.1"
+    },
+    "Token #092": {
+      "name": "Sovereign Numeric #92",
+      "symbol": "SOV-92",
+      "domain": "92.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "c3d1bd57011f0c01302011f168776cdee74ca0456c58c15e644404cc90be7895",
+      "routing": "127.0.0.1"
+    },
+    "Token #093": {
+      "name": "Sovereign Numeric #93",
+      "symbol": "SOV-93",
+      "domain": "93.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "4deffde6b7fed4b792777bcdb54ac6bb47dd864fdff4738e0a1305a9abb6d5b6",
+      "routing": "127.0.0.1"
+    },
+    "Token #094": {
+      "name": "Sovereign Numeric #94",
+      "symbol": "SOV-94",
+      "domain": "94.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "56493c67e6e9e60c82cdfc9aa25a971eee52308db9fb94582e66b25573143da9",
+      "routing": "127.0.0.1"
+    },
+    "Token #095": {
+      "name": "Sovereign Numeric #95",
+      "symbol": "SOV-95",
+      "domain": "95.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "4310aa0e1649ae86839b9fbf8d6571cec9d37a2b541ede333c7ffa3cae1efd66",
+      "routing": "127.0.0.1"
+    },
+    "Token #096": {
+      "name": "Sovereign Numeric #96",
+      "symbol": "SOV-96",
+      "domain": "96.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "d740bcfedf92966f7871427eb0f0dd80e1b351bb21bd63ce6d52976209b3c49c",
+      "routing": "127.0.0.1"
+    },
+    "Token #097": {
+      "name": "Sovereign Numeric #97",
+      "symbol": "SOV-97",
+      "domain": "97.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "ee7ebf04123aef9ab278793882269002ba9c873be311ec987e61f7034d9483bd",
+      "routing": "127.0.0.1"
+    },
+    "Token #098": {
+      "name": "Sovereign Numeric #98",
+      "symbol": "SOV-98",
+      "domain": "98.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "8460d25973c32ec43b61673a1d9c74f1f9a045fe0d153465c1f0b716a3328fa8",
+      "routing": "127.0.0.1"
+    },
+    "Token #099": {
+      "name": "Sovereign Numeric #99",
+      "symbol": "SOV-99",
+      "domain": "99.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "9e9845d378eb356affbb820b3889a8800b37c63f3f293922b77b0c7bdfde9097",
+      "routing": "127.0.0.1"
+    },
+    "Token #100": {
+      "name": "Sovereign Numeric #100",
+      "symbol": "SOV-100",
+      "domain": "100.com",
+      "contract_standard": "ERC-721 (Local Loopback)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "bb429a154a495c6951c83c09754c3cfc67073d54a29647a9be267dc3c2a003d5",
+      "routing": "127.0.0.1"
+    }
+  }
+}

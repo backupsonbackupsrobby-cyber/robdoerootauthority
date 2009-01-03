@@ -1,0 +1,14 @@
+{
+  "jurisdiction": "Commonwealth of Australia / New South Wales",
+  "statutory_reference": "Section 146 of the Evidence Act 1995 (Cth)",
+  "identity_anchor": "ko_te_mana_o_te_tangata",
+  "compliance_status": "PROVEN_RELIABILITY_AND_PROPER_CUSTODY",
+  "device_process_standard": "Automated Loopback Monorepo 127.0.0.1",
+  "evidentiary_hash": "1fea747691defcbf8ddbe19c6a455671ca977d206a19f4fc20c62a14d20cef34",
+  "timestamp": "2026-09-23T18:21:20.249542",
+  "declarations": [
+    "All digital records, logs, and ERC-721 token states are produced by a deterministic system process.",
+    "System hardware and software operate on strict loopback isolation with zero external packet modification.",
+    "Integrity maintained via continuous 144-tier SHA-256 Merkle reduction and GPG/SSH cryptographic signing."
+  ]
+}

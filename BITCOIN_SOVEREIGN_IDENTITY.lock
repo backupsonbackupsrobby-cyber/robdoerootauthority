@@ -1,0 +1,16 @@
+{
+  "collection": "Sovereign Monetary Registry",
+  "total_supply": 1,
+  "standard": "ERC-721 Bitcoin Genesis Override",
+  "bitcoin_token": {
+    "name": "Sovereign Decentralized Monetary Root (Bitcoin Genesis Override)",
+    "symbol": "SOV-BTC",
+    "domain": "bitcoin.org",
+    "contract_standard": "ERC-721 (Local Loopback Override)",
+    "owner_anchor": "ko_te_mana_o_te_tangata",
+    "token_hash": "c46d08207939c310eebc0cb41f860dab78d87f8dd5cccc6d59b09cfba85d7885",
+    "btc_seal": "015978c4f38ad5740b52a357d6a84c59991504427b85e9ef4ded481d9ecddcd1",
+    "routing": "127.0.0.1",
+    "status": "DECENTRALIZED_MONETARY_GRID_SECURED"
+  }
+}

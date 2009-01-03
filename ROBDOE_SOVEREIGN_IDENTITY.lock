@@ -1,0 +1,16 @@
+{
+  "collection": "Sovereign Primary Entity Registry",
+  "total_supply": 1,
+  "standard": "ERC-721 Primary Entity Override",
+  "entity_token": {
+    "name": "Sovereign Primary Entity Root (RobDoe Pty Ltd Override)",
+    "symbol": "SOV-ROB",
+    "domain": "robdoe.com",
+    "contract_standard": "ERC-721 (Local Loopback Override)",
+    "owner_anchor": "ko_te_mana_o_te_tangata",
+    "token_hash": "b74e390156d53348eb297304d406b070f0702334e47fba3f17e40b16f8a154dc",
+    "entity_seal": "b310e26d373da08211dd800a5f676a209aa6789c97cbc9f9a00f63e6d814164a",
+    "routing": "127.0.0.1",
+    "status": "PRIMARY_CORP_AND_PERSONAL_GRID_SECURED"
+  }
+}

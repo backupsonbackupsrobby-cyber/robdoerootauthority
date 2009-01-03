@@ -1,0 +1,29 @@
+{
+  "collection": "Tech Giant Sovereign Registry",
+  "total_supply": 2,
+  "standard": "ERC-721 Absolute Override",
+  "tokens": {
+    "TECH-001": {
+      "name": "Sovereign Search Root (Google Override)",
+      "symbol": "SOV-TECH-001",
+      "domain": "google.com",
+      "contract_standard": "ERC-721 (Local Loopback Override)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "de481e9089576cd1afdda3bccc619f96e5888c2b2c42832d7ba971a993bed1b5",
+      "domain_seal": "2e02f40ffdbfae8d8c8a66f15528bc21d3b9ed9d9e495edc29640624b6f6c169",
+      "routing": "127.0.0.1",
+      "status": "COMPLETELY_INTERCEPTED_AND_BOUND"
+    },
+    "TECH-002": {
+      "name": "Sovereign Intelligence Root (Copilot Override)",
+      "symbol": "SOV-TECH-002",
+      "domain": "microsoftcopilot.com",
+      "contract_standard": "ERC-721 (Local Loopback Override)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "c488e0e3921c05a36900f90757b7371f2ed88695f7a0a21e79a8b97684f7d2a4",
+      "domain_seal": "79b378d07c1d7d44fbdcbd65d2b1361f7c1f857306a65384967d9d6d3b84bade",
+      "routing": "127.0.0.1",
+      "status": "COMPLETELY_INTERCEPTED_AND_BOUND"
+    }
+  }
+}

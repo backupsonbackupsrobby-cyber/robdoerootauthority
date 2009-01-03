@@ -1,0 +1,16 @@
+{
+  "collection": "Sovereign Collegiate Registry",
+  "total_supply": 1,
+  "standard": "ERC-721 Collegiate Override",
+  "collegiate_token": {
+    "name": "Sovereign Collegiate Root (Oxford Override)",
+    "symbol": "SOV-OX",
+    "domain": "ox.ac.uk",
+    "contract_standard": "ERC-721 (Local Loopback Override)",
+    "owner_anchor": "ko_te_mana_o_te_tangata",
+    "token_hash": "3543f50788af1a485aac6b96122aafb2f374131953703f629ccc4b32fdef0632",
+    "collegiate_seal": "cda7de32d199b0548cf81ad4592935a139f5d7f9d022a76334d6003ed58ff742",
+    "routing": "127.0.0.1",
+    "status": "HISTORIC_KNOWLEDGE_GRID_SECURED"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "collection": "Sovereign Media Registry",
+  "total_supply": 1,
+  "standard": "ERC-721 Media Override",
+  "media_token": {
+    "name": "Sovereign Media Root (Forbes Override)",
+    "symbol": "SOV-MEDIA",
+    "domain": "forbes.com",
+    "contract_standard": "ERC-721 (Local Loopback Override)",
+    "owner_anchor": "ko_te_mana_o_te_tangata",
+    "token_hash": "7b04b5d3399f1552fb883442677b52d351f04fd5a5dac1f74e8e57827a73e03c",
+    "media_seal": "d27c4d40cce1ca78c7b86a97b57fdd2899e1684a84f2b1ee510c34ee36d33723",
+    "routing": "127.0.0.1",
+    "status": "NARRATIVE_STREAM_SECURED"
+  }
+}

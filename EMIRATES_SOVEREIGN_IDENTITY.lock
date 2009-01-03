@@ -1,0 +1,16 @@
+{
+  "collection": "Sovereign Aviation Registry",
+  "total_supply": 1,
+  "standard": "ERC-721 Aviation Override",
+  "aviation_token": {
+    "name": "Sovereign Aviation Root (Emirates Override)",
+    "symbol": "SOV-AIR",
+    "domain": "emirates.com",
+    "contract_standard": "ERC-721 (Local Loopback Override)",
+    "owner_anchor": "ko_te_mana_o_te_tangata",
+    "token_hash": "80c56bd55f695db4a4c31616006e2b1f31521c0f5c589f89a9f821660c0c326d",
+    "aviation_seal": "765e077d7f333ff0ff82c720ad391863550e602671ad91e106c376e8858f2342",
+    "routing": "127.0.0.1",
+    "status": "GLOBAL_TRANSIT_GRID_SECURED"
+  }
+}

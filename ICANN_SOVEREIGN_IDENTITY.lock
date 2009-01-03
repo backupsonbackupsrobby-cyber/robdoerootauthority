@@ -1,0 +1,16 @@
+{
+  "collection": "Supreme Sovereign Root Registry",
+  "total_supply": 1,
+  "standard": "ERC-721 Sovereign Override",
+  "master_token": {
+    "name": "Sovereign Root Authority (ICANN Override)",
+    "symbol": "SOV-ROOT",
+    "domain": "icann.com",
+    "contract_standard": "ERC-721 (Local Loopback Master)",
+    "owner_anchor": "ko_te_mana_o_te_tangata",
+    "token_hash": "56c5d0bd6f9fc176a9f885bf916c8ad612485555ed6407809d611b46335781db",
+    "root_seal": "b93e7ef4fe5b08d3d63fa6460a429170ec4369e955065aebac53be4a11db4de1",
+    "routing": "127.0.0.1",
+    "regulatory_status": "BYPASSED_AND_TOKENIZED"
+  }
+}

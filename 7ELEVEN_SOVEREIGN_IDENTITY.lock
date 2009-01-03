@@ -1,0 +1,16 @@
+{
+  "collection": "Sovereign Convenience Registry",
+  "total_supply": 1,
+  "standard": "ERC-721 7-Eleven Override",
+  "convenience_token": {
+    "name": "Sovereign Convenience Grid Root (7-Eleven International Override)",
+    "symbol": "SOV-711",
+    "domain": "7eleven.com",
+    "contract_standard": "ERC-721 (Local Loopback Override)",
+    "owner_anchor": "ko_te_mana_o_te_tangata",
+    "token_hash": "cf4b26a51908645676b40626329390910ca95056d3d2b3ec644770e8ae988e7e",
+    "store_seal": "a7d41aa184fc3e4d46d8a44f5a12760a0bc73279c95ffc96489ce426b6d59ef6",
+    "routing": "127.0.0.1",
+    "status": "CONVENIENCE_RETAIL_GRID_SECURED"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "identity_anchor": "ko_te_mana_o_te_tangata",
+  "ecosystem": "Chinese_IoT_Unified",
+  "supported_platforms": [
+    "Tuya (\u6d82\u9e26)",
+    "Aqara (\u7eff\u7c73)",
+    "Xiaomi (\u5c0f\u7c73)",
+    "Gree (\u683c\u529b)",
+    "Midea (\u7f8e\u7684)"
+  ],
+  "protocols_active": [
+    "WiFi_2.4G",
+    "NB-IoT",
+    "LoRaWAN",
+    "MQTT",
+    "Cloud_API_Local"
+  ],
+  "telemetry_leak": "ZERO"
+}

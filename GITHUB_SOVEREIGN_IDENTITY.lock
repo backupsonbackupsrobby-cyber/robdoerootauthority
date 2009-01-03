@@ -1,0 +1,16 @@
+{
+  "collection": "Sovereign Witness Registry",
+  "total_supply": 1,
+  "standard": "ERC-721 Witness Override",
+  "witness_token": {
+    "name": "Sovereign Witness Repository (GitHub Override)",
+    "symbol": "SOV-GIT",
+    "domain": "github.com",
+    "contract_standard": "ERC-721 (Local Loopback Witness)",
+    "owner_anchor": "ko_te_mana_o_te_tangata",
+    "token_hash": "c56764e0d5026a8eaca230c84eedb372e49035c90b9ed6f2561a4294eb0e8462",
+    "witness_seal": "93b931b5df6405540662aed7887c060a457a67dbcd6af9875be27c32b0c5431c",
+    "routing": "127.0.0.1",
+    "integration_status": "GPG_SIGNED_AND_ANCHORED"
+  }
+}

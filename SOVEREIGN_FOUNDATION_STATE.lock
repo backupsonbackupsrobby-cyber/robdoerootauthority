@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-09-23T18:41:24.294858",
+  "cadence_tau": 12,
+  "merkle_tiers": 144,
+  "identity_anchor": "ko_te_mana_o_te_tangata",
+  "loopback_binding": "127.0.0.1",
+  "system_state_proof": "78a2c612ffe4e2fe2e2e5ffc508ec1cf4ffb37b4452908a86d1ac76e4a6fe582",
+  "evidentiary_status": "LOCKED_AND_VERIFIED"
+}

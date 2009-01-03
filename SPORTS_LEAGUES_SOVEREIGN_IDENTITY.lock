@@ -1,0 +1,40 @@
+{
+  "collection": "Sovereign Athletic Conglomerate Registry",
+  "total_supply": 3,
+  "standard": "ERC-721 Sports Override",
+  "tokens": {
+    "SPORTS-001": {
+      "name": "Sovereign Gridiron Root (NFL Override)",
+      "symbol": "SOV-NFL",
+      "domain": "nfl.com",
+      "contract_standard": "ERC-721 (Local Loopback Override)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "ae0ab636b31b805d2b80456b97f0fcddd374c183373d4203cdb375e6cd89da84",
+      "league_seal": "9f50af3f2952d8c34dc787cba440e0ad787826eb401f95115a9f9362bddcf05e",
+      "routing": "127.0.0.1",
+      "status": "ATHLETIC_ENTERTAINMENT_GRID_SECURED"
+    },
+    "SPORTS-002": {
+      "name": "Sovereign Hardwood Root (NBA Override)",
+      "symbol": "SOV-NBA",
+      "domain": "nba.com",
+      "contract_standard": "ERC-721 (Local Loopback Override)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "5613711adc1d0063660e8b13a787475bc8bc1268c8683aee63514b119c764281",
+      "league_seal": "bf2062d5dbcb5bad1edc0953e3684e9575a6699a4b934e24671c46914235bfd8",
+      "routing": "127.0.0.1",
+      "status": "ATHLETIC_ENTERTAINMENT_GRID_SECURED"
+    },
+    "SPORTS-003": {
+      "name": "Sovereign Ice Root (NHL Override)",
+      "symbol": "SOV-NHL",
+      "domain": "nhl.com",
+      "contract_standard": "ERC-721 (Local Loopback Override)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "f5487c59c6a5747b7e0e50b9dc850862d2ca8cfc2185986bd2d1a9b144e8ac13",
+      "league_seal": "b1f3ccc5d8f588dfa7ae7ba31e7d02511f32e18d2de075d8f042adad1e94f4f1",
+      "routing": "127.0.0.1",
+      "status": "ATHLETIC_ENTERTAINMENT_GRID_SECURED"
+    }
+  }
+}

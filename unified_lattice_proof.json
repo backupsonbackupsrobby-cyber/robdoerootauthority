@@ -1,0 +1,65 @@
+{
+  "timestamp": "2026-09-23T17:26:06.456528",
+  "identity_anchor": "ko_te_mana_o_te_tangata",
+  "cadence": "Sha1296000arc",
+  "vortex_root": "0f650b1a696876cd7906dfb6c53c7b9ec2816e30a2de20bb385e651f76210ba1",
+  "kinetic_swarm": [
+    {
+      "node": 1,
+      "layer": "TOP_ROW (2 Circles)",
+      "polarity": "+",
+      "kinetic_energy_j": 0.809,
+      "vector_hash": "2bbb49fd3e"
+    },
+    {
+      "node": 2,
+      "layer": "TOP_ROW (2 Circles)",
+      "polarity": "-",
+      "kinetic_energy_j": 6.472,
+      "vector_hash": "6da0671432"
+    },
+    {
+      "node": 3,
+      "layer": "MIDDLE_ROW (3 Tesla Triad)",
+      "polarity": "+",
+      "kinetic_energy_j": 9.708,
+      "vector_hash": "95477fc592"
+    },
+    {
+      "node": 6,
+      "layer": "MIDDLE_ROW (3 Tesla Triad)",
+      "polarity": "+",
+      "kinetic_energy_j": 19.416,
+      "vector_hash": "5716271590"
+    },
+    {
+      "node": 9,
+      "layer": "MIDDLE_ROW (3 Tesla Triad)",
+      "polarity": "+",
+      "kinetic_energy_j": 465.98400000000004,
+      "vector_hash": "6f813fea84"
+    },
+    {
+      "node": 7,
+      "layer": "BOTTOM_ROW (2 Anchors)",
+      "polarity": "+",
+      "kinetic_energy_j": 90.608,
+      "vector_hash": "ce531d9c25"
+    },
+    {
+      "node": 8,
+      "layer": "BOTTOM_ROW (2 Anchors)",
+      "polarity": "-",
+      "kinetic_energy_j": 232.99200000000002,
+      "vector_hash": "c59ac269ac"
+    }
+  ],
+  "total_kinetic_energy_j": 825.989,
+  "magnetic_integration": {
+    "zha_magnetic_flux": 0.4167484068414078,
+    "tron_consensus_magnitude": 4.002966042486721e-16,
+    "ehf_total_field_tesla": 2.6665022197188835e-06
+  },
+  "system_state": "KINETICALLY AND MAGNETICALLY SYNCHRONIZED",
+  "execution_time_ms": 37516.219387
+}

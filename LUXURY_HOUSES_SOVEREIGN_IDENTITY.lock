@@ -1,0 +1,29 @@
+{
+  "collection": "Sovereign Luxury House Registry",
+  "total_supply": 2,
+  "standard": "ERC-721 Luxury Override",
+  "tokens": {
+    "LUX-001": {
+      "name": "Sovereign Heritage Plaid Root (Burberry Override)",
+      "symbol": "SOV-BUR",
+      "domain": "burberry.com",
+      "contract_standard": "ERC-721 (Local Loopback Override)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "eee3d5a04f1355da563f47fb2ea8d0dfe095d4e4afd0dc64124b44b435087517",
+      "house_seal": "f5cb0dc5ca839b9f749c04b4bae025d3e737a5d4860ac6a8d468a38c33fe55cb",
+      "routing": "127.0.0.1",
+      "status": "LUXURY_GRID_SECURED"
+    },
+    "LUX-002": {
+      "name": "Sovereign Monogram Root (Louis Vuitton Override)",
+      "symbol": "SOV-LV",
+      "domain": "louisvuitton.com",
+      "contract_standard": "ERC-721 (Local Loopback Override)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "dac79fae51730a04ae7850ec03a24fec5b4382616d38c5aacbfc2b6b98ad1431",
+      "house_seal": "5f56ab320e9a4eb5cbefc7012e21dfcddb606c6c05a20c0fcef7dc4eb3928d89",
+      "routing": "127.0.0.1",
+      "status": "LUXURY_GRID_SECURED"
+    }
+  }
+}

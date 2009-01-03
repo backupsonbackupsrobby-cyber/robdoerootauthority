@@ -1,0 +1,26 @@
+{
+  "identity_anchor": "ko_te_mana_o_te_tangata",
+  "resolver": "Local Loopback DNS",
+  "zones": {
+    "1.com": {
+      "ipv4": "127.0.0.1",
+      "status": "LOCAL_SOVEREIGN_BOUND",
+      "icann_bypass": true
+    },
+    "z.com": {
+      "ipv4": "127.0.0.1",
+      "status": "LOCAL_SOVEREIGN_BOUND",
+      "icann_bypass": true
+    },
+    "9.com": {
+      "ipv4": "127.0.0.1",
+      "status": "LOCAL_SOVEREIGN_BOUND",
+      "icann_bypass": true
+    },
+    "7.com": {
+      "ipv4": "127.0.0.1",
+      "status": "LOCAL_SOVEREIGN_BOUND",
+      "icann_bypass": true
+    }
+  }
+}

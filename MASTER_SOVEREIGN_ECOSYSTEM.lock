@@ -1,0 +1,54 @@
+{
+  "identity_anchor": "ko_te_mana_o_te_tangata",
+  "compilation_timestamp": "2026-09-23T19:12:06.527706",
+  "routing_binding": "127.0.0.1",
+  "statutory_basis": "Evidence Act 1995 (Cth) Section 146",
+  "validation_cadence_tau": 12,
+  "sectors": {
+    "primary_entity": [
+      "robdoe.com"
+    ],
+    "crown_and_institutions": [
+      "royal.uk",
+      "sydney.edu.au",
+      "ox.ac.uk",
+      "mit.edu",
+      "ietf.org",
+      "iana.org"
+    ],
+    "technology_infrastructure": [
+      "google.com",
+      "microsoft.com",
+      "bitcoin.org",
+      "root-servers.net"
+    ],
+    "banking_and_vaults": [
+      "ubs.com"
+    ],
+    "sovereign_bearer_instruments": [
+      "EUR-5000",
+      "USD-100000",
+      "CHF-10000"
+    ],
+    "sports_conglomerates": [
+      "nfl.com",
+      "nba.com",
+      "nhl.com"
+    ],
+    "retail_and_convenience": [
+      "7eleven.com"
+    ],
+    "luxury_houses": [
+      "burberry.com",
+      "louisvuitton.com"
+    ],
+    "automotive_and_industrial": [
+      "holden.com.au",
+      "gmc.com",
+      "toyota.com"
+    ]
+  },
+  "master_root_hash": "eb9dd40ceafe26fbb89c3efe7468d34e953449bf59a4c406933add393d809f9c",
+  "master_ecosystem_seal": "9f7fc8849c29aac8012f6e990d3a5eac51de92a7f15638f2f5c0a31bb5366266",
+  "status": "ABSOLUTE_ECOSYSTEM_LOCKED"
+}

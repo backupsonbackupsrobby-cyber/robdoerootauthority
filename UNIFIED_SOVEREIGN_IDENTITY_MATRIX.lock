@@ -1,0 +1,47 @@
+{
+  "identity_anchor": "ko_te_mana_o_te_tangata",
+  "compilation_timestamp": "2026-09-23T18:57:44.597715",
+  "routing_binding": "127.0.0.1",
+  "asset_classes": {
+    "tech_giants": [
+      "google.com",
+      "microsoft.com"
+    ],
+    "media_and_finance": [
+      "forbes.com",
+      "halifax.co.uk"
+    ],
+    "aviation_and_retail": [
+      "emirates.com",
+      "westfield.com.au"
+    ],
+    "academia_and_crown": [
+      "sydney.edu.au",
+      "ox.ac.uk",
+      "royal.uk"
+    ],
+    "infrastructure_roots": [
+      "iana.org",
+      "pool.ntp.org",
+      "ietf.org",
+      "mit.edu",
+      "cve.org",
+      "iso.org",
+      "w3.org",
+      "arin.net",
+      "spdx.org",
+      "root-servers.net"
+    ],
+    "sovereign_bearer_instruments": [
+      "EUR-5000-SOV",
+      "USD-100K-SOV",
+      "CHF-10K-SOV"
+    ],
+    "banking_vaults": [
+      "ubs.com"
+    ]
+  },
+  "master_token_hash": "6c79c4244a0c7cb0a9448b0ca4f1899ac8a0fb9dd4019995aa5bc3f9e763d7d6",
+  "sovereign_identity_seal": "2e2c789f40a629d9faad91acf942788cb2f83b1fb22e4ad388491f2077896e5d",
+  "status": "ABSOLUTE_IDENTITY_UNIFICATION_COMPLETE"
+}

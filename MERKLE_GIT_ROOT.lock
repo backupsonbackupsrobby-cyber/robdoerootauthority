@@ -1,0 +1,10 @@
+{
+  "identity_anchor": "ko_te_mana_o_te_tangata",
+  "cadence_tier": 0.052,
+  "merkle_leaves_count": 37,
+  "merkle_root_hash": "8a9705fad8e6cfc252c9c2237729a83179943d737e761c7caffec1c509f36654",
+  "final_hex_sha": "12a16d48bd07fa3335dd53d1927ce67082132121f0c5d07f88fed3ca4ebb272d",
+  "git_tag": "sov-root-12a16d48bd07",
+  "routing": "127.0.0.1",
+  "statutory_basis": "Evidence Act 1995 (Cth) Section 146"
+}

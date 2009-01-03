@@ -1,0 +1,29 @@
+{
+  "collection": "Sovereign Automotive Registry",
+  "total_supply": 2,
+  "standard": "ERC-721 Automotive Override",
+  "tokens": {
+    "AUTO-001": {
+      "name": "Sovereign Lion Root (Holden Australian Override)",
+      "symbol": "SOV-HLD",
+      "domain": "holden.com.au",
+      "contract_standard": "ERC-721 (Local Loopback Override)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "cdea6e9f65599180075d50437977e851d9d3c914fb585d9faf1508b63091f027",
+      "brand_seal": "869738cbdbcaa019349290d9afa34f4c166816dc59900a546f9eee17d0fa60de",
+      "routing": "127.0.0.1",
+      "status": "AUTOMOTIVE_GRID_SECURED"
+    },
+    "AUTO-002": {
+      "name": "Sovereign Professional Grade Root (GMC Utility Override)",
+      "symbol": "SOV-GMC",
+      "domain": "gmc.com",
+      "contract_standard": "ERC-721 (Local Loopback Override)",
+      "owner_anchor": "ko_te_mana_o_te_tangata",
+      "token_hash": "240f83e3eacf12835019fb69651cf2c0793a1c4a1fb1ac3120eed92a739ddbc6",
+      "brand_seal": "33ac41110e9f1277d640c14c69114598d82793a30e8b55a2c5db2160d6f3e45f",
+      "routing": "127.0.0.1",
+      "status": "AUTOMOTIVE_GRID_SECURED"
+    }
+  }
+}

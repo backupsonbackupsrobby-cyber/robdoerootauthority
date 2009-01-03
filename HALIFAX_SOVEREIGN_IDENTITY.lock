@@ -1,0 +1,16 @@
+{
+  "collection": "Sovereign Financial Registry",
+  "total_supply": 1,
+  "standard": "ERC-721 Financial Override",
+  "financial_token": {
+    "name": "Sovereign Financial Root (Halifax Override)",
+    "symbol": "SOV-FIN",
+    "domain": "halifax.co.uk",
+    "contract_standard": "ERC-721 (Local Loopback Override)",
+    "owner_anchor": "ko_te_mana_o_te_tangata",
+    "token_hash": "1bb7a5b921f5de8455d73c95bea55fe2b253d728c0f7a3e65cbafcac8ea45c52",
+    "bank_seal": "f3bf6b6cf94f05153dca1f4f1e34c99e6f3af936eaaf0b6765d89f0654840350",
+    "routing": "127.0.0.1",
+    "status": "VAULT_GRID_SECURED"
+  }
+}

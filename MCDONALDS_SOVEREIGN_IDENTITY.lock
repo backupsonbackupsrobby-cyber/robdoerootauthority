@@ -1,0 +1,16 @@
+{
+  "collection": "Sovereign Commercial Registry",
+  "total_supply": 1,
+  "standard": "ERC-721 Commercial Override",
+  "commercial_token": {
+    "name": "Sovereign Commercial Root (McDonalds Override)",
+    "symbol": "SOV-COMM",
+    "domain": "mcdonalds.com",
+    "contract_standard": "ERC-721 (Local Loopback Override)",
+    "owner_anchor": "ko_te_mana_o_te_tangata",
+    "token_hash": "c005b0aba935cb736fae3decc5d4f8f92df6f063a9aa5b201b2879d0d31c85e7",
+    "commercial_seal": "82bb9fb47533a2acd1d03cce1117602ae586ef205826c1d560bab77931a6f16c",
+    "routing": "127.0.0.1",
+    "status": "FRANCHISE_GRID_SECURED"
+  }
+}

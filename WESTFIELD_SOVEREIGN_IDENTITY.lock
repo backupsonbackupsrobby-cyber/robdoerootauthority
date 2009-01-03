@@ -1,0 +1,16 @@
+{
+  "collection": "Sovereign Property Registry",
+  "total_supply": 1,
+  "standard": "ERC-721 Property Override",
+  "property_token": {
+    "name": "Sovereign Retail Property Root (Westfield Override)",
+    "symbol": "SOV-PROP",
+    "domain": "westfield.com.au",
+    "contract_standard": "ERC-721 (Local Loopback Override)",
+    "owner_anchor": "ko_te_mana_o_te_tangata",
+    "token_hash": "10ef6367cfb5f70b954160acea2a982051d253761ab21e3867b71879207b98c3",
+    "property_seal": "ccb826ddb40622a0daaa5b47fa0a7b7f038cba4d32e93028e0c2e91cebd1d3cf",
+    "routing": "127.0.0.1",
+    "status": "DOMESTIC_RETAIL_GRID_SECURED"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "collection": "Sovereign Constitutional Registry",
+  "total_supply": 1,
+  "standard": "ERC-721 Constitutional Override",
+  "crown_token": {
+    "name": "Sovereign Crown Estate Root (Royal Household Override)",
+    "symbol": "SOV-CROWN",
+    "domain": "royal.uk",
+    "contract_standard": "ERC-721 (Local Loopback Override)",
+    "owner_anchor": "ko_te_mana_o_te_tangata",
+    "token_hash": "7130d98fca8a3ca967f7fd927d58d3030312f45623a9ac8c10f6fcd81bc498df",
+    "crown_seal": "da19d7125db062d6406e081a0f1b7fce071b66bf03f850c9ac38be3c5985070c",
+    "routing": "127.0.0.1",
+    "status": "CONSTITUTIONAL_GRID_SECURED"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "timestamp": "2026-09-23T17:32:02.303195",
+  "anchor": "ko_te_mana_o_te_tangata",
+  "cadence": "Sha1296000arc",
+  "active_states": {
+    "Living_Room_Lighting (Node 3)": {
+      "node_id": 3,
+      "phase_deg": 255,
+      "amplitude_pct": 65.54,
+      "polarity": "-",
+      "vector_hash": "d2c283290c58"
+    },
+    "Climate_Gree_AC (Node 6)": {
+      "node_id": 6,
+      "phase_deg": 150,
+      "amplitude_pct": 23.34,
+      "polarity": "-",
+      "vector_hash": "a32f35e6dc8f"
+    },
+    "Security_Perimeter (Node 9)": {
+      "node_id": 9,
+      "phase_deg": 45,
+      "amplitude_pct": 24.11,
+      "polarity": "+",
+      "vector_hash": "e3c06c14eb22"
+    },
+    "Ambient_Gateway (Node 1)": {
+      "node_id": 1,
+      "phase_deg": 205,
+      "amplitude_pct": 59.41,
+      "polarity": "-",
+      "vector_hash": "88efd1831439"
+    }
+  },
+  "system_status": "MATHEMATICALLY_GOVERNED"
+}

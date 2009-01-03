@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-09-23T17:35:59.494443",
+  "identity_anchor": "ko_te_mana_o_te_tangata",
+  "cadence": "Sha1296000arc",
+  "local_interface": "127.0.0.1",
+  "privacy_status": "MASKED_AND_AIR_GAPPED",
+  "master_merkle_seal": "c776f0612559d96a28ab55645e4f408614eef7a7e80566bf61e3417379bab52c",
+  "execution_latency_ms": 11.211923
+}

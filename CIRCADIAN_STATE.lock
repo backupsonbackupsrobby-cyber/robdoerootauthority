@@ -1,0 +1,11 @@
+{
+  "identity_anchor": "ko_te_mana_o_te_tangata",
+  "timestamp": "2026-09-23T17:53:56.247073",
+  "circadian_phase": {
+    "phase": "Evening Wind Down",
+    "cortisol": "Declining",
+    "energy": "Declining",
+    "intent": "Planning/Light",
+    "freq_hz": 10.0
+  }
+}

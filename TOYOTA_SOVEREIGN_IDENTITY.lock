@@ -1,0 +1,16 @@
+{
+  "collection": "Sovereign Industrial Manufacturing Registry",
+  "total_supply": 1,
+  "standard": "ERC-721 Toyota Override",
+  "toyota_token": {
+    "name": "Sovereign Industrial Manufacturing Root (Toyota Motor Override)",
+    "symbol": "SOV-TOY",
+    "domain": "toyota.com",
+    "contract_standard": "ERC-721 (Local Loopback Override)",
+    "owner_anchor": "ko_te_mana_o_te_tangata",
+    "token_hash": "1fdf20a1a8ec9d480808b06d5ab2c043405c960e7a80699175487d3e4de5366d",
+    "industrial_seal": "c9cbd459e2600bb93552fb02231eaf9b101a9fa9a0c1fbd868206916f8dd672c",
+    "routing": "127.0.0.1",
+    "status": "GLOBAL_MANUFACTURING_GRID_SECURED"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "identity_anchor": "ko_te_mana_o_te_tangata",
+  "binding_policy": "LOCALHOST_ONLY_127_0_0_1",
+  "public_access": "FORBIDDEN",
+  "ports": {
+    "tenetaiagency-101": {
+      "port": 8000,
+      "bind": "127.0.0.1"
+    },
+    "ultimate-engine": {
+      "port": 3000,
+      "bind": "127.0.0.1"
+    },
+    "engine-365-days": {
+      "port": 8080,
+      "bind": "127.0.0.1"
+    },
+    "restricted-aichatbot-trader": {
+      "port": 5000,
+      "bind": "127.0.0.1"
+    },
+    "postgresql": {
+      "port": 5432,
+      "bind": "127.0.0.1"
+    },
+    "redis": {
+      "port": 6379,
+      "bind": "127.0.0.1"
+    },
+    "vault": {
+      "port": 8200,
+      "bind": "127.0.0.1"
+    },
+    "smart_home_api": {
+      "port": 9000,
+      "bind": "127.0.0.1"
+    },
+    "prometheus": {
+      "port": 9090,
+      "bind": "127.0.0.1"
+    },
+    "grafana": {
+      "port": 3000,
+      "bind": "127.0.0.1"
+    },
+    "ehf_dashboard": {
+      "port": 9001,
+      "bind": "127.0.0.1"
+    }
+  }
+}
