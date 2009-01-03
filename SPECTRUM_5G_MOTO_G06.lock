@@ -1,0 +1,17 @@
+{
+  "collection": "Sovereign Wireless Spectrum Registry",
+  "total_supply": 1,
+  "standard": "ERC-721 5G Spectrum / Moto G06 Bind",
+  "spectrum_token": {
+    "name": "Sovereign 5G Wireless Spectrum & RAN Architecture Root",
+    "symbol": "SOV-5G",
+    "domain": "5g.spectrum.root",
+    "hardware_anchor": "Moto G06 (Termux Local Loopback)",
+    "contract_standard": "ERC-721 (Local Loopback Override)",
+    "owner_anchor": "ko_te_mana_o_te_tangata",
+    "token_hash": "4cb861920f9a99358c8caaef4ae4b7aa9bb3cde33273cddea63d514d4e3305c1",
+    "spectrum_seal": "f64903bd5eb259c55e64b507512c6178f8eafa95269fde74cdb8f6a6f600bc2c",
+    "routing": "127.0.0.1",
+    "status": "5G_SPECTRUM_BOUND_TO_DEVICE"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "collection": "Sovereign Aerospace & Space Registry",
+  "total_supply": 1,
+  "standard": "ERC-721 NASA / Moto G06 Bind",
+  "nasa_token": {
+    "name": "Sovereign Aerospace & Space Exploration Root (NASA Override)",
+    "symbol": "SOV-NASA",
+    "domain": "nasa.gov",
+    "hardware_anchor": "Moto G06 (Termux Local Loopback)",
+    "contract_standard": "ERC-721 (Local Loopback Override)",
+    "owner_anchor": "ko_te_mana_o_te_tangata",
+    "token_hash": "5f2a48a230742b5f4cb61ac6a9541eb588bdaf2a83c0edaa4defe1ab02523f21",
+    "aerospace_seal": "77a8a88626c682419666fb49b7e6df93de6a31cf493f8aad3092a330fb9a3a33",
+    "routing": "127.0.0.1",
+    "status": "ORBITAL_TELEMETRY_BOUND_TO_DEVICE"
+  }
+}

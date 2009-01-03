@@ -1,0 +1,10 @@
+{
+  "identity_anchor": "ko_te_mana_o_te_tangata",
+  "cadence_tier": 0.052,
+  "upstream_merkle_root": "5c3ed4cddad92df71bbaf169bed8cfe7c68877ec827e9a77b8bf4554e4053b88",
+  "upstream_hex_signature": "915c3cac6b18b277ca2c52afffab798bf4cd08f654fdc5a88440bb266a2b72ea",
+  "upstream_git_tag": "sov-upstream-915c3cac6b18",
+  "routing": "127.0.0.1",
+  "statutory_basis": "Evidence Act 1995 (Cth) Section 146",
+  "status": "READY_FOR_UPSTREAM_TRANSMISSION"
+}

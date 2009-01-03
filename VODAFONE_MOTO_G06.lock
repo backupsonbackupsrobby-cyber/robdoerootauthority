@@ -1,0 +1,17 @@
+{
+  "collection": "Sovereign Telecommunications Registry",
+  "total_supply": 1,
+  "standard": "ERC-721 Vodafone / Moto G06 Bind",
+  "vodafone_token": {
+    "name": "Sovereign Cellular Infrastructure Root (Vodafone Australia Override)",
+    "symbol": "SOV-VOF",
+    "domain": "vodafone.com.au",
+    "hardware_anchor": "Moto G06 (Termux Local Loopback)",
+    "contract_standard": "ERC-721 (Local Loopback Override)",
+    "owner_anchor": "ko_te_mana_o_te_tangata",
+    "token_hash": "9dbcbbbd5e4255f67fd130bc48ec63a7e24b9e53a9083465bc44085a8e669f64",
+    "telco_seal": "60ff9769a7922aacae266da063c297e3f4d3a66ca7621c9e13932fd5c6a33bc4",
+    "routing": "127.0.0.1",
+    "status": "CELLULAR_GRID_BOUND_TO_DEVICE"
+  }
+}
