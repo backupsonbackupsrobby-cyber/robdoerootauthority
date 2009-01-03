@@ -1,0 +1,106 @@
+{
+  "contract_standard": "ERC-721 Motorsport & Telemetry Sovereign Vault",
+  "token_id": "SOV-F1-VAULT-001",
+  "name": "RobDoe Formula 1 Motorsport & Telemetry Allodial Vault",
+  "symbol": "SOV-F1",
+  "holder_anchor": "ko_te_mana_o_te_tangata",
+  "hardware_node": "Moto G06 (Termux Local Loopback)",
+  "f1_merkle_root": "0fc7559b096b7a72ed4ed17dead898256a8d40a84764fea7522b9d5a0bde8979",
+  "total_nodes": 15,
+  "assets": [
+    {
+      "index": 1,
+      "node": "f1.fia.apex.root",
+      "token_id": "F1-001",
+      "asset_seal": "d98a14a034958eacfe72c209443370b5ff8901ea219110330bc9d6d482d39cd3"
+    },
+    {
+      "index": 2,
+      "node": "formula1.telemetry.root",
+      "token_id": "F1-002",
+      "asset_seal": "b6cb9da7c48c29fbb402ea61881dd54595e94a9d4ba86b38f78ce3832c80c714"
+    },
+    {
+      "index": 3,
+      "node": "aerodynamic.windtunnel.root",
+      "token_id": "F1-003",
+      "asset_seal": "f7f2aa82540ed10c87aa0b0b877466bd4821a40ac89be5c3565c2f2a68a0d716"
+    },
+    {
+      "index": 4,
+      "node": "v6.turbo.hybrid.root",
+      "token_id": "F1-004",
+      "asset_seal": "e06451d0e9a6911ff674772a58b94498acdbc061bba0127546f366fbdefdb644"
+    },
+    {
+      "index": 5,
+      "node": "monaco.circuit.root",
+      "token_id": "F1-005",
+      "asset_seal": "c4ac89692073802a1abef29dd65e871603ee58c998efef8e70e11d12840b4c38"
+    },
+    {
+      "index": 6,
+      "node": "silverstone.circuit.root",
+      "token_id": "F1-006",
+      "asset_seal": "f302221ac865083c1610bedfb365e0945a1ccf5a7310849cf6af4b39260d457a"
+    },
+    {
+      "index": 7,
+      "node": "melbourne.albert.park.root",
+      "token_id": "F1-007",
+      "asset_seal": "a0e8e80701284b5fc640de11b14b5f5d9968842b96b58f3953bbeb5d4f7b90c9"
+    },
+    {
+      "index": 8,
+      "node": "monza.circuit.root",
+      "token_id": "F1-008",
+      "asset_seal": "5a3e9d419dc722e539aedaa431528fbead04c310dda4a24b30a15f4cee003bbb"
+    },
+    {
+      "index": 9,
+      "node": "scuderia.ferrari.root",
+      "token_id": "F1-009",
+      "asset_seal": "154b1b3c194a48b2f8925c1727f251d8858a9dd7e09be54689aaf63c251e7951"
+    },
+    {
+      "index": 10,
+      "node": "redbull.racing.root",
+      "token_id": "F1-010",
+      "asset_seal": "50299f98e444f661c122d2df6e3051a6d170aa208cb3e7467ea88779c7239811"
+    },
+    {
+      "index": 11,
+      "node": "mercedes.amg.root",
+      "token_id": "F1-011",
+      "asset_seal": "f1cba5c8cbec82b6356044ddc37bafc24b53fb51165e26f1894d0cc24f5b0878"
+    },
+    {
+      "index": 12,
+      "node": "mclaren.racing.root",
+      "token_id": "F1-012",
+      "asset_seal": "961d4901ba86bb7e25307dd4f54960370dd60a1a6a5a5f377ac4f632b134862f"
+    },
+    {
+      "index": 13,
+      "node": "pitlane.strategy.root",
+      "token_id": "F1-013",
+      "asset_seal": "13164e7e4075d5cd9684802f67c1c7017e8617a66c9b7dfa55c620ae4df93912"
+    },
+    {
+      "index": 14,
+      "node": "pirelli.tire.matrix.root",
+      "token_id": "F1-014",
+      "asset_seal": "88c84291e3f4ddc517d0d3d3ac812d4e48d2189adfb4e2aedffe1d2fdf099370"
+    },
+    {
+      "index": 15,
+      "node": "highspeed.data.stream.root",
+      "token_id": "F1-015",
+      "asset_seal": "baac4f3b8a9683269cbabf625c9afe95f738832932b18448fc0eaad34297cf8e"
+    }
+  ],
+  "routing": "127.0.0.1",
+  "cadence_tier": 0.052,
+  "statutory_basis": "Evidence Act 1995 (Cth) Section 146 & High-Velocity Telemetry Rights",
+  "status": "FORMULA_1_GRID_AND_TELEMETRY_LOCKED"
+}

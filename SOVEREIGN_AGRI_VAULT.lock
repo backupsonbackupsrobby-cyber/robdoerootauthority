@@ -1,0 +1,191 @@
+{
+  "contract_standard": "ERC-721 Agricultural & Viticultural Vault",
+  "token_id": "SOV-AGRI-VAULT-001",
+  "name": "RobDoe Dairy, Wine & Land Allodial Vault",
+  "symbol": "SOV-AGRI",
+  "holder_anchor": "ko_te_mana_o_te_tangata",
+  "hardware_node": "Moto G06 (Termux Local Loopback)",
+  "agri_merkle_root": "b0cdc38285255e235bb86051e516a6c69f950689703d0adac548b7e5ce29d409",
+  "total_assets": 25,
+  "assets": [
+    {
+      "index": 1,
+      "sector": "Premier Wine Estates & Vineyards",
+      "asset": "penfolds.root",
+      "token_id": "AGRI-001",
+      "asset_seal": "b6ed1436b0de810365b5208f2bd4e4073d33b839c3adb9a9c1c5d332becd1bb5"
+    },
+    {
+      "index": 2,
+      "sector": "Premier Wine Estates & Vineyards",
+      "asset": "domaineromanee-conti.root",
+      "token_id": "AGRI-002",
+      "asset_seal": "af1ad07c28f024d1ac6feacab5c1bff8e8634b8ad607b545759834e3eb59bc36"
+    },
+    {
+      "index": 3,
+      "sector": "Premier Wine Estates & Vineyards",
+      "asset": "chateaumargot.root",
+      "token_id": "AGRI-003",
+      "asset_seal": "4e49d0e4e0da34ee5f5cd0a70adc1b3c1de5077265f3b55cfab692b11109aa01"
+    },
+    {
+      "index": 4,
+      "sector": "Premier Wine Estates & Vineyards",
+      "asset": "moet.root",
+      "token_id": "AGRI-004",
+      "asset_seal": "db57621ba1f4d305af3c566f344e4a3df1b3ee600393ddd553ea15f76c369d7e"
+    },
+    {
+      "index": 5,
+      "sector": "Premier Wine Estates & Vineyards",
+      "asset": "veuveclicquot.root",
+      "token_id": "AGRI-005",
+      "asset_seal": "9f12fd03193d1b39c36cdcd5b22c6034725f384c8671a6fe0857d4a74b97d151"
+    },
+    {
+      "index": 6,
+      "sector": "Premier Wine Estates & Vineyards",
+      "asset": "cloudybay.root",
+      "token_id": "AGRI-006",
+      "asset_seal": "d69749136df319664f9034d7959c99c2ef8a4aeca8fb217c443247b6f18ae40a"
+    },
+    {
+      "index": 7,
+      "sector": "Premier Wine Estates & Vineyards",
+      "asset": "henschke.root",
+      "token_id": "AGRI-007",
+      "asset_seal": "ca890272d21d7783822882b3a7ccfe33e70d5cc03bb16fba436a81aba92c62f3"
+    },
+    {
+      "index": 8,
+      "sector": "Premier Wine Estates & Vineyards",
+      "asset": "cabsav.vineyard.root",
+      "token_id": "AGRI-008",
+      "asset_seal": "31cf74141d562ca1beda6783e8aabc572b83bb92fc625896edaeecb00a367ee3"
+    },
+    {
+      "index": 9,
+      "sector": "Premier Wine Estates & Vineyards",
+      "asset": "chardonnay.block.root",
+      "token_id": "AGRI-009",
+      "asset_seal": "8f82e8277f4ac41052229b3b25b3657b07448f6dd30430b1116e737bf6543e6c"
+    },
+    {
+      "index": 10,
+      "sector": "Premier Wine Estates & Vineyards",
+      "asset": "barossa.terroir.root",
+      "token_id": "AGRI-010",
+      "asset_seal": "be7514c7fb46360d1a7a5082de388bba216b39a2d01ce5c8e39594b6d58f519a"
+    },
+    {
+      "index": 11,
+      "sector": "Dairy Processing & Milk Quota Nodes",
+      "asset": "fonterra.root",
+      "token_id": "AGRI-011",
+      "asset_seal": "02b9fb4687b0e9984a4e9ba0300cc02f10492ca8fc3486a54d314ce3faf3d0aa"
+    },
+    {
+      "index": 12,
+      "sector": "Dairy Processing & Milk Quota Nodes",
+      "asset": "synlait.root",
+      "token_id": "AGRI-012",
+      "asset_seal": "17efeb8ad18f3037335e40bc94d662a95394b5ada48f5b8f2d4a8414ebb4a2d0"
+    },
+    {
+      "index": 13,
+      "sector": "Dairy Processing & Milk Quota Nodes",
+      "asset": "bega.dairy.root",
+      "token_id": "AGRI-013",
+      "asset_seal": "d6d589c6a2af4080a02d6a4e1fa80613b8f66a56f67e8ca12768fde196a07868"
+    },
+    {
+      "index": 14,
+      "sector": "Dairy Processing & Milk Quota Nodes",
+      "asset": "saputo.root",
+      "token_id": "AGRI-014",
+      "asset_seal": "a493960e2893cf4c8580e2a462ffe3ed875ec2d081361473c2f0e4944a2ed7d2"
+    },
+    {
+      "index": 15,
+      "sector": "Dairy Processing & Milk Quota Nodes",
+      "asset": "lactalis.root",
+      "token_id": "AGRI-015",
+      "asset_seal": "52af7268e4b80d64e297bfcd7f19b84d3ad4f952789ad4e09d62ab84b9b2b175"
+    },
+    {
+      "index": 16,
+      "sector": "Dairy Processing & Milk Quota Nodes",
+      "asset": "danone.root",
+      "token_id": "AGRI-016",
+      "asset_seal": "9d89e5af1ae31a6a8afdcc093f700dffe91fcac33d81e2ebec4c4bda50fd5f5e"
+    },
+    {
+      "index": 17,
+      "sector": "Dairy Processing & Milk Quota Nodes",
+      "asset": "nestle.dairy.root",
+      "token_id": "AGRI-017",
+      "asset_seal": "025e920cf1ccc8826c55d12b687ce327f27580faa0f98d9da3e0e2a200619263"
+    },
+    {
+      "index": 18,
+      "sector": "Dairy Processing & Milk Quota Nodes",
+      "asset": "milk.shed.root",
+      "token_id": "AGRI-018",
+      "asset_seal": "353a16678ee69d3a907376446bb9e49ee07979444367fe75d867e3c30d439c49"
+    },
+    {
+      "index": 19,
+      "sector": "Dairy Processing & Milk Quota Nodes",
+      "asset": "coldchain.logistics.root",
+      "token_id": "AGRI-019",
+      "asset_seal": "95755d8b4f20cebc2d13527305c34329fe78f31c2ec6b259c6a2623662220a74"
+    },
+    {
+      "index": 20,
+      "sector": "Dairy Processing & Milk Quota Nodes",
+      "asset": "raw.milk.pool.root",
+      "token_id": "AGRI-020",
+      "asset_seal": "141a11a2e9e34ca09b26d63411fba739185cea6832f5605ec1e9fb0e0182728f"
+    },
+    {
+      "index": 21,
+      "sector": "Agricultural Water & Land Allodial Rights",
+      "asset": "water.rights.murray.darling.root",
+      "token_id": "AGRI-021",
+      "asset_seal": "43673da5c554ed8decfbae41e7b7fcea2debfce736021789fa944ff802fb8845"
+    },
+    {
+      "index": 22,
+      "sector": "Agricultural Water & Land Allodial Rights",
+      "asset": "aquifer.allocation.root",
+      "token_id": "AGRI-022",
+      "asset_seal": "9eedab70954708997f9ca23c2fc4f9377783eb0f7338aac01b53e5b00361fd62"
+    },
+    {
+      "index": 23,
+      "sector": "Agricultural Water & Land Allodial Rights",
+      "asset": "soil.carbon.credit.root",
+      "token_id": "AGRI-023",
+      "asset_seal": "003bfa6b731885e61726a6a67f21e6c97353c814bb5363e17ab6c5723897b066"
+    },
+    {
+      "index": 24,
+      "sector": "Agricultural Water & Land Allodial Rights",
+      "asset": "land.title.freehold.root",
+      "token_id": "AGRI-024",
+      "asset_seal": "67280551bbeca1f4cfbd421cc4a981a557165ae724659a69ed057a3fa87fe90a"
+    },
+    {
+      "index": 25,
+      "sector": "Agricultural Water & Land Allodial Rights",
+      "asset": "pasture.biomass.root",
+      "token_id": "AGRI-025",
+      "asset_seal": "0ed06639e6df8f0169450d60aa0182c25ec8e009d413786ee0931f66c31fb114"
+    }
+  ],
+  "routing": "127.0.0.1",
+  "cadence_tier": 0.052,
+  "statutory_basis": "Evidence Act 1995 (Cth) Section 146 & Agrarian Allodial Title",
+  "status": "DAIRY_AND_VINE_MATRIX_LOCKED"
+}

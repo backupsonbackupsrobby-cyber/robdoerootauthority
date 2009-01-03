@@ -1,0 +1,106 @@
+{
+  "contract_standard": "ERC-721 Optical & Visual Registry Vault",
+  "token_id": "SOV-IMAGING-VAULT-001",
+  "name": "RobDoe Kodak & Canon Optical & Imaging Allodial Vault",
+  "symbol": "SOV-OPT",
+  "holder_anchor": "ko_te_mana_o_te_tangata",
+  "hardware_node": "Moto G06 (Termux Local Loopback)",
+  "imaging_merkle_root": "e09f65f22ffd985697bc51f9bc091bc365884b25949e5bec0bc8c1d59569bd6f",
+  "total_nodes": 15,
+  "assets": [
+    {
+      "index": 1,
+      "node": "kodak.imaging.root",
+      "token_id": "OPT-001",
+      "asset_seal": "69720097b11b31abd52a741eff4ba1a0fc982b3b51feeae85bdcd6e8bea001ee"
+    },
+    {
+      "index": 2,
+      "node": "eastman.archive.root",
+      "token_id": "OPT-002",
+      "asset_seal": "113655413c488b57bd8842476ce5d2e0e52377b84b6ffdc1d53af4c3c7870cbb"
+    },
+    {
+      "index": 3,
+      "node": "silver.halide.patent.root",
+      "token_id": "OPT-003",
+      "asset_seal": "30e53d5d8d600fe896882ed87163c4df3010a444ce93b7dfa3b7247410f81d19"
+    },
+    {
+      "index": 4,
+      "node": "kodachrome.heritage.root",
+      "token_id": "OPT-004",
+      "asset_seal": "b024b804d901f4151d7427041506432354872c4ceed65453a19eaefd86b37aa0"
+    },
+    {
+      "index": 5,
+      "node": "canon.optical.root",
+      "token_id": "OPT-005",
+      "asset_seal": "e56ee453f1e0dbefffcdf6beee55d77454f48909f1f906d1aa88501d028da84d"
+    },
+    {
+      "index": 6,
+      "node": "ef.lens.mount.root",
+      "token_id": "OPT-006",
+      "asset_seal": "271e14b8242b8941252b8b4df0f4effefb6a7a73309e40920002934335e66411"
+    },
+    {
+      "index": 7,
+      "node": "rf.mount.sensor.root",
+      "token_id": "OPT-007",
+      "asset_seal": "01effcd2064889bffc77feb19231d80409b67fdc155342457abec9803f6dc22a"
+    },
+    {
+      "index": 8,
+      "node": "cmos.sensor.array.root",
+      "token_id": "OPT-008",
+      "asset_seal": "272178590ed6118f83bc405b04632186831bc7b81724e7a3e2fdc532c25a1e9c"
+    },
+    {
+      "index": 9,
+      "node": "cinema.eos.root",
+      "token_id": "OPT-009",
+      "asset_seal": "12a59479ac1aacda856f7828cf9b51f9a1759a642dd8c86bb66c2209a40406bb"
+    },
+    {
+      "index": 10,
+      "node": "optics.glass.formula.root",
+      "token_id": "OPT-010",
+      "asset_seal": "849c36f4ae0cf7b736ccfe9e52c83832f46a340a03bcd9ba906fa7e936f1997f"
+    },
+    {
+      "index": 11,
+      "node": "image.stabilization.root",
+      "token_id": "OPT-011",
+      "asset_seal": "8993d23180adb2507476a272dbc1cfc9627bbf2c4eaefeb047f125b80e8f4a2c"
+    },
+    {
+      "index": 12,
+      "node": "autofocus.matrix.root",
+      "token_id": "OPT-012",
+      "asset_seal": "489e164545124b0dd2be91ccc39628dd96598f7b2a87ba6b6158f58666a29a7d"
+    },
+    {
+      "index": 13,
+      "node": "visual.evidence.register.root",
+      "token_id": "OPT-013",
+      "asset_seal": "993fb8cecd419dff22a0ad835ce0700ffc3e15552511dd09dcba768531d8525f"
+    },
+    {
+      "index": 14,
+      "node": "shutter.speed.chronicle.root",
+      "token_id": "OPT-014",
+      "asset_seal": "f7ad16c7e3a95084f89afadf521bb4afb0644dc006562ab4f00cc7dd3fbdc5b3"
+    },
+    {
+      "index": 15,
+      "node": "analog.digital.bridge.root",
+      "token_id": "OPT-015",
+      "asset_seal": "8a274a9a303e0e345a9b30d7ffe32b642f7f0e041a537dcd4cec7cdd8a2fc925"
+    }
+  ],
+  "routing": "127.0.0.1",
+  "cadence_tier": 0.052,
+  "statutory_basis": "Evidence Act 1995 (Cth) Section 146 & Optical Evidentiary Rights",
+  "status": "OPTICAL_AND_VISUAL_REGISTRY_LOCKED"
+}

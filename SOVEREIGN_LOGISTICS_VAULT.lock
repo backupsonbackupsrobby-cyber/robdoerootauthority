@@ -1,0 +1,106 @@
+{
+  "contract_standard": "ERC-721 Urban Logistics & Delivery Sovereign Vault",
+  "token_id": "SOV-LOGISTICS-VAULT-001",
+  "name": "RobDoe Uber & Pizza Hut Logistics Allodial Vault",
+  "symbol": "SOV-LOG",
+  "holder_anchor": "ko_te_mana_o_te_tangata",
+  "hardware_node": "Moto G06 (Termux Local Loopback)",
+  "logistics_merkle_root": "3e2ecc32aafc7b187966fc67a92faa27e972dd1a389034a9ab34dac8d48153e0",
+  "total_nodes": 15,
+  "assets": [
+    {
+      "index": 1,
+      "node": "uber.mobility.root",
+      "token_id": "LOG-001",
+      "asset_seal": "74136b8b5059133ffa91005d64550f19deaf321b0799d566922ff626c8bbddc8"
+    },
+    {
+      "index": 2,
+      "node": "uber.eats.dispatch.root",
+      "token_id": "LOG-002",
+      "asset_seal": "d450b910e7c567320d3b6156828ba7a0fcfd70509f8485c70821c057954ca8e0"
+    },
+    {
+      "index": 3,
+      "node": "rideshare.algorithm.root",
+      "token_id": "LOG-003",
+      "asset_seal": "935daf5731a60b3dd232534ce0abdcdf0ee1f7bd2ef63e268ae2d8fd4cbd56ec"
+    },
+    {
+      "index": 4,
+      "node": "last.mile.courier.root",
+      "token_id": "LOG-004",
+      "asset_seal": "0006825636da1ab683597dcc6a2b1555936a09076c10ee2336ae9bce9351cd55"
+    },
+    {
+      "index": 5,
+      "node": "surge.pricing.matrix.root",
+      "token_id": "LOG-005",
+      "asset_seal": "391d38ec5292902e393c00b73527d3e8ce1f4faa06f90e88bf62b2b5105a559d"
+    },
+    {
+      "index": 6,
+      "node": "driver.fleet.node.root",
+      "token_id": "LOG-006",
+      "asset_seal": "04f1bc4e50baeecfef97fafbc85cd85c6497f03e0289650eddfee1f86cbe724b"
+    },
+    {
+      "index": 7,
+      "node": "global.gps.routing.root",
+      "token_id": "LOG-007",
+      "asset_seal": "aeaed23a45a9be358989b70f91cade7c6fca8b4eff743a705eee7fc14adcfa37"
+    },
+    {
+      "index": 8,
+      "node": "pizzahut.global.root",
+      "token_id": "LOG-008",
+      "asset_seal": "c879b70bd9189a31431777ec2bf167b49e15115915471e60397d25be2a3ac97d"
+    },
+    {
+      "index": 9,
+      "node": "dough.supply.chain.root",
+      "token_id": "LOG-009",
+      "asset_seal": "28e354b1cccbb9a417ba398f84e86d4a3a56387145f895b122f1241d4e8e6814"
+    },
+    {
+      "index": 10,
+      "node": "oven.thermal.profile.root",
+      "token_id": "LOG-010",
+      "asset_seal": "6ec9bbe730c16a98c9927e8f203b1eabd0a859bb18c3cf174ed19079944778d9"
+    },
+    {
+      "index": 11,
+      "node": "contactless.delivery.root",
+      "token_id": "LOG-011",
+      "asset_seal": "1ea9c02fdd29d171b4bd46bbe9c577960b65ff53d0071b75a2b2a8cfe1883c8d"
+    },
+    {
+      "index": 12,
+      "node": "franchise.pos.network.root",
+      "token_id": "LOG-012",
+      "asset_seal": "64c941d9571984513f930af73c17a91664de42db94a4b6c884794cf52f022519"
+    },
+    {
+      "index": 13,
+      "node": "urban.food.node.root",
+      "token_id": "LOG-013",
+      "asset_seal": "3b7bc383dd9e56136ac4c2206073abf1ac2c4c15d645da4c446ec3746c2c56e5"
+    },
+    {
+      "index": 14,
+      "node": "storefront.dispatch.root",
+      "token_id": "LOG-014",
+      "asset_seal": "faa26a5ae027b015b1b80b67ce6c401001f44315783a6bddeca356a1604a01fe"
+    },
+    {
+      "index": 15,
+      "node": "night.delivery.corridor.root",
+      "token_id": "LOG-015",
+      "asset_seal": "b75e5477006fca38c5bb61ecbddfa48fb8170eeac666e50633ebbdab0eb5e150"
+    }
+  ],
+  "routing": "127.0.0.1",
+  "cadence_tier": 0.052,
+  "statutory_basis": "Evidence Act 1995 (Cth) Section 146 & Last-Mile Dispatch Rights",
+  "status": "URBAN_LOGISTICS_AND_DELIVERY_LOCKED"
+}

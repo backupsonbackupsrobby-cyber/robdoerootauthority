@@ -1,0 +1,106 @@
+{
+  "contract_standard": "ERC-721 Aviation & Air-Freight Sovereign Vault",
+  "token_id": "SOV-QANTAS-VAULT-001",
+  "name": "RobDoe Qantas Aviation & Air-Corridor Allodial Vault",
+  "symbol": "SOV-QFS",
+  "holder_anchor": "ko_te_mana_o_te_tangata",
+  "hardware_node": "Moto G06 (Termux Local Loopback)",
+  "qantas_merkle_root": "19388a33c7fa534bebe565cfe5a123f19a656cf016472795a72944a21fb0efae",
+  "total_nodes": 15,
+  "assets": [
+    {
+      "index": 1,
+      "node": "qantas.airline.root",
+      "token_id": "QFS-001",
+      "asset_seal": "6b040de839048dfc3731e24a5f147658921837ec451ba77cf0c581bc3580ed93"
+    },
+    {
+      "index": 2,
+      "node": "jetstar.budget.root",
+      "token_id": "QFS-002",
+      "asset_seal": "4bfc831fe61856f5431fddafa4946e3f5295126e96b45e590d4a1bb371e2d8c0"
+    },
+    {
+      "index": 3,
+      "node": "qantas.freight.root",
+      "token_id": "QFS-003",
+      "asset_seal": "122b111dd6c0dc5ac18f46ebcdd6f152b4ac59661085e6e0dc1e4c908c782224"
+    },
+    {
+      "index": 4,
+      "node": "frequent.flyer.ledger.root",
+      "token_id": "QFS-004",
+      "asset_seal": "abf0bdb93abf94007a20c70b01c809aaf1d635dac5bfdfec384d572462861562"
+    },
+    {
+      "index": 5,
+      "node": "sydney.hub.root",
+      "token_id": "QFS-005",
+      "asset_seal": "b72feae8010fdfadafddb9547a6e59a3a15bfbd86b95182844eeff9739d0e8c9"
+    },
+    {
+      "index": 6,
+      "node": "melbourne.hub.root",
+      "token_id": "QFS-006",
+      "asset_seal": "7cf7a76723b713cbc06f48072ed91e4a2e892562818a5fcb1cc93751749cdeb7"
+    },
+    {
+      "index": 7,
+      "node": "longreach.heritage.root",
+      "token_id": "QFS-007",
+      "asset_seal": "7072a7b9ccdc57b8703c30c1c4a0ec959c5a70d06635fe82c0b4c382a883cfdc"
+    },
+    {
+      "index": 8,
+      "node": "project.sunrise.root",
+      "token_id": "QFS-008",
+      "asset_seal": "9c9d20237e5ef7bacd5a789ed3b1fcea7a7b22a062a2086ca489d467e1af33a0"
+    },
+    {
+      "index": 9,
+      "node": "air.corridor.transpacific.root",
+      "token_id": "QFS-009",
+      "asset_seal": "174c250ea55a713d3f04b4d1831f06b44f3864dda3c63d16e855843331742d62"
+    },
+    {
+      "index": 10,
+      "node": "air.corridor.kangaroo.root",
+      "token_id": "QFS-010",
+      "asset_seal": "12ee80d412ef431ed8141cf56fc92d3d814a976cdecfe7690f05a2a5b5c492c7"
+    },
+    {
+      "index": 11,
+      "node": "aircraft.fleet.boeing.root",
+      "token_id": "QFS-011",
+      "asset_seal": "51afd366ebbba81fcd9fd8ddbc3179513ab6b7cec65f44b9dca217de0d494907"
+    },
+    {
+      "index": 12,
+      "node": "aircraft.fleet.airbus.root",
+      "token_id": "QFS-012",
+      "asset_seal": "c04885e94b83c193d039fb395c6fa012399a0c69833484ee5893f70de58415f8"
+    },
+    {
+      "index": 13,
+      "node": "engine.maintenance.root",
+      "token_id": "QFS-013",
+      "asset_seal": "adb0ffe9f02cd08a01a1e969e3ebd15a02d1feea011879919d190d80912014f9"
+    },
+    {
+      "index": 14,
+      "node": "aviation.fuel.bunker.root",
+      "token_id": "QFS-014",
+      "asset_seal": "276f9319a2b43e46e4e84c4e49c09127bf986e2833a276019b904e2cd0d995b0"
+    },
+    {
+      "index": 15,
+      "node": "air.traffic.control.interface.root",
+      "token_id": "QFS-015",
+      "asset_seal": "27725ac5c72c15ed60c5a1e0e4adf46a9a1a0b5dd946a302c3b77b3cd0c0051a"
+    }
+  ],
+  "routing": "127.0.0.1",
+  "cadence_tier": 0.052,
+  "statutory_basis": "Evidence Act 1995 (Cth) Section 146 & Sovereign Air Rights",
+  "status": "QANTAS_AIRSPACE_AND_FREIGHT_LOCKED"
+}

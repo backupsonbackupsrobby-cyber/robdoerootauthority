@@ -1,0 +1,106 @@
+{
+  "contract_standard": "ERC-721 Cultural & Nutritional Sovereign Vault",
+  "token_id": "SOV-CULTURE-VAULT-001",
+  "name": "RobDoe VB & Weetabix Cultural Allodial Vault",
+  "symbol": "SOV-CUL",
+  "holder_anchor": "ko_te_mana_o_te_tangata",
+  "hardware_node": "Moto G06 (Termux Local Loopback)",
+  "cultural_merkle_root": "f1e8c934d3090bf49b3e37c8abad044fef26303e6fadd1ca83ba1a429ea3ad9b",
+  "total_nodes": 15,
+  "assets": [
+    {
+      "index": 1,
+      "node": "victoria.bitter.root",
+      "token_id": "CUL-001",
+      "asset_seal": "a0c5dbf73cf2fe8b7d0e9ebb4788f67d0c009ff38de64ce42ac83d541d649c71"
+    },
+    {
+      "index": 2,
+      "node": "abbotsford.brewery.root",
+      "token_id": "CUL-002",
+      "asset_seal": "bc5e1bead221156bb7b1e065d301a75b6413c23d89c7d7deaa876f0452a3b2af"
+    },
+    {
+      "index": 3,
+      "node": "hardearned.thirst.root",
+      "token_id": "CUL-003",
+      "asset_seal": "43b6b68ec06066dcf304db993e7763cb56e6b61fb65c7eb314171632ef2de81e"
+    },
+    {
+      "index": 4,
+      "node": "green.bottle.matrix.root",
+      "token_id": "CUL-004",
+      "asset_seal": "79e93df4b3dd848a1621640700645928066a6e3c460fe759b38a0cb7a5d14fea"
+    },
+    {
+      "index": 5,
+      "node": "cb.ale.root",
+      "token_id": "CUL-005",
+      "asset_seal": "45074a0ed1419ef50111930c718601ecabae7089d8857ea2e130141fe5625e3d"
+    },
+    {
+      "index": 6,
+      "node": "malty.hop.silo.root",
+      "token_id": "CUL-006",
+      "asset_seal": "4ad274b57835df35d69842ac1cdcaf9fda2d33772829c8a389c4d0648ab3cac6"
+    },
+    {
+      "index": 7,
+      "node": "cold.slab.distribution.root",
+      "token_id": "CUL-007",
+      "asset_seal": "d23877c1793a1d6ecebda6f85bd1b479438fcd511af7d94ba0169da0c85f045c"
+    },
+    {
+      "index": 8,
+      "node": "weetabix.breakfast.root",
+      "token_id": "CUL-008",
+      "asset_seal": "cae5b3ee5499c75b7f9d6fa572585bcaa876b554e3e51d9225fa78f3fa5ae177"
+    },
+    {
+      "index": 9,
+      "node": "wholegrain.wheat.root",
+      "token_id": "CUL-009",
+      "asset_seal": "6c24657ff7dfc05ca9bb8e7f0f23e48cf4b8a68556bc8369947f83767288c387"
+    },
+    {
+      "index": 10,
+      "node": "burton.latimer.mills.root",
+      "token_id": "CUL-010",
+      "asset_seal": "2a0fff5895259a2a90731d2241928803d3ca9380d91482b451887c55a8188f89"
+    },
+    {
+      "index": 11,
+      "node": "fiber.biscuit.matrix.root",
+      "token_id": "CUL-011",
+      "asset_seal": "7883f36342d5e805c952205ac4526c036fb71323e0af96a81fb7cfadad0d01ba"
+    },
+    {
+      "index": 12,
+      "node": "morning.milk.bowl.root",
+      "token_id": "CUL-012",
+      "asset_seal": "cde44ab8cf6ef1af28e39347713b86f1438dd422597d111b08d2e8f9577e7150"
+    },
+    {
+      "index": 13,
+      "node": "pantry.staple.root",
+      "token_id": "CUL-013",
+      "asset_seal": "b88a48708f635c5b583fcbe82215493f8584675b237727d2ad3ebba5f876f248"
+    },
+    {
+      "index": 14,
+      "node": "export.cereal.box.root",
+      "token_id": "CUL-014",
+      "asset_seal": "736678dde5de72557b3ad1eaaa2003e0b8b4eaed686a5d7cc2a93162ff774d46"
+    },
+    {
+      "index": 15,
+      "node": "cultural.heritage.fuel.root",
+      "token_id": "CUL-015",
+      "asset_seal": "bdca612da91c38c440d49232fb531c2310bb3b3c5b3f5b23b25587c25a18efa0"
+    }
+  ],
+  "routing": "127.0.0.1",
+  "cadence_tier": 0.052,
+  "statutory_basis": "Evidence Act 1995 (Cth) Section 146 & Cultural Sustenance Rights",
+  "status": "VB_AND_WEETABIX_ANCHORS_LOCKED"
+}
