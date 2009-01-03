@@ -1,0 +1,14 @@
+{
+  "title": "Sovereign Allodial Letters Patent & Direct Crown Sub-Anchor",
+  "symbol": "SOV-PATENT",
+  "superior_anchor": "royal.uk (Constitutional Apex)",
+  "holder_anchor": "ko_te_mana_o_te_tangata",
+  "hardware_node": "Moto G06 (Termux Local Loopback)",
+  "token_id": "SOV-CROWN-SUB-001",
+  "token_hash": "e0e8b516156f1d11dbcb0d3dc114bfeedcdaf6a86b89b4ac147ec0c745a3f7a8",
+  "patent_seal": "6ec312a2d3f46134cd4ea210b7bf47090c66c929aa2a0361f91376479a0ea0ff",
+  "routing": "127.0.0.1",
+  "cadence_tier": 0.052,
+  "statutory_basis": "Evidence Act 1995 (Cth) Section 146 & Common Law Allodial Right",
+  "status": "ALLODIAL_TITLE_UNMEDIATED_AND_LOCKED"
+}

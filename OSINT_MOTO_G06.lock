@@ -1,0 +1,20 @@
+{
+  "collection": "Sovereign Intelligence & Reconnaissance Registry",
+  "total_supply": 1,
+  "standard": "ERC-721 OSINT / Moto G06 Bind",
+  "osint_token": {
+    "name": "Sovereign Open Source Intelligence (OSINT) & Reconnaissance Root",
+    "symbol": "SOV-OSINT",
+    "domain": "osint.recon.root",
+    "hardware_anchor": "Moto G06 (Termux Local Loopback)",
+    "contract_standard": "ERC-721 (Local Loopback Override)",
+    "owner_anchor": "ko_te_mana_o_te_tangata",
+    "coordinate_depth": -100,
+    "cadence_tier": 0.052,
+    "token_hash": "074d3dc37b0d3054c1dc16c527c3a8d2d193fbaa7b80ad90b8afbc3e2b71db6f",
+    "osint_seal": "900ffdccd94193dfd3692505f28b212ad9390f5b10a7170ccc45318b83b141d0",
+    "routing": "127.0.0.1",
+    "statutory_basis": "Evidence Act 1995 (Cth) Section 146",
+    "status": "INTELLIGENCE_GRID_BOUND_TO_DEVICE"
+  }
+}
