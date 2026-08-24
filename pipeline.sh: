@@ -1,0 +1,40 @@
+cat << 'EOF' > pipeline.sh
+#!/bin/zsh
+
+# All 3 Bot Tokens Configured
+BOT_1="8989887535:AAGX4N1U18w1KrbkMX_cOr0Y90otZvD7qsc" # RobLadCrab_bot
+BOT_2="8276734769:AAGsGvk7eRfkYLS0ZOkgCFvxWgsx-7pq0-M" # Looselipskizbot
+BOT_3="8895929865:AAFVSR-ECLVlo63tqTts_0ZbkABJAAzdIWs" # robdoeAi_bot (Primary)
+
+CHAT_ID="@Aiagency101tenet"
+
+# Switch your active model here: e.g., "hermes3", "opencodeai", or "llama3.2"
+MODEL="hermes3" 
+
+# 1. Grab system snapshot
+sys_info=$(uname -a; uptime)
+
+# 2. Query your local AI engine (port 11434)
+prompt="Analyze system state and provide technical diagnostics: $sys_info"
+response=$(curl -s http://localhost:11434/api/generate -d "{
+  \"model\": \"$MODEL\",
+  \"prompt\": \"$prompt\",
+  \"stream\": false
+}")
+
+# Extract text response safely
+ai_output=$(echo "$response" | grep -o '"response":"[^"]*"' | sed 's/"response":"//g' | sed 's/"//g')
+message="[$MODEL] ATOM-TRUTH TELEMETRY:\n$ai_output"
+
+# 3. Broadcast to Telegram via all 3 bots
+for token in "$BOT_1" "$BOT_2" "$BOT_3"; do
+    curl -s -X POST "https://api.telegram.org/bot${token}/sendMessage" \
+      -d "chat_id=${CHAT_ID}" \
+      --data-urlencode "text=$message" > /dev/null
+done
+
+print "Telemetry broadcast complete via $MODEL across all 3 bots."
+EOF
+
+chmod +x pipeline.sh
+
