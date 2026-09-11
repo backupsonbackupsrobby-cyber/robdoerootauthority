@@ -1,0 +1,7 @@
+{
+  "cycle_period_years": 25920,
+  "annual_drift_deg": 0.052,
+  "annual_drift_arcsec": 50.2,
+  "lifespan_offset_deg": 1.115,
+  "lattice_phase_tolerance": 0.052
+}
