@@ -1,3 +1,7 @@
-GIT_OBJECTS=2928
-MERKLE_SHA256=c26b35a6d93b67447d079fe87899382fb32a4c07040c2a0563ff09daaf346ee8
-MERKLE_SHA512=804f58f3db7dfca0d14d59bdef432d7c504dab154f332dac36b3ced87aa072625297bda2ab96b059cb22a8ad02296c034e3ddd2fcf044a1943182c92334cab40
+SOVEREIGN MERKLE STATE PROOF
+================================================================
+OBJECT_COUNT   : 2932
+KURAMOTO_R     : 0.001780
+MERKLE_SHA256  : d3ed5a446ee48241c15c79bb4914dfc2139d73d63ca1754cdd0dd1fd9cd78a4a
+MERKLE_SHA512  : 01ce11adc9e824fecf012006771abe039a6ce5776b0ebb6dcb313cb520f0f2deed021cef46e821afff51f9e9c1735824c055ee7dc13cb81a815493253c9dc11c
+================================================================

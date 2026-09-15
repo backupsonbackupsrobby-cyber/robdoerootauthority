@@ -1,0 +1,9 @@
+LAW OF SHAPED FORCE | SOVEREIGN MERKLE PROOF
+================================================================
+DOMAIN         : robdoe.com
+OBJECT_LEAVES  : 2933
+ORDER_PARAM_R  : 0.001756
+MEAN_ANGLE_PSI : -1.454787 rad
+MERKLE_SHA256  : 0807fa7afa14ae164014e9cc2a2b31f1aa1432fd3450a97fe6f5e9e5f0bae2ab
+MERKLE_SHA512  : 93bb8898a573c472efc1808ed506f3bbb4bcd30bfcee8c04633c075ce52a403b7a2667dd0de0d2298e40456b39fecfa2142a8cca69de01e5629b5cab3815fb27
+================================================================
