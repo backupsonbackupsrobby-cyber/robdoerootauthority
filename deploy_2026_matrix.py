@@ -42,7 +42,8 @@ def run_2026_pipeline():
     os.system(f'git tag -a "{tag_name}" -m "State proof anchor {merkle_root[:8]}"')
     
     print(f"\033[1;35m[*] Pushing State Proofs & Tags to Remote Origin...\033[0m")
-    os.system("git push origin main --tags")
+    current_branch = os.popen("git branch --show-current").read().strip()
+    os.system(f"git push origin {current_branch} --tags")
     
     print("\033[1;36m================================================================\033[0m")
     print(f"\033[1;32m[🚀] 2026 UNIFIED AUTOMATION COMPLETE | TAG: {tag_name}\033[0m")
