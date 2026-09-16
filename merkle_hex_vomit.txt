@@ -1,7 +1,7 @@
 SOVEREIGN MERKLE STATE PROOF
 ================================================================
-OBJECT_COUNT   : 2932
-KURAMOTO_R     : 0.001780
-MERKLE_SHA256  : d3ed5a446ee48241c15c79bb4914dfc2139d73d63ca1754cdd0dd1fd9cd78a4a
-MERKLE_SHA512  : 01ce11adc9e824fecf012006771abe039a6ce5776b0ebb6dcb313cb520f0f2deed021cef46e821afff51f9e9c1735824c055ee7dc13cb81a815493253c9dc11c
+OBJECT_COUNT   : 3170
+KURAMOTO_R     : 0.004769
+MERKLE_SHA256  : db9f3a010cdb306eea65f50bf6b00a9d8b71a80c0df101dd7a5433e088f44e24
+MERKLE_SHA512  : fce1962455d733063e617bf21b1b096fef4ca9caff07da60274978dd8e689c40360fff47481bf2d6417bd2cd4134d4dc056afba74c0923bcbd1ee386b8632d38
 ================================================================

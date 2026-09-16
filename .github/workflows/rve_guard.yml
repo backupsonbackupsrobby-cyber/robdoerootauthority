@@ -1,0 +1,21 @@
+name: RobDoe RVE Form & Workflow Boundary Isolator
+
+on:
+  issues:
+    types: [opened, edited]
+  pull_request:
+    types: [opened, synchronize]
+  workflow_dispatch:
+
+jobs:
+  seal-and-verify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Run Master RVE Engine
+        run: |
+          python3 termux_rve_master_engine.py .
