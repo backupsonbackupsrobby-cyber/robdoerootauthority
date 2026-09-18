@@ -1,3 +1,6 @@
 [submodule "nRF-Logger-API"]
 	path = nRF-Logger-API
 	url = https://github.com/nordicsemi/nRF-Logger-API.git
+[submodule ":TEMP/etherscan-skills"]
+	path = :TEMP\\etherscan-skills
+	url = file:///data/data/com.termux/files/home/robdoerootauthority/_temp_etherscan_skills
