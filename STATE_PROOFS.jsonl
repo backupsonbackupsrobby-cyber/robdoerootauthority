@@ -34,3 +34,4 @@
 6853922cec2063b9b246be857c2b1a9a521a80519256f84dddf631e66e8bef97e540cfaeae0cbbd743a71f99f1c56cf830e50178d37c10174ac8e5e7f9cf695a
 {"timestamp": "2026-09-18T10:05:44Z", "repo": "/data/data/com.termux/files/home/robdoerootauthority", "merkle_root": "4abf8713243e877f8adba5f21ee7f3d2e3b186756ac63a091999381256548c59", "commit": "9d538b93067064391dc2986cfd2f3e86c1aa2408", "tag": "proof-4abf8713"}
 {"timestamp": "2026-09-18T10:12:06Z", "repo": "/data/data/com.termux/files/home/robdoerootauthority", "merkle_root": "f65befa35728df78c1204831fd205bfb4e4015d9448d578791b8d67e69076eb5", "commit": "cd476d3953b3196cd45f74aadfaad8a41c25de78", "tag": "proof-f65befa3"}
+{"timestamp": "2026-09-18T10:30:19Z", "repo": "/data/data/com.termux/files/home/robdoerootauthority", "merkle_root": "47a0eb4b351b830ae83142270067aca666499c56d637ab380ef4cd9aa7e61792", "commit": "044f45c25dc178ad715d747a1ce6a56bca4d0ed6", "tag": "proof-47a0eb4b"}
