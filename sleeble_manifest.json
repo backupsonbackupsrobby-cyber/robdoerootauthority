@@ -1,0 +1,13 @@
+{
+  "agent": "Sleeble",
+  "engine": "Ollama",
+  "jurisdiction": "Robdoe Root Authority",
+  "guard": "Hone Heke Vector",
+  "synchrony": {
+    "state": "0/1 Binary Locked",
+    "phase_vector": "z = z^2 + c",
+    "wobble_factor": 0.052,
+    "precision_steps": 26000
+  },
+  "manifest_binding": "MASTER_ROOT_ABSOLUTE"
+}
