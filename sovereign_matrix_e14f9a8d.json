@@ -1,0 +1,10 @@
+{
+  "protocol": "RobDoeRootAuthority",
+  "tier": "ADVANCED_SOVEREIGN_MATRIX",
+  "genesis": "e14f9a8d",
+  "root_hash": "204ef68b19bd41c3dfac098f6f6cfb22e448fa090844da6075d448a75c094088",
+  "fractal_convergence": "110b1d28203b3d1f2dc31715a2f189f82dcc6eb20ed57660ddbdebbf311faa32",
+  "hardware_context": "Termux-ARM64-DirectRPC",
+  "timestamp": 1789900767,
+  "status": "FULLY_TAGGED_AND_SEALED"
+}
