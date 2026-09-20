@@ -1,0 +1,82 @@
+// -*- C++ -*-
+// This file is a part of the IncludeOS unikernel - www.includeos.org
+//
+// Copyright 2015 Oslo and Akershus University College of Applied Sciences
+// and Alfred Bratterud
+//
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+//
+//     http://www.apache.org/licenses/LICENSE-2.0
+//
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
+
+#pragma once
+#ifndef INCLUDEOS_EXPECTS_HEADER
+#define INCLUDEOS_EXPECTS_HEADER
+
+// LIKELY/UNLIKELY
+#include <likely>
+#include <cstdlib>
+
+#undef Expects
+#undef Ensures
+
+#ifdef INCLUDEOS_SMP_ENABLE
+#include <smp>
+#endif
+
+#include <os.hpp>
+inline void __expect_emit_failure(std::string_view msg, std::string_view panic_text) {
+#ifndef UNITTESTS
+#ifdef INCLUDEOS_SMP_ENABLE
+  SMP::global_lock();
+#endif
+  std::fprintf(stderr, "%.*s\n", int(msg.size()), msg.data());
+  fflush(NULL);
+#ifdef INCLUDEOS_SMP_ENABLE
+  SMP::global_unlock();
+#endif
+  os::panic(std::string(panic_text).c_str());
+#else // TEST
+  (void) panic_text;
+  // throw here to allow tests to capture the error
+  #include <stdexcept>
+  throw std::runtime_error(std::string(msg));
+#endif
+}
+
+template <class... Args>
+inline void __expect_failf(const char *err_prefix, const char * /*cond*/, const char *file, int line, const char *func, std::format_string<Args...> fmt, Args&&... args){
+  auto reason_msg = std::format(fmt, std::forward<Args>(args)...);
+  auto error_msg = std::format("{}:{}:{}: {}: {}", file, line, func, err_prefix, reason_msg);
+  __expect_emit_failure(error_msg, reason_msg);
+}
+
+inline void __expect_failf(const char *err_prefix, const char *cond, const char *file, int line, const char *func){
+  auto reason_msg = std::format("{}: {}", err_prefix, cond);
+  auto error_msg = std::format("{}:{}:{}: {}", file, line, func, err_prefix);
+  __expect_emit_failure(error_msg, reason_msg);
+}
+
+#define Expects(cond) ((void)((cond) || (__expect_failf("Expects failed", #cond, __FILE__, __LINE__, __func__),0)))
+#define Ensures(cond) ((void)((cond) || (__expect_failf("Ensures failed", #cond, __FILE__, __LINE__, __func__),0)))
+
+#define Expectsf(cond, fmt, ...) ((void)((cond) || (__expect_failf("Expects failed", #cond, __FILE__, __LINE__, __func__, fmt, ##__VA_ARGS__),0)))
+#define Ensuresf(cond, fmt, ...) ((void)((cond) || (__expect_failf("Ensures failed", #cond, __FILE__, __LINE__, __func__, fmt, ##__VA_ARGS__),0)))
+
+namespace os {
+// parameter for noexcept specifier when bypassing noexcept for testing
+#if defined(TEST)
+  constexpr bool hard_noexcept = false;
+#else
+  constexpr bool hard_noexcept = true;
+#endif
+
+}
+#endif //< INCLUDEOS_EXPECTS_HEADER

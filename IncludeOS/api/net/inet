@@ -1,0 +1,9 @@
+//-*- C++ -*-
+#pragma once
+#ifndef NET_INET_HEADER
+#define NET_INET_HEADER
+
+#include "inet.hpp"
+
+
+#endif
