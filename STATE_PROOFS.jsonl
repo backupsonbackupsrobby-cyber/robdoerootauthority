@@ -26,3 +26,4 @@
 {"timestamp": "2026-09-20T11:49:25.632795+00:00", "state": "ABSOLUTE", "anchor": "LadbotOneLad", "status": "LOCKED"}
 {"timestamp": 1789907144, "domain": "robdoe.com", "token": "mynerc721", "state_proof_hash": "20b37b7591862e02941ecbd011ee1c43ef40aa77c02b88bbd48a7f2bed7e8cce", "daemon": "sleeble-x72", "hardware_bridge": "ESP32_Ready"}
 {"timestamp": 1789907305, "domain": "robdoe.com", "token": "mynerc721", "state_proof_hash": "96b06f2a05a2b0270f7eb9482cd2424460054e40143c26bee8d97401829e83d7", "daemon": "sleeble-x72", "hardware_bridge": "ESP32_Ready"}
+{"timestamp": "2026-09-20T12:49:57Z", "repo": "/data/data/com.termux/files/home/robdoerootauthority", "merkle_root": "4f4ce0448682145147f2f90925f8ae62c6837b39240bc87e0f4d6a76526e4766", "commit": "7fd4abf8cfbfe8860cebd144999645ee61b4a9a6", "tag": "proof-4f4ce044"}

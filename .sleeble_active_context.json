@@ -1,7 +1,6 @@
 {
-    "agent": "SLEEBLE-AUTONOMOUS-AUDITOR",
-    "timestamp": 1789903811,
-    "scanned_artifacts": [],
-    "sleeble_proof": "c83d9d8a61a3ddc130d4508b0cd62a63f09933471fc6fcb8dedaf557b4c7539f2d1ebdf9c80b2d7ae81144e53ad43088161a9b3d7f839f71afc91159226314b1",
-    "status": "SEALED_AND_STAMPED_IMMUTABLE"
+  "system_status": "ONLINE",
+  "metric": "93312000_ARC_SECONDS",
+  "multiplier": "x72",
+  "sha1024_root": "268d06c07f2f695188ae257958b444cd026b0924ed8e356fbdf814d84aabf48b7fbb3d1d8002de796b2088837e3496a9801b162f0b1d58f9bf14b004d1a632c6ddda88c5c10bdb877b5cd0c3b1db7cff66a06115a5d2095c305691539e5aea40ffbd498edb6536a34e02ddf2ea8242be1ddaa9efacc14f8d0b149e7d37b82cd4"
 }

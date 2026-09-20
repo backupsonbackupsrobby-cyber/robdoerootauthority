@@ -10,9 +10,10 @@
     "root_hash": "a683ee03101a038ad55f2659b13c3b73d669802b2740d8f9031d6dcecd02b44cef8d3e1b43932d42caebe9fbb79584152c2853ad865263a034739d04468a92560bd60ab72c8b9226baaf99b26e35264fbd31976d8154c4cf4ccffe8e84479b18b28d65d5a9c65b8fa64f63bf06058f8de4084d412d4a8959963aa0226371c09a"
   },
   "hardware_layer": {
-    "architecture_emulation": "Atanasoff-Berry Computer (1939-1942)",
+    "architecture_emulation": "Atanasoff-Berry Computer (1939-1942) [Native C-Optimised Core]",
     "variables_solved": 29,
-    "vacuum_tube_cycles": 12992
+    "vacuum_tube_cycles": 12992,
+    "benchmarked_gflops": 0.12
   },
   "resolved_vector": [
     2.2529571287197516,
