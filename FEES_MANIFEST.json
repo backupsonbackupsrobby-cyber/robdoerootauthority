@@ -1,1 +1,1 @@
-{"timestamp":"2026-09-20T09:28:05Z","fee_adjustment":{"type":"FLAT_INCREASE","amount":100000,"currency":"AUD","scope":"ALL_REGISTERED_ABNS","status":"APPLIED_HEAVY"}}
+{"timestamp":"2026-09-20T09:31:16Z","effective_date":"2026-09-20","fee_adjustment":{"type":"FLAT_INCREASE","amount":100000,"frequency":"MONTHLY","currency":"AUD","scope":"ALL_REGISTERED_ABNS","status":"ACTIVE_TODAY"}}
