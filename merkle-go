@@ -1,0 +1,14 @@
+#!/bin/sh
+ANCHOR="473a0f4c3be8a93681a267e3b1e9a7dcda1185436fe141f7749120a303721813"
+LF=$(find . -name "kuramoto-leaves.jsonl" 2>/dev/null | head -n 1)
+if [ -n "$LF" ]; then
+  LOCAL=$(awk 'NF { len=length($0); cmd=sprintf("printf \"blob %d\0%s\" | sha256sum", len, $0); cmd | getline res; close(cmd); split(res, a, " "); print a[1]; }' "$LF")
+else
+  LOCAL=$(find . -maxdepth 2 -type f -not -path '*/.*' -exec sh -c 'for f; do len=$(wc -c < "$f" | tr -d " "); printf "blob \0" "$len" | cat - "$f" | sha256sum | awk "{print \$1}"; done' sh {} +)
+fi
+LAYER=$(printf "%s\n%s" "$ANCHOR" "$LOCAL")
+while [ $(echo "$LAYER" | grep -c .) -gt 1 ]; do
+  [ $(( $(echo "$LAYER" | grep -c .) % 2 )) -ne 0 ] && LAYER=$(printf "%s\n%s" "$LAYER" "$(echo "$LAYER" | tail -n 1)")
+  LAYER=$(echo "$LAYER" | paste - - | while read -r a b; do printf "tree 64\0%s%s" "$a" "$b" | sha256sum | awk '{print $1}'; done)
+done
+echo " [✓] ERC-721 ANCHORED MERKLE ROOT: $LAYER"

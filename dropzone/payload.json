@@ -1,9 +1,7 @@
 {
-    "framework": "sleeble-twins-textbook-gravitonic-core",
-    "timestamp_utc": "2026-09-19T11:04:47.509681+00:00Z",
-    "graviton_flux_index": -0.35182013485742925,
-    "assets_indexed": 174419,
-    "master_merkle_root_hex": "2a87dd1583d95d997c132aa9c298f29f004764ce7317dc9cd8cd711b19f439c3",
-    "black_hole_graviton_root_hash_hex": "e3fd0b6261e74f6a87113621b79dce4281b092f2f4eb361b7efed27e29838228",
-    "authority_signature": "ATOM-TRUTH | GENESIS:e14f9a8d | BLACK-HOLE-SEALED"
+    "framework": "llama-agents",
+    "standard": "sha1024",
+    "target": "./zsh-copilot",
+    "merkle_root": "6dd26fa07060e039b9d3c7fab8e6c7aba50313d8abbac38b3ef3adf095eb6abc",
+    "pipeline": "sleeble-x2-16-arms"
 }

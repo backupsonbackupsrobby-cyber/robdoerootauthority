@@ -9,5 +9,7 @@
     "wobble_factor": 0.052,
     "precision_steps": 26000
   },
-  "manifest_binding": "MASTER_ROOT_ABSOLUTE"
+  "manifest_binding": "MASTER_ROOT_ABSOLUTE",
+  "anchored_merkle_root": "584ba8126dee0172615600c887fa9b7550029f404eabe05830a3a17470e19dd3",
+  "anchor_source": "1.com"
 }

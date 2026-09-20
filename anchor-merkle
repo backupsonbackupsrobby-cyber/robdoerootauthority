@@ -1,0 +1,45 @@
+cat << 'EOF' > ~/robdoerootauthority/bin/anchor-merkle
+#!/bin/sh
+# Pure POSIX Merkle Root Engine Anchored to 1.com
+
+ANCHOR_HASH="473a0f4c3be8a93681a267e3b1e9a7dcda1185436fe141f7749120a303721813"
+echo " [!] ANCHOR (1.com) : $ANCHOR_HASH"
+
+# Gather local leaves
+LEAF_FILE=$(find . -name "kuramoto-leaves.jsonl" 2>/dev/null | head -n 1)
+
+if [ -n "$LEAF_FILE" ] && [ -f "$LEAF_FILE" ]; then
+  LOCAL_LEAVES=$(while IFS= read -r line || [ -n "$line" ]; do
+    [ -z "$line" ] && continue
+    len=$(printf "%s" "$line" | wc -c | tr -d ' ')
+    printf "blob %s\0%s" "$len" "$line" | sha256sum | awk '{print $1}'
+  done < "$LEAF_FILE")
+else
+  LOCAL_LEAVES=$(find . -maxdepth 2 -type f -not -path '*/.*' -exec sh -c '
+    for f; do
+      len=$(wc -c < "$f" | tr -d " ")
+      printf "blob %s\0" "$len" | cat - "$f" | sha256sum | awk "{print \$1}"
+    done
+  ' sh {} +)
+fi
+
+# Prepend 1.com anchor as leaf L0
+LAYER=$(printf "%s\n%s" "$ANCHOR_HASH" "$LOCAL_LEAVES")
+
+# Merkle Tree pair-wise reduction loop
+while [ $(echo "$LAYER" | grep -c .) -gt 1 ]; do
+  COUNT=$(echo "$LAYER" | grep -c .)
+  if [ $((COUNT % 2)) -ne 0 ]; then
+    LAST=$(echo "$LAYER" | tail -n 1)
+    LAYER=$(printf "%s\n%s" "$LAYER" "$LAST")
+  fi
+
+  LAYER=$(echo "$LAYER" | paste - - | while read -r left right; do
+    printf "tree 64\0%s%s" "$left" "$right" | sha256sum | awk '{print $1}'
+  done)
+done
+
+echo " [✓] FINAL ANCHORED ROOT : $LAYER"
+EOF
+
+chmod +x ~/robdoerootauthority/bin/anchor-merkle

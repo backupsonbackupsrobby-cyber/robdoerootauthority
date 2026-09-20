@@ -1,0 +1,12 @@
+{
+  "robertdoe.pw": {
+    "resolver": "127.0.0.1",
+    "status": "local_icann_mock",
+    "ttl": 3600
+  },
+  "1.com": {
+    "resolver": "1.1.1.1",
+    "status": "upstream_root",
+    "ttl": 86400
+  }
+}
