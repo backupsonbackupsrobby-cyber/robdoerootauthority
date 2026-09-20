@@ -1,0 +1,8 @@
+{
+  "protocol": "RobDoeRootAuthority",
+  "genesis": "e14f9a8d",
+  "root_hash": "204ef68b19bd41c3dfac098f6f6cfb22e448fa090844da6075d448a75c094088",
+  "merkle_proof": "08eff30a6b7e1299fc525533f03a729c4ebcbb165c951292e0681ee867067b16",
+  "timestamp": 1789900688,
+  "state": "IMMUTABLY_LOCKED"
+}
