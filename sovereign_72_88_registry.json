@@ -1,0 +1,11 @@
+{
+    "protocol": "ATOM-TRUTH-72-88-BINARY-MATRIX",
+    "authority": "RobDoe Pty Ltd",
+    "dimensions": {
+        "rows": 72,
+        "cols": 88,
+        "total_bits": 6336
+    },
+    "matrix_sha512": "ef4f3b172ee8661301b0840244ecaa73ef452abd7ff658bdd2d4763761eab9c412c98e97029ea7559c01f1aa1c350fc5235a768b41b225d84ab31b7829af6b38",
+    "timestamp": 1790178954.4319043
+}
