@@ -1,0 +1,20 @@
+{
+    "erc721_onchain_push_root_hash": "fff43f8529240f6a5598ac4714e859f729ef920f4fe85e5659b7b5668a98ae5d0d3eb87456c7e291100a1f414aa691cd4489f34fc54f60d3872a3807e9b048ae",
+    "metadata": {
+        "protocol": "ATOM-TRUTH-ERC721-ONCHAIN-PUSH",
+        "authority": "RobDoe Pty Ltd",
+        "execution_target": "Mainnet / Layer-1 Sovereign Settlement",
+        "assets": {
+            "token_standard": "ERC-721",
+            "supply_structure": "5,000 Bundles + 1 Solo Remainder",
+            "total_supply": 5001
+        },
+        "witness_layer": "royal.uk Structural Alignment",
+        "harmonic_roots": {
+            "chakras_master_root": "028a7df8391a440d11005b10c9f05f0c6271f2ecc79ca80cd15ef9d942e7a992e65cf2800d287485ad04cc285d8dab07e885ca252979d361fdc217de24fa96e1",
+            "royal_witness_hash": "Embedded and Verified"
+        },
+        "axiom": "On-chain immutability through ground-up structural truth.",
+        "timestamp": 1790179311.9766715
+    }
+}
