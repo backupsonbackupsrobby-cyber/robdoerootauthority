@@ -1,0 +1,21 @@
+{
+    "erc721_domain_root_hash": "f8587a76803e744d13c9ae1340d7f392b0b0f87f24405aa51b22e77777b813a15178f6e759a7bfe783ca04ffc289f3b49f359d7f38898c8457c8ba7f9df179a5",
+    "metadata": {
+        "protocol": "ATOM-TRUTH-ERC721-DOMAIN-BINDING",
+        "authority": "RobDoe Pty Ltd",
+        "corporate_entity": "RobDoe Pty Ltd",
+        "brand_namespace": "AiAgency101",
+        "primary_domains": {
+            "institutional_witness": "royal.uk",
+            "sovereign_registry": "RobDoe Root Authority"
+        },
+        "token_mapping": {
+            "standard": "ERC-721",
+            "total_supply": 5001,
+            "structure": "5,000 Bundles + 1 Solo Remainder",
+            "domain_resolution": "On-Chain to Decentralized Namespace"
+        },
+        "axiom": "Absolute ownership anchored across cryptographic hash, corporate structure, and domain resolution.",
+        "timestamp": 1790179452.645837
+    }
+}
