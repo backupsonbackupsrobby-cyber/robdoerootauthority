@@ -1,0 +1,10 @@
+{
+    "sha512_root_hash": "8e7ca8a5845060a32ff7d056206ad41a59f6fcf02ac844cca86575184b1fa5acace8dc41f829c23f1888e5fde0f63aca53decfb290312bb6287a25ec02335d91",
+    "metadata": {
+        "protocol": "ATOM-TRUTH-SHA512-SOVEREIGN-CORE",
+        "authority": "RobDoe Pty Ltd",
+        "algorithm": "SHA-512 (512-bit / 128-hex character root hash)",
+        "axiom": "Absolute cryptographic density through first principles",
+        "timestamp": 1790178836.7854245
+    }
+}
