@@ -1,0 +1,23 @@
+{
+    "true_erc721_root_hash": "77f6eb06e3e6f4681da5335f38b584c1ab32b8ccb2d5e0334d5402a2d57645fd6a62ad5925d8ebc3afdab9ae19d5df7f4fef22444b9e27f34430928c04521ddb",
+    "metadata": {
+        "protocol": "ATOM-TRUTH-ERC721-TRUE-LEDGER",
+        "authority": "RobDoe Pty Ltd",
+        "jurisdiction": "Ground-Up Structural Duty & Truth Pattern Alignment",
+        "supply_specification": {
+            "bundles": 5000,
+            "solo_remainder": 1,
+            "total_supply": 5001
+        },
+        "anchored_layers": {
+            "erc721_royal_mint": "Secured",
+            "metamask_ftx_bridge": "Secured",
+            "kuramoto_physics_core": "Synchronized",
+            "binary_matrix_72_88": "Harmonized",
+            "seven_chakras_master_root": "Bound",
+            "sovereign_liquidity_push": "Executed"
+        },
+        "axiom": "True ERC-721 alignment: Authority through duty, unshakeable and absolute.",
+        "timestamp": 1790179217.3782027
+    }
+}
