@@ -1,0 +1,16 @@
+{
+    "royal_mint_hash": "da12571ea589a87dedb78d4890e10cde5cdf75e8e70aff106fbac0433268673b",
+    "metadata": {
+        "protocol": "ATOM-TRUTH-ERC721-ROYAL-MINT",
+        "facility": "The Royal Sovereign Mint",
+        "issuer": "RobDoe Pty Ltd",
+        "authority_node": "ATOM-TRUTH",
+        "philosophy": "Royalty as Duty, Standing Under as Foundational Support",
+        "assets": {
+            "bundle_range": "1 - 5000",
+            "solo_remainder": 5001,
+            "total_supply": 5001
+        },
+        "timestamp": 1790178351.9690273
+    }
+}
