@@ -1,0 +1,22 @@
+{
+    "protocol": "ATOM-TRUTH-ERC721-MERKLE-TREE",
+    "total_tokens": 5001,
+    "merkle_root": "c47fa8115bfd69aa5fe0f03bf14e00e3608fc714bdda99c8d94e1040901ec8a6",
+    "sample_tokens": [
+        {
+            "token_id": 1,
+            "hash": "46b9b3190643191fbb536250ffa1a8b3be915b94e830b0f83e66f1d5deb69b0d",
+            "type": "Bundle"
+        },
+        {
+            "token_id": 5000,
+            "hash": "6c3c14d59b155df1fdb40793b3011878b62f971bc67cedc7717b950fb6a1932a",
+            "type": "Bundle"
+        },
+        {
+            "token_id": 5001,
+            "hash": "577c54978c221b827b19ad194eae0afa97cbd9c5864ed7ee031e9843fe912e28",
+            "type": "Solo Remainder"
+        }
+    ]
+}
