@@ -1,0 +1,24 @@
+{
+    "collection_hash": "69ab04d06e85d9d8119888e091deb556bdbc95f012dd896d00546e627d261b6e",
+    "metadata": {
+        "protocol": "ATOM-TRUTH-ERC721-SOVEREIGN",
+        "timestamp": 1790177840.2380478,
+        "assets": [
+            {
+                "batch_id": "BUNDLE-001",
+                "type": "ERC-721 Bundle",
+                "range": "1 to 5000",
+                "count": 5000,
+                "issuer": "RobDoe Pty Ltd",
+                "authority_node": "ATOM-TRUTH"
+            },
+            {
+                "batch_id": "SOLO-001",
+                "type": "ERC-721 Solo Remainder",
+                "token_id": 5001,
+                "issuer": "RobDoe Pty Ltd",
+                "authority_node": "ATOM-TRUTH"
+            }
+        ]
+    }
+}
