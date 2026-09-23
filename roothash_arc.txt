@@ -1,0 +1,1 @@
+pkg install git openssl-tool nano -y

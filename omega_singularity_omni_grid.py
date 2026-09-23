@@ -1,27 +1,42 @@
+# Law of Shaped Force: Ultra-Performance Self-Sufficient Omni-Grid
+import os
+import sys
+import time
 import hashlib
 import multiprocessing
-import os
-import time
+import signal
 
 CORES = multiprocessing.cpu_count()
-TARGET_DIFFICULTY = "00000000"
+TARGET_DIFFICULTY = "00000000"  # 8-Zero Hex Prefix
 
-def omega_worker(worker_id, shared_state):
-    local_nonce = worker_id * 10000000000
+def omega_worker(worker_id, shutdown_event):
+    """Executes uncapped multi-vector pipeline (BLAKE2b -> SHA3-512 -> SHA3-256)"""
+    # Force this sub-process to completely ignore SIGINT so the parent can clean up
+    signal.signal(signal.SIGINT, signal.SIG_IGN)
+    
+    local_nonce = worker_id * 10_000_000_000
     print(f"[OMEGA-NODE-{worker_id}] Uncapped multi-vector pipeline engaged. Nonce sector: {local_nonce}")
     
-    while shared_state.value == 1:
-        payload = f"ROBDOE-OMEGA-{worker_id}-{local_nonce}-{os.urandom(8).hex()}".encode()
-        h1 = hashlib.blake2b(payload).digest()
-        h2 = hashlib.sha3_512(h1).digest()
-        digest = hashlib.sha3_256(h2).hexdigest()
+    # Cache local references to eliminate global lookup overhead inside the loop
+    b2b = hashlib.blake2b
+    s512 = hashlib.sha3_512
+    s256 = hashlib.sha3_256
+    rand_bytes = os.urandom
+    is_set = shutdown_event.is_set
+    
+    while not is_set():
+        payload = f"ROBDOE-OMEGA-{worker_id}-{local_nonce}-{rand_bytes(8).hex()}".encode()
+        
+        # Pipeline execution
+        h1 = b2b(payload).digest()
+        h2 = s512(h1).digest()
+        digest = s256(h2).hexdigest()
         
         if digest.startswith(TARGET_DIFFICULTY):
-            print(f"\n[!] OMEGA HORIZON BREACHED AT NODE {worker_id}!")
-            print(f"[!] Nonce: {local_nonce} | Digest: {digest}")
-            with open(".omega_breach.log", "a") as log:
-                log.write(f"Node: {worker_id}, Nonce: {local_nonce}, Digest: {digest}\n")
-            shared_state.value = 0
+            print(f"\n[💎 MATCH FOUND BY NODE-{worker_id}]!")
+            print(f"[PAYLOAD] {payload.decode()}")
+            print(f"[DIGEST]  {digest}\n")
+            shutdown_event.set()
             break
             
         local_nonce += 1
@@ -30,26 +45,32 @@ def deploy_omega():
     print("========================================================")
     print("⚡ INITIALIZING OMEGA-LEVEL ZERO-DAY OMNI-GRID ⚡")
     print("========================================================")
-    print(f"[CONFIG] Active Threads: {CORES} | Target Difficulty: {TARGET_DIFFICULTY} (8-Zero Hex Prefix)")
+    print(f"[CONFIG] Active Threads: {CORES} | Target Difficulty: {TARGET_DIFFICULTY}")
     print("[CONFIG] Pipeline: BLAKE2b -> SHA3-512 -> SHA3-256 Accelerated Core")
-    
-    shared_state = multiprocessing.Value('i', 1)
+
+    shutdown_event = multiprocessing.Event()
     processes = []
-    
+
     for i in range(CORES):
-        p = multiprocessing.Process(target=omega_worker, args=(i, shared_state))
+        p = multiprocessing.Process(
+            target=omega_worker, 
+            args=(i, shutdown_event)
+        )
         processes.append(p)
         p.start()
-        
+
     try:
-        while shared_state.value == 1:
-            time.sleep(0.5)
+        while not shutdown_event.is_set():
+            time.sleep(0.2)
     except KeyboardInterrupt:
-        print("\n[!] Disengaging omega pipeline...")
-        shared_state.value = 0
-        
-    for p in processes:
-        p.join()
+        print("\n[!] Interruption vector caught. Disengaging omega pipeline gracefully...")
+    finally:
+        shutdown_event.set()
+        for p in processes:
+            p.terminate()
+        for p in processes:
+            p.join()
+            
     print("[SUCCESS] Omega grid secured. No playbook left behind.")
 
 if __name__ == "__main__":
