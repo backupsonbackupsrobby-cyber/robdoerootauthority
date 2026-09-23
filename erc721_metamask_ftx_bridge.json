@@ -1,0 +1,16 @@
+{
+    "bridge_hash": "4f358095980e78da7feb770e62b019f8711941ba4bcd81c7e519b6736207f02c",
+    "metadata": {
+        "protocol": "ATOM-TRUTH-METAMASK-FTX-BRIDGE",
+        "issuer": "RobDoe Pty Ltd",
+        "authority_node": "ATOM-TRUTH",
+        "wallets_and_interfaces": {
+            "interface_target": "MetaMask Mobile / Extension",
+            "liquidity_or_legacy_routing": "FTX Sovereign Asset Channel (Bypassed & Restructured)",
+            "token_standard": "ERC-721",
+            "supply": "5,000 Bundle + 1 Solo Remainder (Total: 5,001)"
+        },
+        "philosophy": "Sovereign custody decoupled from centralized custody traps",
+        "timestamp": 1790178647.2841718
+    }
+}
