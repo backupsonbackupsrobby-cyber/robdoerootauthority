@@ -1,0 +1,19 @@
+{
+    "authority_hash": "9115acca88bcb82d0a73d89bf298bdb8f132454ad0e6630f9aebb41fa61e3a89",
+    "structure": {
+        "protocol": "ATOM-TRUTH-ERC721-AUTHORITY-STRUCT",
+        "jurisdiction": "RobDoe Pty Ltd",
+        "governance_model": "Duty-Bound Foundational Stewardship (Under the Sovereign)",
+        "hierarchy": {
+            "root_authority": "ATOM-TRUTH",
+            "stewardship": "Kaitiakitanga / Foundational Anchor",
+            "enforcement": "Evidence Act 1995 s 146 Compliant"
+        },
+        "asset_distribution": {
+            "bundle_range": "1 - 5000",
+            "solo_remainder": 5001,
+            "nature": "Immutable, Non-Extractive, Structural Rights"
+        },
+        "timestamp": 1790178250.7169762
+    }
+}
