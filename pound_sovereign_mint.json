@@ -1,0 +1,11 @@
+{
+    "pound_mint_hash": "ed5825b2ed48b3855b2ab2799c4ce8323b08abbaaac41ad4fa3f42abacac9f55",
+    "metadata": {
+        "protocol": "ATOM-TRUTH-POUND-MINT",
+        "issuer": "RobDoe Pty Ltd",
+        "authority_node": "ATOM-TRUTH",
+        "asset_class": "Sovereign Pound Sterling Anchor",
+        "backing": "Ground-Up Structural Duty & Merkle Integrity",
+        "timestamp": 1790178316.4967709
+    }
+}
