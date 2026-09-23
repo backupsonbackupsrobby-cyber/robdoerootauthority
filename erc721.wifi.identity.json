@@ -1,0 +1,29 @@
+{
+  "name": "RobDoe WiFi Air-Interface Token (ERC-721)",
+  "symbol": "WIFI-NFT",
+  "description": "Cryptographic sovereign ownership token representing local Wi-Fi radio airspace and hardware binding under the Law of Shaped Force.",
+  "directive": "esp32",
+  "operator": "robdoeAi",
+  "corporateEntity": "RobDoe Pty Ltd",
+  "tokenId": "0x721132512",
+  "timestamp": "2026-09-23T12:07:10Z",
+  "wifiAirInterface": {
+    "ssid": "RobDoe-Termux-AirNode",
+    "bssid": "00:11:22:33:44:55",
+    "radioType": "802.11ax/ac",
+    "bindingTier": "Direct-Air-Interface-Zsh"
+  },
+  "attributes": [
+    { "trait_type": "Hardware Protocol", "value": "ESP32 / Wireless Mesh / Termux" },
+    { "trait_type": "Network SSID", "value": "RobDoe-Termux-AirNode" },
+    { "trait_type": "BSSID Fingerprint", "value": "00:11:22:33:44:55" },
+    { "trait_type": "Radio Standard", "value": "802.11ax" },
+    { "trait_type": "Chakra Stratum", "value": "Octave-8 Stellar Crown" }
+  ],
+  "smartContractTemplate": {
+    "standard": "ERC-721",
+    "solidity": "^0.8.20",
+    "network": "Local Sovereign Gateway",
+    "mintStatus": "Self-Executed"
+  }
+}

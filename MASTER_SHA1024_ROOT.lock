@@ -1,0 +1,12 @@
+{
+  "architecture": "RobDoe Sovereign Allodial Ecosystem (SHA-1024 Enhanced)",
+  "hardware_anchor": "Moto G06 (Termux Local Loopback)",
+  "owner_anchor": "ko_te_mana_o_te_tangata",
+  "routing": "127.0.0.1",
+  "cadence_tier": 0.052,
+  "statutory_basis": "Evidence Act 1995 (Cth) Section 146",
+  "total_vault_modules": 57,
+  "merkle_tree_depth": 6,
+  "master_root_hash_sha1024": "81e394a762549886c5730a6f17d171b4c0f91bcddeefbf16e1b19e863122318a19ef8d64953e2d8dba2f0d5eae40668b61e9d3d38abc2536784ed4b9ea8f0a32",
+  "sovereign_seal": "211bc308f047b53f5d1758c7af7f53f74311759751046eced4d837352b3b959715e46c7c14139712176c6639d1c307e142e5e00098acfbf2be4b7422dd59a0ea"
+}

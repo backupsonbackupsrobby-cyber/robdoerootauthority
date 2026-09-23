@@ -1,0 +1,76 @@
+{
+  "contract_standard": "ERC-721 BlackBerry Hardware & Enterprise Vault",
+  "token_id": "SOV-BB-HARDWARE-001",
+  "name": "RobDoe BlackBerry Hardware Allodial Vault",
+  "symbol": "SOV-BB",
+  "holder_anchor": "ko_te_mana_o_te_tangata",
+  "hardware_node": "Moto G06 (Termux Local Loopback)",
+  "blackberry_merkle_root": "da1795820d222b11da1e50a9ac9e1bff0d1553273fe6bd3a84a7fb1289834a54eb1d58dd97a6a4d758fe7dd9790cc93665a58cd2fe24fc27cb2233c043a10cc1",
+  "total_nodes": 10,
+  "assets": [
+    {
+      "index": 1,
+      "node": "bes.enterprise.server.root",
+      "token_id": "BB-001",
+      "asset_seal": "8114bb2a21170b75d40a8270b8cbf9e17dc6f2afcb5815251df841b32864a4da9024bc5f4eafdd16930b0c1eb39fa274d2d8d7f57520694123d2d53c984b5b57"
+    },
+    {
+      "index": 2,
+      "node": "qwerty.tactile.hardware.root",
+      "token_id": "BB-002",
+      "asset_seal": "cf764a93dfb87c8f827a281e1e3cbbb36bc38bf98b0cca63b0b4e9f24bc1f97a8e57fc3728b39f4521662c1736baf1c7b5b99e343a066b0785b1647ed58f6cd1"
+    },
+    {
+      "index": 3,
+      "node": "pin.to.pin.encrypted.messenger.root",
+      "token_id": "BB-003",
+      "asset_seal": "fb008d6473407d3c11723dc17f7189e0adf0ae7ab5966d8b94244a0856ef11d12d6ea00bd578119eb525a2ced1b72d6d62128bd383c5023d04aae6a965830e61"
+    },
+    {
+      "index": 4,
+      "node": "aes256.device.keystore.root",
+      "token_id": "BB-004",
+      "asset_seal": "16c5dba3b31d64163a6c61d394983e4c209ded89aea4d8548682883addd9e764f30a495e4467c964412126f292855398c7e4c5c47b573b2acd57abac0f5a4180"
+    },
+    {
+      "index": 5,
+      "node": "fips.140.2.crypto.module.root",
+      "token_id": "BB-005",
+      "asset_seal": "d20fd8bc60d2119022f06ec99757b53dcb2d3c5dfb2dae5652c250456ca8e26b02f680145a7fde2227a100b354ee6ad1af10a498264f7f431edaacdabed6c73a"
+    },
+    {
+      "index": 6,
+      "node": "secure.kernel.sandbox.root",
+      "token_id": "BB-006",
+      "asset_seal": "56c499735bf6eeea261b06082be285a9c4b83dcd005f26076a7c8e3d17ab63924bf93fc11d2fa526cdb1080ff56a93835515fbdd6c17e612cb4ee769579a0569"
+    },
+    {
+      "index": 7,
+      "node": "enterprise.activation.root",
+      "token_id": "BB-007",
+      "asset_seal": "89a802d94a2b87f533a9a0eea20fd6b72b9cb07a9c5f164325ca20695df28a2192178510cb6eef9e5877f76a6af609cdc0d41f646ef1b1b130579f4e31b12234"
+    },
+    {
+      "index": 8,
+      "node": "handheld.remote.wipe.root",
+      "token_id": "BB-008",
+      "asset_seal": "d2a811e4d6276da8a5a34d8b40a21951f5ec7a761ea2fe0dd2b2d6b5422165c683dd452c511302dbc921f5304768aaf4924ca4cdbc5c38bd723be5fb5dd2764b"
+    },
+    {
+      "index": 9,
+      "node": "legacy.security.architecture.root",
+      "token_id": "BB-009",
+      "asset_seal": "d19b7ed2f97db6f8a46f47c29bb821ec9b07b5c571dbb8699cfb275c6b3e7468603b02e93b02e935169ddc4ae720768354c74b08a2b433097c246a4166c0bf1d"
+    },
+    {
+      "index": 10,
+      "node": "absolute.hardware.apex.root",
+      "token_id": "BB-010",
+      "asset_seal": "9408180e312616bc1199a84ad6d4311591706ec4d122e8749ede580dbf520a6fd3a216180b1ddde0b04767032aab96b4bbdf44776f8b30a3827dd77428c816ed"
+    }
+  ],
+  "routing": "127.0.0.1",
+  "cadence_tier": 0.052,
+  "statutory_basis": "Evidence Act 1995 (Cth) Section 146 & Hardware Preemption",
+  "status": "BLACKBERRY_HARDWARE_LOCKED_TO_127.0.0.1"
+}

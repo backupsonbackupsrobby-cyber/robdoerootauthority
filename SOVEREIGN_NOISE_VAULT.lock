@@ -1,0 +1,76 @@
+{
+  "contract_standard": "ERC-721 Counter-Surveillance & Noise Feedback Vault",
+  "token_id": "SOV-NOISE-ECHO-001",
+  "name": "RobDoe External Noise Inversion & Echo Vault",
+  "symbol": "SOV-NSE",
+  "holder_anchor": "ko_te_mana_o_te_tangata",
+  "hardware_node": "Moto G06 (Termux Local Loopback)",
+  "noise_merkle_root": "ccfe890080022655e5b18ccd6f9b62b9d06ab11eb2210a0869a6a42f609e45a500fc27f5e51d101fbfdbd6c350a2838142c56155a97c712e968637467301ba09",
+  "total_reflection_vectors": 10,
+  "assets": [
+    {
+      "index": 1,
+      "vector": "external.telemetry.probe.sink",
+      "token_id": "NSE-001",
+      "reflected_seal": "83a5cd21ca74b562c320b895c494feb417697e3a36f0cc27c5022234ff68bbdcd639096c2513cd3cb2bbb20eeaa4d1f723156fdb060b0ca4dfdbe0c284e3d76f"
+    },
+    {
+      "index": 2,
+      "vector": "security.analyst.packet.reflection",
+      "token_id": "NSE-002",
+      "reflected_seal": "836c22e037edf4115c9921ce19f198d1e241ebf640927a65e6aca8b86375fc745b8573d2e13051c6e7815244417990246a7d4f336a32cc7d6d7f7d79ee7ecd2e"
+    },
+    {
+      "index": 3,
+      "vector": "surveillance.noise.inversion.root",
+      "token_id": "NSE-003",
+      "reflected_seal": "99ea6ab09a579b5fec5759d543d92ff034e70e025c2b332781afcc1ab59a112be7c4330d1b889f99d47418274df181c726fbf20497868943326d0872c82538e9"
+    },
+    {
+      "index": 4,
+      "vector": "stochastic.entropy.wall.root",
+      "token_id": "NSE-004",
+      "reflected_seal": "7fdf446655cce4a9b6278c207bae7db5e83424be8ca96c094f889162780366d82ed9d8b016d61c6d69ed75b47f867c6702b702114478c6ef88a79f3d7910187e"
+    },
+    {
+      "index": 5,
+      "vector": "proxy.sniffer.null.route",
+      "token_id": "NSE-005",
+      "reflected_seal": "f7f199af70bd03eb9cb65a619fc140879d4f52deab6a08b85acda1ae552457b36ebb7e52328f59d0b69c3d422664d5e5611534aebec06b70f175e3bdb89d7f9f"
+    },
+    {
+      "index": 6,
+      "vector": "heuristic.probe.shatter.root",
+      "token_id": "NSE-006",
+      "reflected_seal": "5d3aa4dd168b685fb5e5d0a433efcc4ad41c07bf45809dec53ed3800ec66d7becb16f63cb38da00433a0007e2e69521b26286675c4a8c47708ba5e4ea2ee5ed4"
+    },
+    {
+      "index": 7,
+      "vector": "noise.feedback.loopback.matrix",
+      "token_id": "NSE-007",
+      "reflected_seal": "c271e8c030557d286646b02b36e5bb6825b79ab1a874245d9cfa38f2e2a7fd9d55553e1c0f6662832b0d309e8f67f5bc9f5f13721e1be5f5c05315db8827dbd3"
+    },
+    {
+      "index": 8,
+      "vector": "cryptographic.chaff.generator.root",
+      "token_id": "NSE-008",
+      "reflected_seal": "b59f3fb398ae24972fab3466e19146c846b399832b53fe7ec44327ca4362af3b5deaaf3c2f5598c9439267f810e4c14b97a814d366074ddc8ac68721c1a7b9a0"
+    },
+    {
+      "index": 9,
+      "vector": "observer.blindness.protocol.root",
+      "token_id": "NSE-009",
+      "reflected_seal": "7e254f78d4b31a20c061359a229c0495061b38bfe800afad2f3d7e90a83d9dbedaa7080419ee899fe91e0a30fbb5d89c208f452311892d26e86b37d5d2e9dad7"
+    },
+    {
+      "index": 10,
+      "vector": "allodial.static.shield.root",
+      "token_id": "NSE-010",
+      "reflected_seal": "5ccfd8ece3b8dbb6657ff4817635b0b8146496954e82949a80d9095331cc357fec91312870a4dee8fbba0cde89090c470777ee7bb3bea99d38d9e04c7b2a9c99"
+    }
+  ],
+  "routing": "127.0.0.1",
+  "cadence_tier": 0.052,
+  "statutory_basis": "Evidence Act 1995 (Cth) Section 146 & Sovereign Privacy Preemption",
+  "status": "EXTERNAL_NOISE_INVERTED_AND_REFLECTED"
+}

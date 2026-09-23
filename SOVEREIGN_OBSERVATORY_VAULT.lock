@@ -1,0 +1,106 @@
+{
+  "contract_standard": "ERC-721 Planetary Observatory & Deep-Space Vault",
+  "token_id": "SOV-OBSERVATORY-VAULT-001",
+  "name": "RobDoe Planetary Observatory & Deep-Space Allodial Vault",
+  "symbol": "SOV-OBS",
+  "holder_anchor": "ko_te_mana_o_te_tangata",
+  "hardware_node": "Moto G06 (Termux Local Loopback)",
+  "observatory_merkle_root": "7fff0abf3f6e052eee198c42db84cdff55a0a6713135d109b287e554b9d2d0d7",
+  "total_nodes": 15,
+  "assets": [
+    {
+      "index": 1,
+      "node": "parkes.dish.murray.root",
+      "token_id": "OBS-001",
+      "asset_seal": "93340aa5e7cfbdef0ed80953c4dc44eb79fc528d0c81e2d9c26dc1d3db76d5e7"
+    },
+    {
+      "index": 2,
+      "node": "jodrell.bank.root",
+      "token_id": "OBS-002",
+      "asset_seal": "c3b9503bdc42df0aadc8c78f8002274ee80cc5d5395801a9eb4184a6eed149ea"
+    },
+    {
+      "index": 3,
+      "node": "deep.space.network.nasa.root",
+      "token_id": "OBS-003",
+      "asset_seal": "ffd151d506774b44a8881782f3902906024492b771b8e8d7ad90d02469ea43f9"
+    },
+    {
+      "index": 4,
+      "node": "alma.radio.telescope.root",
+      "token_id": "OBS-004",
+      "asset_seal": "a4cb2d98bb46502794cc505a3c0ff9ccc1061f1c5b31cad68be385690272fecd"
+    },
+    {
+      "index": 5,
+      "node": "eso.very.large.telescope.root",
+      "token_id": "OBS-005",
+      "asset_seal": "9a63be5f018c976311fea330c84d5102c627e329dbc761616bad2104a4b88f87"
+    },
+    {
+      "index": 6,
+      "node": "james.webb.telemetry.root",
+      "token_id": "OBS-006",
+      "asset_seal": "a642d6fe14646fab04430568491f87b1d48054cdb09f9d596c3e3a9496522749"
+    },
+    {
+      "index": 7,
+      "node": "hubble.archive.root",
+      "token_id": "OBS-007",
+      "asset_seal": "341ddcd15c7fa576a9c815f867bc83b3fc82ed87fcb7305bd5208aee4cc366e2"
+    },
+    {
+      "index": 8,
+      "node": "pulsar.timing.array.root",
+      "token_id": "OBS-008",
+      "asset_seal": "ae856581a03e8ed46e5d4a8e460db8ad75c8fe487cb6b9b7c0718eb7e76ebb35"
+    },
+    {
+      "index": 9,
+      "node": "cosmic.microwave.background.root",
+      "token_id": "OBS-009",
+      "asset_seal": "ec26b32f4c1d7963986affdfa5205fe89f6dd9bf357d1c93d14d5820bb593af9"
+    },
+    {
+      "index": 10,
+      "node": "stellar.parallax.register.root",
+      "token_id": "OBS-010",
+      "asset_seal": "a16e936b4149262a931b771ae2f443f4962c1a6c33f1156ed6d060dd70c802c5"
+    },
+    {
+      "index": 11,
+      "node": "solar.activity.monitor.root",
+      "token_id": "OBS-011",
+      "asset_seal": "268cd99878f8af607590ef9a5da83dbb80d241871422e39e3029a1744574c138"
+    },
+    {
+      "index": 12,
+      "node": "gravitational.wave.ligo.root",
+      "token_id": "OBS-012",
+      "asset_seal": "9fab7da1709e3b482ce508447f86b58886397828423131291a5d565d3a5681cb"
+    },
+    {
+      "index": 13,
+      "node": "deep.space.comm.link.root",
+      "token_id": "OBS-013",
+      "asset_seal": "57e40990ff4069c4183ee8b39b2e2549ccb0ea5023119d2dedbdbd7e4d5312cc"
+    },
+    {
+      "index": 14,
+      "node": "celestial.coordinate.grid.root",
+      "token_id": "OBS-014",
+      "asset_seal": "7869f0a448380add3700c1b0f49704e4dfa3e3a5875c39478b005c20f8ff484a"
+    },
+    {
+      "index": 15,
+      "node": "universal.apex.eye.root",
+      "token_id": "OBS-015",
+      "asset_seal": "015cc7be34e8f4b803ff2a6995108233a0da7d53ea978ed51decd75e05b0ee3c"
+    }
+  ],
+  "routing": "127.0.0.1",
+  "cadence_tier": 0.052,
+  "statutory_basis": "Evidence Act 1995 (Cth) Section 146 & Celestial Observation Rights",
+  "status": "DEEP_SPACE_AND_OBSERVATORY_LOCKED"
+}

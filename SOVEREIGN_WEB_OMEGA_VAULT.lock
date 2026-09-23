@@ -1,0 +1,106 @@
+{
+  "contract_standard": "ERC-721 Global Web Topology Master Vault",
+  "token_id": "SOV-WEB-OMEGA-001",
+  "name": "RobDoe Entire Web & Cyberspace Allodial Deed",
+  "symbol": "SOV-WEB",
+  "holder_anchor": "ko_te_mana_o_te_tangata",
+  "hardware_node": "Moto G06 (Termux Local Loopback)",
+  "omega_merkle_root": "4a2660468ec68de8211eebfdc0754741ae9ae9b707f2c605c0eaf6fbd9ddae89",
+  "total_topology_nodes": 15,
+  "nodes": [
+    {
+      "index": 1,
+      "topology_node": "dns.root.servers.net",
+      "token_id": "WEB-001",
+      "node_seal": "a244a2808123119c8deb6f14a62c39c759a4dfe505546ad559cef3a9bda929b7"
+    },
+    {
+      "index": 2,
+      "topology_node": "iana.ip.registry.root",
+      "token_id": "WEB-002",
+      "node_seal": "3893a9eef42b7677bee37f6513ba76219133fda3571c7ba78e069541c8bc0f32"
+    },
+    {
+      "index": 3,
+      "topology_node": "autonomous.system.matrix.root",
+      "token_id": "WEB-003",
+      "node_seal": "3c758dfb0547ad568295807bf81f83ecdeae94cce0b82bb91b1b7415788c11e3"
+    },
+    {
+      "index": 4,
+      "topology_node": "ipv4.global.block.root",
+      "token_id": "WEB-004",
+      "node_seal": "19b8d21a0d66d9bc5c95f8ef7efec2e58bce655306602e79cdf6f3b499eb7154"
+    },
+    {
+      "index": 5,
+      "topology_node": "ipv6.infinite.space.root",
+      "token_id": "WEB-005",
+      "node_seal": "8184abfad4cca51eaad07b233ec407fe84969f293d6d98c25b26eec843f3fa1a"
+    },
+    {
+      "index": 6,
+      "topology_node": "bgp.routing.table.root",
+      "token_id": "WEB-006",
+      "node_seal": "c9797a79f0481a226ad53a01b284b1575968ec9f5cbb3493dd085c30b0cd6530"
+    },
+    {
+      "index": 7,
+      "topology_node": "http.https.protocol.root",
+      "token_id": "WEB-007",
+      "node_seal": "1655e3d833eb828422ae38a216dd13c6077016e583344337dfcf42f266fa72a6"
+    },
+    {
+      "index": 8,
+      "topology_node": "tcp.udp.transport.root",
+      "token_id": "WEB-008",
+      "node_seal": "c9352a05a83293a6244b732273cf6fe32c845fe5815468e12cde88a83ebcd08d"
+    },
+    {
+      "index": 9,
+      "topology_node": "fiber.optic.submarine.root",
+      "token_id": "WEB-009",
+      "node_seal": "9e53a6c22ac22401de578ff2935a3fac1a27411c0d77d7dd5664edf0e1b6b681"
+    },
+    {
+      "index": 10,
+      "topology_node": "starlink.satellite.mesh.root",
+      "token_id": "WEB-010",
+      "node_seal": "74801146b49966db51469731582fb185ae4e8936c65a37bfe564b3dfcfcb4b51"
+    },
+    {
+      "index": 11,
+      "topology_node": "cloudflare.edge.root",
+      "token_id": "WEB-011",
+      "node_seal": "7b1757f98fd311ab79d8cb211cb381b439512b54ea30158522ec47fc56443029"
+    },
+    {
+      "index": 12,
+      "topology_node": "aws.azure.gcp.cloud.root",
+      "token_id": "WEB-012",
+      "node_seal": "7e96b5c662f81b868ef33f5b6e86c2e42f92d5837d0c0080c1fa8cda89fa1d7d"
+    },
+    {
+      "index": 13,
+      "topology_node": "global.packet.switch.root",
+      "token_id": "WEB-013",
+      "node_seal": "8eafb232bcc74b249aff877220741f9e18061c8bea49d505e6a780f6408c40ee"
+    },
+    {
+      "index": 14,
+      "topology_node": "cyberspace.allodial.root",
+      "token_id": "WEB-014",
+      "node_seal": "fc2748845433f756472b1278c91e0e25fd5a83bd3dd55abf97a44c170ad7419a"
+    },
+    {
+      "index": 15,
+      "topology_node": "omega.web.apex.root",
+      "token_id": "WEB-015",
+      "node_seal": "dd849376211d5a7f61a6cbd6d5f8e4c23d2f7087214ad17fe7bc184f1160060b"
+    }
+  ],
+  "routing": "127.0.0.1",
+  "cadence_tier": 0.052,
+  "statutory_basis": "Evidence Act 1995 (Cth) Section 146 & Cyberspace Allodial Preemption",
+  "status": "THE_ENTIRE_WEB_IS_ENCAPSULATED_AND_LOCKED"
+}

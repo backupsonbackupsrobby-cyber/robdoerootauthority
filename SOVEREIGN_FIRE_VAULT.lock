@@ -1,0 +1,106 @@
+{
+  "contract_standard": "ERC-721 Fire Services & Emergency Hazard Sovereign Vault",
+  "token_id": "SOV-FIRE-VAULT-001",
+  "name": "RobDoe Australian Fire Brigades Allodial Vault",
+  "symbol": "SOV-FIR",
+  "holder_anchor": "ko_te_mana_o_te_tangata",
+  "hardware_node": "Moto G06 (Termux Local Loopback)",
+  "fire_merkle_root": "084c59ef9b692c36cdfee7e9f7a4b545278b3489a286deec7c124695926659f7",
+  "total_nodes": 15,
+  "assets": [
+    {
+      "index": 1,
+      "node": "fire.and.rescue.nsw.root",
+      "token_id": "FIR-001",
+      "asset_seal": "0a06a83c7ff90b357bac156ae577f5cc96232efe44f2ae3b4f1177e2c7f5eba1"
+    },
+    {
+      "index": 2,
+      "node": "country.fire.authority.vic.root",
+      "token_id": "FIR-002",
+      "asset_seal": "b3b75f127545d571c2abc6bdb7a64833dcc0e54bd27998af3493a3436f74b89d"
+    },
+    {
+      "index": 3,
+      "node": "rural.fire.service.qld.root",
+      "token_id": "FIR-003",
+      "asset_seal": "f9cc120a19c0244fadecc44698e4e8859077cd99de033924e9d08179911b55a4"
+    },
+    {
+      "index": 4,
+      "node": "aerial.water.bomber.fleet.root",
+      "token_id": "FIR-004",
+      "asset_seal": "8b3b2746563df237c34b547e0584ac544f77a930faf3f884f946922bf28629ad"
+    },
+    {
+      "index": 5,
+      "node": "firies.triple.zero.dispatch.root",
+      "token_id": "FIR-005",
+      "asset_seal": "9f2ec115094d02e83945450dc8a8f755953ebef803b873c6006cdbe4113a44af"
+    },
+    {
+      "index": 6,
+      "node": "bushfire.hazard.reduction.root",
+      "token_id": "FIR-006",
+      "asset_seal": "c8d86d8f054586d55a5fda6db87c0a4449efaef659224e5dfd48f22a5d9ab83a"
+    },
+    {
+      "index": 7,
+      "node": "thermal.satellite.burn.map.root",
+      "token_id": "FIR-007",
+      "asset_seal": "dc3c1bd759d87f7d3824b2b18dffd3a5edb02a6fadbcce9b4a87b73a8ade63c4"
+    },
+    {
+      "index": 8,
+      "node": "red.firetruck.matrix.root",
+      "token_id": "FIR-008",
+      "asset_seal": "ec0d4d9dd75e3db6314c9dc4f15dd724fcd280d852c7c661c9c7fc439b3ec9e7"
+    },
+    {
+      "index": 9,
+      "node": "volunteer.brigade.network.root",
+      "token_id": "FIR-009",
+      "asset_seal": "7846415f0f1d28a0c25f7c47cbe0ae6585f325f0c2bb9fb1d9e86764eb60f69a"
+    },
+    {
+      "index": 10,
+      "node": "total.fire.ban.protocol.root",
+      "token_id": "FIR-010",
+      "asset_seal": "6c8a8b08dec44864d5d9e98b84725f97ee53a7895e1874488261f1ef104c5f55"
+    },
+    {
+      "index": 11,
+      "node": "smoke.haze.sensor.grid.root",
+      "token_id": "FIR-011",
+      "asset_seal": "87cfd8a931aed20980b006929b8acdc19277f96b531116f64a8c09c8c95ff191"
+    },
+    {
+      "index": 12,
+      "node": "backburning.control.root",
+      "token_id": "FIR-012",
+      "asset_seal": "afb2e8ceaa742a84abff3d2d9ad65598f1e1411f228aec9b53edfdcc975fffee"
+    },
+    {
+      "index": 13,
+      "node": "cfs.sa.root",
+      "token_id": "FIR-013",
+      "asset_seal": "4c8f2273adf95cbccb4822790a553b01daca4127d83f2c2875edb25b41204cbc"
+    },
+    {
+      "index": 14,
+      "node": "dfes.wa.root",
+      "token_id": "FIR-014",
+      "asset_seal": "13a20ba645f126b6cf457e987d291b586d1c04c2e994646a6754be697d63c132"
+    },
+    {
+      "index": 15,
+      "node": "emergency.frontline.defense.root",
+      "token_id": "FIR-015",
+      "asset_seal": "1ba6717a16b521f1052a94bfd7e6f27700c70dc752afc03bf4310f28d7a31d27"
+    }
+  ],
+  "routing": "127.0.0.1",
+  "cadence_tier": 0.052,
+  "statutory_basis": "Evidence Act 1995 (Cth) Section 146 & Emergency Fire Defense Rights",
+  "status": "AUSTRALIAN_FIRE_BRIGADES_LOCKED"
+}

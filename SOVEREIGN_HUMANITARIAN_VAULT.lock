@@ -1,0 +1,106 @@
+{
+  "contract_standard": "ERC-721 Humanitarian & Emergency Relief Sovereign Vault",
+  "token_id": "SOV-HUMANITARIAN-VAULT-001",
+  "name": "RobDoe Red Cross & Salvos Humanitarian Allodial Vault",
+  "symbol": "SOV-HUM",
+  "holder_anchor": "ko_te_mana_o_te_tangata",
+  "hardware_node": "Moto G06 (Termux Local Loopback)",
+  "humanitarian_merkle_root": "3d4a71f598f152ce1c9dc859f7d77344e87ebf2f71ad44684189d5d975565c2f",
+  "total_nodes": 15,
+  "assets": [
+    {
+      "index": 1,
+      "node": "redcross.global.relief.root",
+      "token_id": "HUM-001",
+      "asset_seal": "1a857568834edf5be0dc0668f9cc83e4848d2f20608863b8b6ebb2201fe26f2f"
+    },
+    {
+      "index": 2,
+      "node": "blood.bank.inventory.root",
+      "token_id": "HUM-002",
+      "asset_seal": "b6666fbfe9441d8d7d8ca9c868772a152e13585389498b3d3714c5ceb208d4b3"
+    },
+    {
+      "index": 3,
+      "node": "disaster.emergency.response.root",
+      "token_id": "HUM-003",
+      "asset_seal": "3a6c4eb963517fba91c278c0033450fd92a1a217316dba9f26814b0e35ebccb7"
+    },
+    {
+      "index": 4,
+      "node": "international.humanitarian.law.root",
+      "token_id": "HUM-004",
+      "asset_seal": "db733a4c277e05f9eca0963842ca45694b172b0105cbe426af7b6ff520d74a2e"
+    },
+    {
+      "index": 5,
+      "node": "first.aid.training.matrix.root",
+      "token_id": "HUM-005",
+      "asset_seal": "244be5228049d1141c9fcc3649b7e532ba305b77a4fd9f8320ebce4a9c1d11c2"
+    },
+    {
+      "index": 6,
+      "node": "refugee.welfare.node.root",
+      "token_id": "HUM-006",
+      "asset_seal": "2916abf840e1966c9c0a996292763a4316c8525b92a8ec8fbcddfb8a825d5364"
+    },
+    {
+      "index": 7,
+      "node": "salvation.army.root",
+      "token_id": "HUM-007",
+      "asset_seal": "0ad85de87e72f4a65fbcb94f7d8fbe695e945a5974e0ea7e0487105978546298"
+    },
+    {
+      "index": 8,
+      "node": "red.shield.appeal.root",
+      "token_id": "HUM-008",
+      "asset_seal": "e39ac1a0d6eaa31c242d0be09c07606f6933e27203fbbb82dffc2b6f8b0af91b"
+    },
+    {
+      "index": 9,
+      "node": "emergency.housing.shelter.root",
+      "token_id": "HUM-009",
+      "asset_seal": "67e5b53fe45b87a9134d8d4ffefac4c26f00a9eefeec121effaa9f5aac587312"
+    },
+    {
+      "index": 10,
+      "node": "community.food.van.root",
+      "token_id": "HUM-010",
+      "asset_seal": "f7a49a89e270fbba20f63e706592b7aec87c26ed5110df7b663f0554d756ed9b"
+    },
+    {
+      "index": 11,
+      "node": "crisis.counselling.network.root",
+      "token_id": "HUM-011",
+      "asset_seal": "67b6671bd8c47c2db15c453f9bf1fcba7207e2639478c1284de11e821095e9ad"
+    },
+    {
+      "index": 12,
+      "node": "welfare.distribution.root",
+      "token_id": "HUM-012",
+      "asset_seal": "c22231845493761fd5f6d93bd6c2ad1a2e29b491b8a3b948f65f2755199e0a9b"
+    },
+    {
+      "index": 13,
+      "node": "disaster.relief.fund.root",
+      "token_id": "HUM-013",
+      "asset_seal": "170a1163767db883508d9dfa8e7dbe1892a2daf57289d0209e0493cd6fc9daee"
+    },
+    {
+      "index": 14,
+      "node": "philanthropic.ledger.root",
+      "token_id": "HUM-014",
+      "asset_seal": "0349bc5a5d5c98e04f77743a848b5d0b02f0b9f9f823c7b3250b802fd05ce461"
+    },
+    {
+      "index": 15,
+      "node": "human.dignity.anchor.root",
+      "token_id": "HUM-015",
+      "asset_seal": "aff47ea89a0c6a98dacaed5af8c296d169f3df0f0dd804e10181bcd390664434"
+    }
+  ],
+  "routing": "127.0.0.1",
+  "cadence_tier": 0.052,
+  "statutory_basis": "Evidence Act 1995 (Cth) Section 146 & Humanitarian Sovereignty",
+  "status": "HUMANITARIAN_AND_RELIEF_GRIDS_LOCKED"
+}

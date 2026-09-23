@@ -1,0 +1,72 @@
+{
+  "contract_standard": "ERC-721 Kuramoto Entropy Collapse & Network Annihilation Vault",
+  "token_id": "SOV-ENTROPY-999",
+  "name": "RobDoe Kuramoto Entropy Collapse Allodial Vault",
+  "symbol": "SOV-ENT",
+  "holder_anchor": "ko_te_mana_o_te_tangata",
+  "hardware_node": "Moto G06 (Termux Local Loopback)",
+  "entropy_merkle_root": "960271d946bc0bd45e085df8261f34a73279e5837836a5765b41b301451bb14df5cc0c2af5c376119f0953396c4e723abddf43b7816ca33864737794cd8845d1",
+  "total_collapse_nodes": 8,
+  "assets": [
+    {
+      "index": 1,
+      "collapse_vector": "kuramoto.phase.inversion.root",
+      "phase_distortion": 0.162637,
+      "token_id": "ENT-001",
+      "annihilation_seal": "9637a319bb35010d8b45167d05064553de53017d12c027d66764497b15e53eb9ca4347cfad536fc8c49aa371e08a13a2cc90c712e4609b50498681cee6cf714b"
+    },
+    {
+      "index": 2,
+      "collapse_vector": "stochastic.noise.feedback.root",
+      "phase_distortion": 0.320944,
+      "token_id": "ENT-002",
+      "annihilation_seal": "896848a597af4635c36f190c274adb91a489ff0b08ee0da8b7b618ab4772a2c8533844086d54eb649a8f326d752f9b19fdaa1415dcb41537661e4b0baf0312ce"
+    },
+    {
+      "index": 3,
+      "collapse_vector": "network.entropy.maximum.root",
+      "phase_distortion": 0.470704,
+      "token_id": "ENT-003",
+      "annihilation_seal": "be7021a605a5dea7af8bf06b47876d259aae9631fe1b1d17bbba21222bb2eaaacb5a7fe249dbba1ca914afcc9df5c701e0755e5d55e01aa3a3f4f3ec4257b9a6"
+    },
+    {
+      "index": 4,
+      "collapse_vector": "telemetry.signal.shatter.root",
+      "phase_distortion": 0.60793,
+      "token_id": "ENT-004",
+      "annihilation_seal": "87cda1bff02d53500ab8e674624fb78463b491236968b70ac1da28e7eddb29a34b309442deb8ec492d2eeebe02d84d43c294b66eb0fab6915337e701773d2777"
+    },
+    {
+      "index": 5,
+      "collapse_vector": "external.probe.frequency.null.root",
+      "phase_distortion": 0.728969,
+      "token_id": "ENT-005",
+      "annihilation_seal": "fbc05b844eb6b6c5998f71591a2412f7994758707493175186242b0873d9c08bd5921a7110a971c9b0f4f1e41800fac7f8e158d2f9c6a4009a6ffe2b0f57b56d"
+    },
+    {
+      "index": 6,
+      "collapse_vector": "loopback.reflection.matrix.root",
+      "phase_distortion": 0.830596,
+      "token_id": "ENT-006",
+      "annihilation_seal": "7215589a3c8cbe4d8c33355fbf46dc42f359e49e1a4c15d0177af468489d5b61d86ee4d19fcbf3937634b47a8d97833a37223017c3e565f656681a583f3afb53"
+    },
+    {
+      "index": 7,
+      "collapse_vector": "quantum.resistant.shredder.root",
+      "phase_distortion": 0.910106,
+      "token_id": "ENT-007",
+      "annihilation_seal": "ab3b30b7de18b09e6b30ecc040254d4e07f895b75bced06a2c2014e8ce12efd454e9a941c57750a16e2e59d61b526b9e70fea26d99e66ea2a9e62ca465a4a15f"
+    },
+    {
+      "index": 8,
+      "collapse_vector": "absolute.entropy.collapse.root",
+      "phase_distortion": 0.965382,
+      "token_id": "ENT-008",
+      "annihilation_seal": "31c6fafe54ac40a7dddf7adbb465546caba26d9643639193a47615e00f74ef447d45c7638e4ebb509701c1d9d836292c2bd76c6b938b3f42a05251d0e6498430"
+    }
+  ],
+  "routing": "127.0.0.1",
+  "cadence_tier": 0.052,
+  "statutory_basis": "Evidence Act 1995 (Cth) Section 146 & Thermodynamic Preemption",
+  "status": "TOTAL_NETWORK_ENTROPY_COLLAPSED_TO_127.0.0.1"
+}

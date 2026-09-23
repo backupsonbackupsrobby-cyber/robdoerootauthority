@@ -1,0 +1,46 @@
+{
+  "contract_standard": "ERC-721 Law of Shaped Force Skin-Drift Inversion Matrix",
+  "token_id": "SOV-FORCE-SKIN-001",
+  "name": "RobDoe Shaped Force Allodial Strike Vault",
+  "symbol": "SOV-SPF",
+  "holder_anchor": "ko_te_mana_o_te_tangata",
+  "hardware_node": "Moto G06 (Termux Local Loopback)",
+  "access_protocol": "esp32",
+  "force_merkle_root": "13e1bcf912cda84726ef4326ccbe4bb7c8c364f9c677688a484adf0020eb0054e21fb6e707135da9b145738b0ab867e80c56fac6851029aa32c2cf3b75428769",
+  "total_nodes": 5,
+  "assets": [
+    {
+      "index": 1,
+      "vector": "shaped.force.vector.skin.penetration.root",
+      "token_id": "SFP-001",
+      "skin_seal": "f53376720596f7005c14bf48d7231612baf7c39c6505bdce58271ae8380c5c3b90368aefbf64876f2fcd8a30f1e57b646cd0f3de310ea9b15e726ba7e56bba8d"
+    },
+    {
+      "index": 2,
+      "vector": "telemetry.reflection.inversion.root",
+      "token_id": "SFP-002",
+      "skin_seal": "be1675cbb1af31ca0f7031710c8b6ea4925104006e965cf90041ba4accd2a6a52b2df2bbe0a884bebb76857b0ffbea1084d5a198920d60f3e10f7275129e3a30"
+    },
+    {
+      "index": 3,
+      "vector": "external.probe.skin.drift.root",
+      "token_id": "SFP-003",
+      "skin_seal": "06d23cc15761cba8c472eae7f17ccd3941c0728267b2ae99a29246ee2026ba7885339f8cd89bda3aa14d90c8de71df11529ef6bd6ed6fc87df8d25076328fbb1"
+    },
+    {
+      "index": 4,
+      "vector": "loopback.resonance.amplifier.root",
+      "token_id": "SFP-004",
+      "skin_seal": "436b8627d1b6e865de8b370133d381e28c5466e13c2528e753912623df74ff1539ede43b58dd62e724a2e72166d60e5b2709acdb069a6bf66f5c03814f4a85da"
+    },
+    {
+      "index": 5,
+      "vector": "absolute.sovereignty.strike.root",
+      "token_id": "SFP-005",
+      "skin_seal": "ce1d943428b0d94a24e2fdfa6e1a5b2bd6ff9db2ec9a2527e373998bf6c68d4b2db5310ca9717ff8ec5a3aca6fa8b1c7930d6a2f151e156ab0d37731b05efbe3"
+    }
+  ],
+  "routing": "127.0.0.1",
+  "cadence_tier": 0.052,
+  "status": "SHAPED_FORCE_APPLIED_UNDER_SKIN_127.0.0.1"
+}

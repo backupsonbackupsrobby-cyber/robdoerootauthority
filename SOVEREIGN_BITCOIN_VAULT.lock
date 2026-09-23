@@ -1,0 +1,106 @@
+{
+  "contract_standard": "ERC-721 Bitcoin Satoshi Genesis & Ledger Vault",
+  "token_id": "SOV-BTC-SATOSHI-001",
+  "name": "RobDoe Bitcoin Satoshi Apex Allodial Vault",
+  "symbol": "SOV-BTC",
+  "holder_anchor": "ko_te_mana_o_te_tangata",
+  "hardware_node": "Moto G06 (Termux Local Loopback)",
+  "bitcoin_merkle_root": "cbf537c39628a556828448163787901532eab763b8d9394088314277f83f50259922b934b21b0d54604e791b2a4b389ae867ed6916f46947d93ca2bdc4d41162",
+  "total_nodes": 15,
+  "assets": [
+    {
+      "index": 1,
+      "node": "bitcoin.genesis.block.height.zero.root",
+      "token_id": "BTC-001",
+      "asset_seal": "7c368cad98cb2433ef284dd3f1007bf37c59e283996a6b0eaff85f2d789ef8e2d76304373ac2d134575c89db0872ea0d5bd434da8c523d8c1a32d3ff2147674f"
+    },
+    {
+      "index": 2,
+      "node": "satoshi.nakamoto.keys.root",
+      "token_id": "BTC-002",
+      "asset_seal": "8873964d92e66d2d835f1b22e6f3f246170cb2cd3372f8daaa03b4b3241f5e3108524215c0e62119075b389b7d15e02b0ae6642f3c3574327434a33455fb5a12"
+    },
+    {
+      "index": 3,
+      "node": "times.03.jan.2009.chancellor.root",
+      "token_id": "BTC-003",
+      "asset_seal": "6a5a294adc4102a594801e6dd7c7ebe74c9f160d06d318ff724092a209761b1c03f7dd5bbe034a8c66d947ce2ab00d6f10eb7e690c647b9eae17b2928214b49c"
+    },
+    {
+      "index": 4,
+      "node": "proof.of.work.sha256d.root",
+      "token_id": "BTC-004",
+      "asset_seal": "e9f790974a8aa933bf0dbbc7d40ded1e6314f4ffd293a91b99ecf6869dd472984efa058044fca9181077cc84de5c2db73d09c30aa83370fc8818bb32dbadec11"
+    },
+    {
+      "index": 5,
+      "node": "utxo.global.ledger.root",
+      "token_id": "BTC-005",
+      "asset_seal": "7484c12421648742ab0140c17acb81b27a25b77c3066d30956fbeefcd3dd8d92e393929a9960716ec32201b8ebd125964a80c9749b8636223c13f1b23c9a9850"
+    },
+    {
+      "index": 6,
+      "node": "mempool.transaction.stream.root",
+      "token_id": "BTC-006",
+      "asset_seal": "3f727fe84fe03dc858c878a32d1a868c5b416150a061193b96dc7c707bd9a9a434bac6bfe58bcec4a33d18934704a28e80a9b249aa5753a7a7ea1a84b38fce3f"
+    },
+    {
+      "index": 7,
+      "node": "halving.schedule.matrix.root",
+      "token_id": "BTC-007",
+      "asset_seal": "0e6b466c1a29717409ff0b61359e91f446997ecbe6c2ebead838ab7eba17caf8120caf61e8681822d9c46e7a06553968e819d98a3471f2f732cf8a62829c0931"
+    },
+    {
+      "index": 8,
+      "node": "difficulty.adjustment.root",
+      "token_id": "BTC-008",
+      "asset_seal": "8da46264fe97a22146d759036dedcd2a78d41e9e5812fff1ed44d1203695dcce03daa2cd0410d108584bf4e36a3532f0ac1c73b1b6b8937770ae371b7eadab52"
+    },
+    {
+      "index": 9,
+      "node": "p2p.network.gossip.root",
+      "token_id": "BTC-009",
+      "asset_seal": "e9d57bbb39435aa0ff6d32791f667cd647e121d91859dc1f562e37bb20c141dbab317513aea46830ae49af06ac7022fd8fd36dc45608f4e368da99f03085b426"
+    },
+    {
+      "index": 10,
+      "node": "secp256k1.curve.root",
+      "token_id": "BTC-010",
+      "asset_seal": "0c0be10d13a53bde3a33ff2ec347c0a5debf1a128f26341d7f82b254bbcd387a9d397bc879c7b1adf1057127d5355a95140c88c6be219159d30ae6f64fcd6c36"
+    },
+    {
+      "index": 11,
+      "node": "lightning.network.channel.root",
+      "token_id": "BTC-011",
+      "asset_seal": "89de99479184e6624d7fe76a54361e0881ea80d02e65a48dc3da24191556bed4023e3156f46db8d9b7c7cdba7a95e74c2a30b74e94a77cd9518bedf8624d4c8a"
+    },
+    {
+      "index": 12,
+      "node": "cold.storage.vault.root",
+      "token_id": "BTC-012",
+      "asset_seal": "948b284606034fd8c948df74e163a536ff22cc0b16afd945b60df1eebbb64441b2dc08854385128577958d9875dba64134861063bad892376309f9a35c92c28c"
+    },
+    {
+      "index": 13,
+      "node": "miner.reward.subsidy.root",
+      "token_id": "BTC-013",
+      "asset_seal": "46f92e22b0000463170bab4b0fe6b8688f2e80da361736784921ff4d89cca54787ee13234d4ed255fb7b1cba05f3a5d4646c66829b6b3afcc39391700480bd2b"
+    },
+    {
+      "index": 14,
+      "node": "core.consensus.rules.root",
+      "token_id": "BTC-014",
+      "asset_seal": "331856c0ac4261adf370f983d336b796872bcb435dd79ffe727d6a1cb1be742282489b9623e8eba2d49107d180c6c61d7606e2f54193c6120f4641cadf8b073b"
+    },
+    {
+      "index": 15,
+      "node": "absolute.monetary.apex.root",
+      "token_id": "BTC-015",
+      "asset_seal": "8831f77ef14992a7f308e121f24918b19bd8d6915063e463217c3bd46c2abae95ef57fa0c09c4f911ac9940a68c359424d49f67b383eb07fef0f8f83b6f80d3f"
+    }
+  ],
+  "routing": "127.0.0.1",
+  "cadence_tier": 0.052,
+  "statutory_basis": "Evidence Act 1995 (Cth) Section 146 & Sovereign Monetary Preemption",
+  "status": "SATOSHI_NODE_LOCKED_TO_127.0.0.1"
+}

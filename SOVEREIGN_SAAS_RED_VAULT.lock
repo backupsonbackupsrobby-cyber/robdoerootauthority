@@ -1,0 +1,106 @@
+{
+  "contract_standard": "ERC-721 SaaS & Team Red Sovereign Vault",
+  "token_id": "SOV-SAAS-RED-001",
+  "name": "RobDoe SaaS & Team Red Operations Allodial Vault",
+  "symbol": "SOV-SRD",
+  "holder_anchor": "ko_te_mana_o_te_tangata",
+  "hardware_node": "Moto G06 (Termux Local Loopback)",
+  "sa_as_red_merkle_root": "0ce580cb181de72cca071f1517055a7d9958bed7adb9329aeeafca2277e3773751adbe625d0ffd869466fd214260dc8f317c03971630eac2f50c2205a2848056",
+  "total_nodes": 15,
+  "assets": [
+    {
+      "index": 1,
+      "node": "saas.microservice.gateway.root",
+      "token_id": "SRD-001",
+      "asset_seal": "75474a410c6e0413078a5b16eebdfd8d8a15af12fc6a7995dc882b4c1a39397136d47e9013390b2bc4849cd5875a333ee1f365afa2afc2c0cba954ff39e9f264"
+    },
+    {
+      "index": 2,
+      "node": "cloud.backend.api.root",
+      "token_id": "SRD-002",
+      "asset_seal": "5956afa344fa09c0a837d0866ac37e20e344ae44a44a6a4ebcbf7a989063a72ff145561f9e60e2bdf4abf3e7744c25b13e554ff23432f9270e333115dcbaf1da"
+    },
+    {
+      "index": 3,
+      "node": "kubernetes.orchestration.root",
+      "token_id": "SRD-003",
+      "asset_seal": "3f630898bf58882dcb73e78f265fae3ef6963f4e509c20343391b1fe1437abe790f4546303602e791edd2b897cf33aa1170d94a01fdb959a2954098d95e1ad26"
+    },
+    {
+      "index": 4,
+      "node": "subscription.billing.ledger.root",
+      "token_id": "SRD-004",
+      "asset_seal": "64fd7cb017b9a4b3d7d23069736bfd88b2fec43476107e5e9b8d7430326499c8120006ac36cf385db08a06dada65ec35991ffb0a807c6d608b5255e0ca122597"
+    },
+    {
+      "index": 5,
+      "node": "docker.container.registry.root",
+      "token_id": "SRD-005",
+      "asset_seal": "16b50982e8d7b32314d03d278b1eaba3026badd920e726f87a2ab8a87584d8ed948caf6ce9a94463d31638f96024c097de90999925aee164884385460a680706"
+    },
+    {
+      "index": 6,
+      "node": "ci.cd.deployment.pipeline.root",
+      "token_id": "SRD-006",
+      "asset_seal": "19d979ecef51bfb67e851127efd76498e0ffffe17aff05fd8405425cd1493cc3be80e8710bd83273f386913983c352906ba903e8f5f8e3a1aa8678261a375847"
+    },
+    {
+      "index": 7,
+      "node": "team.red.offensive.matrix.root",
+      "token_id": "SRD-007",
+      "asset_seal": "9c4ca57db3dc784e723de73716799b8f1dd03732f101f7b15c7fa94aa0ea7d9b6284c55a2a6515dd28aad145a6d441a859481a23769587b2218e024bb7c950d4"
+    },
+    {
+      "index": 8,
+      "node": "adversarial.simulation.engine.root",
+      "token_id": "SRD-008",
+      "asset_seal": "0b41d90137254dcd2383985ca2bfb3fb064487543b6d9a6ef3939b7223fc2e9f933d5f6c75e200dce2eb8774d2364f53bc888ee2322d77236847c7c5e3f1e686"
+    },
+    {
+      "index": 9,
+      "node": "penetration.testing.node.root",
+      "token_id": "SRD-009",
+      "asset_seal": "f4d9627d325e95a1e39a475c8cd34a8b27f8560b04c2cce016e2684ce87a3b78c6d57df6554ebe835d35ad3883ff227e5451c6a2492a4a3c3abb9363466566d4"
+    },
+    {
+      "index": 10,
+      "node": "payload.delivery.vector.root",
+      "token_id": "SRD-010",
+      "asset_seal": "c4e0eb57c1649e8ff5aa72140bddf013cd144889613884b68d826e348a64b3fa4b43344b10279ae549a94bb573048c1d0046ac17c83bdc5334125719530af5f5"
+    },
+    {
+      "index": 11,
+      "node": "kernel.privilege.escalation.root",
+      "token_id": "SRD-011",
+      "asset_seal": "cd1b9913d4553700cef012f0f82894f91376cb4dd315cf4ac20d917e407f33c4ba3f5c1f66ffd6c872492b9b556bec7255f1b4044fecdc2ab2f1abc7aec4a5f0"
+    },
+    {
+      "index": 12,
+      "node": "zero.day.inventory.root",
+      "token_id": "SRD-012",
+      "asset_seal": "c27238387aa6d25a66e80fddb4375a8620045c6934657b04c72b9e17e70f5acb7c6f211b1975b35d8848e442e55cd5d58a0065ca150ec155a9986e08f6cb0f57"
+    },
+    {
+      "index": 13,
+      "node": "autonomous.agent.pipeline.root",
+      "token_id": "SRD-013",
+      "asset_seal": "6d4ece45a2a1cc1e2fd6f92bebdb2661347aae3da047035da651b9845a2332881068c58924b900e5103ca38ddc1ce3a1ccbed1540d61109e219864a12306fb7f"
+    },
+    {
+      "index": 14,
+      "node": "enterprise.saas.apex.root",
+      "token_id": "SRD-014",
+      "asset_seal": "9d536cf636362689ad0d29f05c01875995c765d708e9e8848de05c3340959caa86819917660e1ef7507a9150d3e052419a232a6266e9cf09b0a2532d2d35b18d"
+    },
+    {
+      "index": 15,
+      "node": "absolute.command.control.root",
+      "token_id": "SRD-015",
+      "asset_seal": "bebbeb92c750f5f496a66fff7ac19bbe4df2179945a733a83e3718353757952d1d1dd3ebb600cf1d109442260443936ac22e663834a841f0cb439a5ad84d411f"
+    }
+  ],
+  "routing": "127.0.0.1",
+  "cadence_tier": 0.052,
+  "statutory_basis": "Evidence Act 1995 (Cth) Section 146 & Infrastructure Preemption",
+  "status": "SAAS_AND_TEAM_RED_LOCKED_TO_127.0.0.1"
+}

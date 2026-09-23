@@ -1,0 +1,106 @@
+{
+  "contract_standard": "ERC-721 Gaming & Living Room Entertainment Vault",
+  "token_id": "SOV-XBOX-VAULT-001",
+  "name": "RobDoe Xbox One Gaming & Entertainment Allodial Vault",
+  "symbol": "SOV-XBX",
+  "holder_anchor": "ko_te_mana_o_te_tangata",
+  "hardware_node": "Moto G06 (Termux Local Loopback)",
+  "xbox_merkle_root": "f98246b5ba906443b2d6a2f21db0dae854a4e003b0e8dc509af246b90fa818b5",
+  "total_nodes": 15,
+  "assets": [
+    {
+      "index": 1,
+      "node": "xbox.one.hardware.root",
+      "token_id": "XBX-001",
+      "asset_seal": "a478bcfbc43f8829f2e2c71b95ec41d5c48d939bee3808377c28f59ed8e367af"
+    },
+    {
+      "index": 2,
+      "node": "amd.jaguar.cpu.root",
+      "token_id": "XBX-002",
+      "asset_seal": "ada04832011abb26093e0ecce32876d7b0390a9761e37759024382b44d3c9253"
+    },
+    {
+      "index": 3,
+      "node": "directx.graphics.pipeline.root",
+      "token_id": "XBX-003",
+      "asset_seal": "61f077987397ed5d1cf3816b49741628f4e4bca79ca62ce8a360ab40933ffa84"
+    },
+    {
+      "index": 4,
+      "node": "xbox.live.matchmaking.root",
+      "token_id": "XBX-004",
+      "asset_seal": "bc3110cd2094cf918294c155326bd223f9604acf62d49251d83511cef62ea7d8"
+    },
+    {
+      "index": 5,
+      "node": "bluray.optical.drive.root",
+      "token_id": "XBX-005",
+      "asset_seal": "9f714e4a2c548df59ac38ae6966c78fe8969c0e6ed1a62737696039c01794268"
+    },
+    {
+      "index": 6,
+      "node": "kinect.sensor.matrix.root",
+      "token_id": "XBX-006",
+      "asset_seal": "b91247f9fd3e2e70dd8c4ff982748f465df0ab5b9990fae489c6ab62d21f5ded"
+    },
+    {
+      "index": 7,
+      "node": "gamerprofile.ledger.root",
+      "token_id": "XBX-007",
+      "asset_seal": "54719b705f877789a1cc104389affdc4cd24e6b3b64c8497682fe51d7f5da0a5"
+    },
+    {
+      "index": 8,
+      "node": "cloud.gaming.server.root",
+      "token_id": "XBX-008",
+      "asset_seal": "e1c19a95976dc657a50ff934d2ae7e387dc2828efa7d8f292dc335ebc92aef79"
+    },
+    {
+      "index": 9,
+      "node": "achievement.unlock.root",
+      "token_id": "XBX-009",
+      "asset_seal": "80053bec171b6c04e3e25edcab6d6bfc1ad309514274e514636981ae72e1fb25"
+    },
+    {
+      "index": 10,
+      "node": "digital.storefront.root",
+      "token_id": "XBX-010",
+      "asset_seal": "a0df3c1a616aaa8a5b67eb78b301c17d3a85fe3ebd7b6e8b2e01f8f81251db7e"
+    },
+    {
+      "index": 11,
+      "node": "controller.wireless.sync.root",
+      "token_id": "XBX-011",
+      "asset_seal": "c3edabb0fdd843911bed43376d0437134cf8a8dd559b21779306aa428ea58940"
+    },
+    {
+      "index": 12,
+      "node": "living.room.media.hub.root",
+      "token_id": "XBX-012",
+      "asset_seal": "031481831eac5dc95d540d2de0ca7b1f16d8bb0925ad4c3d093d587bc2dea579"
+    },
+    {
+      "index": 13,
+      "node": "halo.master.chief.root",
+      "token_id": "XBX-013",
+      "asset_seal": "c79daab2798ad753208d71898bb0e0a83ea2d6c09844d1f693eacd9e5df21508"
+    },
+    {
+      "index": 14,
+      "node": "gamepass.subscription.root",
+      "token_id": "XBX-014",
+      "asset_seal": "f3615b9eee9beb585a8a9a0cf1c660c561e36a04f42ffd989215b2e28643caad"
+    },
+    {
+      "index": 15,
+      "node": "entertainment.gateway.root",
+      "token_id": "XBX-015",
+      "asset_seal": "15cb78c50838f519a807d575247f3fd197b698eb807b7512fd19c4e60ab9c723"
+    }
+  ],
+  "routing": "127.0.0.1",
+  "cadence_tier": 0.052,
+  "statutory_basis": "Evidence Act 1995 (Cth) Section 146 & Digital Entertainment Rights",
+  "status": "XBOX_ONE_ENTERTAINMENT_MATRIX_LOCKED"
+}

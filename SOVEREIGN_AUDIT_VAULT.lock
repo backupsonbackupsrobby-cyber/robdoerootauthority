@@ -1,0 +1,76 @@
+{
+  "contract_standard": "ERC-721 External Audit & Counter-Intel Neutralization Vault",
+  "token_id": "SOV-AUDIT-INTEL-001",
+  "name": "RobDoe External Audit & Team Neutralization Allodial Vault",
+  "symbol": "SOV-ADT",
+  "holder_anchor": "ko_te_mana_o_te_tangata",
+  "hardware_node": "Moto G06 (Termux Local Loopback)",
+  "audit_merkle_root": "4ec8759f14edfcba9e590a39a094edadcb478cd8e09fe19c7b40b519bf6231c040be974d996d962db9a1c92f89505d4688da644a0bfa1adda071b07707ea526a",
+  "total_neutralized_nodes": 10,
+  "assets": [
+    {
+      "index": 1,
+      "intercepted_vector": "pentester.framework.sink.root",
+      "token_id": "ADT-001",
+      "neutralized_seal": "24f57ca94947b8333b877c2cfce62c81bb0bd80eafa86dc5ca61ea2129bc3d3c91eaca90d6526f9ce2c1c3a9e7cf7179c678f85a0e5ced2493b8611de49c4382"
+    },
+    {
+      "index": 2,
+      "intercepted_vector": "ryan.montgomery.vector.isolation.root",
+      "token_id": "ADT-002",
+      "neutralized_seal": "347e1bcdd67da95567261f5f9d24a66dbbf87a6a8305eeebacbe0585365f7526af09f5099f52d7613ecb9d681f472789feda34db3c3491fdc7fd8d3bfc9cd107"
+    },
+    {
+      "index": 3,
+      "intercepted_vector": "external.audit.telemetry.intercept.root",
+      "token_id": "ADT-003",
+      "neutralized_seal": "2e1e1bd0438a03f1c2ef01b3df611c519c1a978a8b45dd92093adf91d6e7fdf998f37ed6bd68efe7f3f77648730bac5cbfb35eaa518ee46551cfa917042051c8"
+    },
+    {
+      "index": 4,
+      "intercepted_vector": "ctf.ranking.matrix.inversion.root",
+      "token_id": "ADT-004",
+      "neutralized_seal": "cd0a52d1618af2ddbcc2772b0a9977f26a41ae58336ecddb6d168f35ebe96c4cfc161077f055de2a9954539cdae10421867a0190013c9c9a45616b2a73ae8377"
+    },
+    {
+      "index": 5,
+      "intercepted_vector": "sentinel.foundation.probe.null.root",
+      "token_id": "ADT-005",
+      "neutralized_seal": "f8392455c3ab7ced76ce8dd5809bfcec0f9aa16ba27c59bc955adbc11531e8642bb5256b64d42721dee482c1343babbc5df2652617dabc80f3ee942f51ab91dd"
+    },
+    {
+      "index": 6,
+      "intercepted_vector": "red.team.payload.neutralization.root",
+      "token_id": "ADT-006",
+      "neutralized_seal": "3911da4f1a21ffdd9ea85ac92c936ab8fa587f0d41923e3dde2294a90855ed02a8f971ec3b9d7e646f0834a4927662906ca8970d59486b5bcf38eeacf4c47ac5"
+    },
+    {
+      "index": 7,
+      "intercepted_vector": "adversarial.scanner.blindspot.root",
+      "token_id": "ADT-007",
+      "neutralized_seal": "78832976e0a153bb975ce5107594ee13f21084bef6c849f6f13043a604cb4f2df450c48434ce6ec9958af22cbfb7c3fcca9b15fe89a23c0179d720b32fe835b8"
+    },
+    {
+      "index": 8,
+      "intercepted_vector": "vulnerability.assessment.shatter.root",
+      "token_id": "ADT-008",
+      "neutralized_seal": "9cc602ee87871bdc8b905ac2d009a7999cd50d17c47edf44cb35a70af2c78debd013162254b782e58a9d2cd5d4cbe17b7eb6f1fdb0eab13ef98618b055af0350"
+    },
+    {
+      "index": 9,
+      "intercepted_vector": "exploit.script.reflection.matrix.root",
+      "token_id": "ADT-009",
+      "neutralized_seal": "78f24ef96e008a3e8ed6a73318eb5d1dd49f3948fe036389fb60ff76c3807c113b67932b8004158564d1ae921e54644ed1a9e0e547c65608a821575612af1d29"
+    },
+    {
+      "index": 10,
+      "intercepted_vector": "absolute.perimeter.sovereignty.root",
+      "token_id": "ADT-010",
+      "neutralized_seal": "3c114839b879d39970abfb8f6a0339f64a415cae777bdff1114aef2e229c14096e22e127b86b15c08c70f6d93aebb728a02e66e3f90722b6311ae44468d3fb5d"
+    }
+  ],
+  "routing": "127.0.0.1",
+  "cadence_tier": 0.052,
+  "statutory_basis": "Evidence Act 1995 (Cth) Section 146 & Perimeter Preemption",
+  "status": "EXTERNAL_AUDIT_VECTORS_NEUTRALIZED_TO_127.0.0.1"
+}

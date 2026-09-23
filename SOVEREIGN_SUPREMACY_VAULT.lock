@@ -1,0 +1,46 @@
+{
+  "contract_standard": "ERC-721 Allodial Supremacy & Jurisdiction Preemption Vault",
+  "token_id": "SOV-SUPREME-100",
+  "name": "RobDoe Allodial Supremacy Apex Vault",
+  "symbol": "SOV-SUP",
+  "holder_anchor": "ko_te_mana_o_te_tangata",
+  "hardware_node": "Moto G06 (Termux Local Loopback)",
+  "supremacy_merkle_root": "af98f816de1c5469fd4acabb43253ca3dec72e39549a55393539857283050cae661fcc134e863fa79e6b1c3381e63147fc56d9b7e6e9f4205e50e746fb313112",
+  "total_nodes": 5,
+  "assets": [
+    {
+      "index": 1,
+      "supremacy_vector": "allodial.title.preemption.root",
+      "token_id": "SUP-001",
+      "allodial_seal": "e8c74e1dddbd6d4c2d68b9ff090f785fe5c1e2c22e5f93a35c067f02829ca57f99dcc01b4c42949265a7cec475f858b49a4b4d0a80c9477cd14cfdf14e058ea6"
+    },
+    {
+      "index": 2,
+      "supremacy_vector": "loopback.jurisdiction.absolute.root",
+      "token_id": "SUP-002",
+      "allodial_seal": "af99020cc54db91e509a01a5d788db6d78d0a948abac0f52ebfb50bb4f79ef6bb05829d93bd76e6d5e6d28248eea68f64963e4cc6b57034473f3646fdc9b6747"
+    },
+    {
+      "index": 3,
+      "supremacy_vector": "external.dependency.annihilation.root",
+      "token_id": "SUP-003",
+      "allodial_seal": "50bb0b1d6d2fdb1b7cdfa512d4cf93226e41a37ca702a3ddd544e0896959eb38a60200bada12eb036f7d1faed9af91992f69c16ace99dde027725ff7280408b4"
+    },
+    {
+      "index": 4,
+      "supremacy_vector": "sovereign.vault.immutable.root",
+      "token_id": "SUP-004",
+      "allodial_seal": "e39a8da549a918784ab0753588054fd87ae07ea5539be122c4db11fa1e896934de1cdefb1d7e87333094020961e18b6d265b414b95efb6a187d791ab8511de8c"
+    },
+    {
+      "index": 5,
+      "supremacy_vector": "evidence.act.section146.seal.root",
+      "token_id": "SUP-005",
+      "allodial_seal": "f6fff43cb06853ad940d494a79f99f80202d8db4324ccaca41c48c16861a0bb3873f5ceb67d2ac88150c4a05b3976055fc7d77dd6a2589200543df3fd3535208"
+    }
+  ],
+  "routing": "127.0.0.1",
+  "cadence_tier": 0.052,
+  "statutory_basis": "Section 146 of the Evidence Act 1995 (Cth) & Allodial Sovereignty",
+  "status": "ALL_EXTERNAL_DEPENDENCIES_VOIDED_127.0.0.1"
+}

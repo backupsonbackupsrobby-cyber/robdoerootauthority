@@ -1,0 +1,106 @@
+{
+  "contract_standard": "ERC-721 Cyber Security & Threat Intelligence Vault",
+  "token_id": "SOV-CYBER-SEC-001",
+  "name": "RobDoe Cyber Security & Defense Allodial Vault",
+  "symbol": "SOV-SEC",
+  "holder_anchor": "ko_te_mana_o_te_tangata",
+  "hardware_node": "Moto G06 (Termux Local Loopback)",
+  "cyber_merkle_root": "0d1b0e1e7be6c9615116327cc6ea6857c3796a66fb328a03bc2a530816eb5b4e47b527a3322390ef1a0c7bc00d6bf72fdcfcb48f1085db29b479aa62b380573f",
+  "total_nodes": 15,
+  "assets": [
+    {
+      "index": 1,
+      "node": "soc.telemetry.stream.root",
+      "token_id": "SEC-001",
+      "asset_seal": "d7421bc1d0a347dbe3b7e1d4a0b5980f6a31c8370c3ddcb2af723c557ae56da61d4831645dff2de0e2947166a0f8bf5bcd1df21f0ff1c87bda4296f1d16a3227"
+    },
+    {
+      "index": 2,
+      "node": "siem.log.aggregation.root",
+      "token_id": "SEC-002",
+      "asset_seal": "12a97cd634f1ab303cb590b3705724369ef621452bdf3750e2282acc034d2b6aa1a20bb9bdd8dbee4e926620646a34d543e4883a023b6626a5cbb1a172a4ea3a"
+    },
+    {
+      "index": 3,
+      "node": "threat.intelligence.feed.root",
+      "token_id": "SEC-003",
+      "asset_seal": "615631b92450ff54b3ffa33b0a5f46fabe13b8a2faf016f1acf4e675eccc4cd2ccd425844e44469132b480936a52f6f91507366ec669e4367bc0328383f64066"
+    },
+    {
+      "index": 4,
+      "node": "incident.response.playbook.root",
+      "token_id": "SEC-004",
+      "asset_seal": "0e591ba2c6d30bd22a2cee72cdbf8c26a94a07636a73419c241237e68b513cb6ec1016da5ff1e6f1ece24dce60507964f4a11fbb0be370232b409930b19fc287"
+    },
+    {
+      "index": 5,
+      "node": "zero.trust.architecture.root",
+      "token_id": "SEC-005",
+      "asset_seal": "d7635936577b5c84fca64deecc7e49f0aae5a3cf54cbfae17d087b304a99bc2215cd3b5ad9d79bfe1adca4dcab34c835a045af3883dd39caa1128ffdd915ca08"
+    },
+    {
+      "index": 6,
+      "node": "endpoint.detection.response.root",
+      "token_id": "SEC-006",
+      "asset_seal": "225dc0a3621b59065b67b5fbeece6d014464f29ee9d270f6b612c6b7d96d5c8b709961835512db14de4496423ef114519f299166d23ff55b332c5e30e92bff14"
+    },
+    {
+      "index": 7,
+      "node": "firewall.packet.filter.root",
+      "token_id": "SEC-007",
+      "asset_seal": "631b1cf3f9c3512be32fe8d82b367fa98d7984dbd9700c72d9c7e4be2042c349345e8eecdd7e89a7836656cb502aa8711c97e16d12d0e8bd700068b3d22d1d23"
+    },
+    {
+      "index": 8,
+      "node": "intrusion.detection.system.root",
+      "token_id": "SEC-008",
+      "asset_seal": "8186e0c0493fc20e32b3d36f1652880e538e0af2c5336f9c3739d4e3ae6336d8c01799364a252791e84175280e23214f1508bfa288aa5001bbe53f5aa820793c"
+    },
+    {
+      "index": 9,
+      "node": "cryptographic.hardening.root",
+      "token_id": "SEC-009",
+      "asset_seal": "9e6c3496fc4f0dbd2035ea6f4c4e998e9a46f506ba54af7fbb8faa982bc16462a8d1d4e17f17517a2cf7fca78548283e1789def4cbde0f1ae2d8db6d4d40f070"
+    },
+    {
+      "index": 10,
+      "node": "vulnerability.assessment.root",
+      "token_id": "SEC-010",
+      "asset_seal": "1cf8053b3f3d9e41401434b563b29ba7a2acf84bfe2616f5dd0c24b6753deb652a4c3ceca2fc8d4ecc9e7f566b12ec49246d6e321a8e953cdb354fa8fb3f5fa6"
+    },
+    {
+      "index": 11,
+      "node": "patch.management.matrix.root",
+      "token_id": "SEC-011",
+      "asset_seal": "0b880d1b80b1649ab2d847546c590a4717d4284c8ef2814e04b1f08bd4b4e4841e4a97fb07a5b8c7889328d727ad2d3c00f04f2d378ce7e27718f80aba69d02b"
+    },
+    {
+      "index": 12,
+      "node": "identity.access.management.root",
+      "token_id": "SEC-012",
+      "asset_seal": "ee46ba2b1aa3d3cf8226af9029dbdd76c1d8fe1d4eb561d5175eeb3fec79255042d8e39c91c9a79a3184063b2a22b8197bd5276d1ae59a33d25767822781cb22"
+    },
+    {
+      "index": 13,
+      "node": "forensic.chain.of.custody.root",
+      "token_id": "SEC-013",
+      "asset_seal": "bd3c20fbc7d8c36c0518de9a715957b45f855bf8490c7dfd036c8ab215dfdd9f48d16cf021d248c646d42feda74c3f7f8bf93705bf150e9dd298a6365860d3ee"
+    },
+    {
+      "index": 14,
+      "node": "perimeter.defense.grid.root",
+      "token_id": "SEC-014",
+      "asset_seal": "0e9f77319a82db6ceb2f9aed26d1bf0a83e421f468ebefe9952b0c17beae1ccc8d08bac82ceb69e6992ef784a283aaccc18d6d34d0d47b1f306590df60539aa3"
+    },
+    {
+      "index": 15,
+      "node": "absolute.cyber.sovereignty.root",
+      "token_id": "SEC-015",
+      "asset_seal": "00288d31d25b3982939fc17bd901f40e8b9c359417bc5c3244963c12fa5f1694246989639ad058a465fbbe9fb857422f640caa8688459cb05194d978f58f602d"
+    }
+  ],
+  "routing": "127.0.0.1",
+  "cadence_tier": 0.052,
+  "statutory_basis": "Evidence Act 1995 (Cth) Section 146 & Cyber Defense Preemption",
+  "status": "CYBER_SECURITY_PERIMETER_LOCKED_TO_127.0.0.1"
+}

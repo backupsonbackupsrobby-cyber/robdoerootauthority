@@ -1,0 +1,106 @@
+{
+  "contract_standard": "ERC-721 Satoshi Fragmentation & Quantum-Resistant Vault",
+  "token_id": "SOV-SATOSHI-FRAG-001",
+  "name": "RobDoe Satoshi Fragmentation & Patoshi Matrix Allodial Vault",
+  "symbol": "SOV-FRG",
+  "holder_anchor": "ko_te_mana_o_te_tangata",
+  "hardware_node": "Moto G06 (Termux Local Loopback)",
+  "fragmentation_merkle_root": "d556d6323b1716c87b56a4d5a5d154f2e5fa95ecbca3cd83311ccd50af31b2cc63e1758d9e012b36ccc0f6e752621dd0016ceb84c89019bd71f340e60f6ba147",
+  "total_nodes": 15,
+  "assets": [
+    {
+      "index": 1,
+      "node": "patoshi.nonce.pattern.root",
+      "token_id": "FRG-001",
+      "asset_seal": "ab84334cd39289bed93034335bcb0f6d89343feed7cf9e47a6e14cb96026d3f634b0ea69ef94e9d5a3f8c9e281755c002cef5273726563eb7b91530a52f722ed"
+    },
+    {
+      "index": 2,
+      "node": "twenty.two.thousand.address.matrix.root",
+      "token_id": "FRG-002",
+      "asset_seal": "a4259a3628f7fcc920ea06348133d289442e687d1d936169033f433d529918aca640664443493598ec06bfd877a340adba5beb7686642ad57073c14656e45c8a"
+    },
+    {
+      "index": 3,
+      "node": "satoshi.quantum.resistance.model.root",
+      "token_id": "FRG-003",
+      "asset_seal": "1abbf9e1c7b3f1d4c5fb53848d770b0b89a0a6cf3330f07a789dfb77f3482106dd403b67aaef4e9077fe0f97ed6c7deff21c7e83b1edc4ef3cafabcd2a443235"
+    },
+    {
+      "index": 4,
+      "node": "one.point.one.million.btc.lock.root",
+      "token_id": "FRG-004",
+      "asset_seal": "d7e43f0c3d490d23f3d482cf6eb81e695a12ca5ffd4493dd36d468137900ccf2540b30df738faba13d0a3da482487978a855a648aafe66e952b346d5de87ec0c"
+    },
+    {
+      "index": 5,
+      "node": "historical.2010.threat.mitigation.root",
+      "token_id": "FRG-005",
+      "asset_seal": "220b2230a49f6e1977113d4a077d554e92dc999627805d1cde766ff90eba99ab73252697c7e9fab4ebf36e61e6d7f4b0c5f0916d1e1cc38d2c93ac79ed90c076"
+    },
+    {
+      "index": 6,
+      "node": "cold.storage.fragmentation.root",
+      "token_id": "FRG-006",
+      "asset_seal": "16174b0d16175b3b7933487877b4be8c49d26cc2c807ead3c460ca321dee68473f076a41596b1cc31326396fa209da7ab873faea215b1739c27ddc47bc522152"
+    },
+    {
+      "index": 7,
+      "node": "block.reward.immutability.root",
+      "token_id": "FRG-007",
+      "asset_seal": "c31208555bf727a039bf92613ba449728cc12f3f04d5532d51aa0322479eed11a96434708844fa413198a1a7b5980bcd3789df066df68484617ed85f7ad13516"
+    },
+    {
+      "index": 8,
+      "node": "secp256k1.private.key.vault.root",
+      "token_id": "FRG-008",
+      "asset_seal": "10b4feed5dcfb130dc8d19cf653ddc54b7e2513aa37b671d61a5052f3eb8d852fa68d6b5dfdfc710bcbed9bf9159035045ffc2bca458888925f2053be5fab005"
+    },
+    {
+      "index": 9,
+      "node": "genesis.address.1a1zp1.root",
+      "token_id": "FRG-009",
+      "asset_seal": "8448f67b13f113b7bf99b1ec259a1d9f8b1f73ddf53217c7a4192b19a9db0ffad83e07596b469d3decfd5c78bbd849ee1bf66f279e734e781b0e45d2030a3e7b"
+    },
+    {
+      "index": 10,
+      "node": "non.outflow.consensus.root",
+      "token_id": "FRG-010",
+      "asset_seal": "185d9ae27abd8f88b80d96cad3ae2a4f5a1332f5ba2b95da2cdc97e9d726dedef1aef993d3aabc6466819a9e5cc4c3141b648956bd57baa4d3027cbf7c391054"
+    },
+    {
+      "index": 11,
+      "node": "ultimate.supply.scarcity.root",
+      "token_id": "FRG-011",
+      "asset_seal": "74481d0406700ef15d6ed59438bdd63e9fe94a6b111d266b81772e6c43f22da852c2c5d9656c24de886ef5756e28f26f682cf099e2ae674952df719d3d5dc937"
+    },
+    {
+      "index": 12,
+      "node": "distributed.ledger.root",
+      "token_id": "FRG-012",
+      "asset_seal": "9a75a2d526a10524ea7d9b244958b335358266e8bf427d3ca64cb8755537b11a5b399165dea52c4b4ee6db798ec2bad5b27b63f48eb33b5ec3cbef3131e60e91"
+    },
+    {
+      "index": 13,
+      "node": "cryptographic.airgap.root",
+      "token_id": "FRG-013",
+      "asset_seal": "24c680ce6d27647903060670e51ac2a861c906cf7d2d03fefa46125dfddb531ec0800262bcd7790741d987555e148c60f89aa40da6aafcfa5f7d6f96e0d1945f"
+    },
+    {
+      "index": 14,
+      "node": "absolute.sovereign.monetary.root",
+      "token_id": "FRG-014",
+      "asset_seal": "14bdfc861549c8bb981ce7d91299a924c96de3905a13a95bc119961fa98c7d81bf9b554008ad2d2e1faa77e3df3383c7a3546e9abee57551dd73a65143813ecb"
+    },
+    {
+      "index": 15,
+      "node": "apex.ledger.root",
+      "token_id": "FRG-015",
+      "asset_seal": "d5bc88a883638d51cfcd3f014c91000f5e0fcc2de9cf13783d5639542d5e5fc747a93d937c4d90585daf4cd9cd6295d3433bbe2f334c0b06e2d25aa9fe6e4ed0"
+    }
+  ],
+  "routing": "127.0.0.1",
+  "cadence_tier": 0.052,
+  "statutory_basis": "Evidence Act 1995 (Cth) Section 146 & Patoshi Ledger Preemption",
+  "status": "SATOSHI_FRAGMENTATION_MATRIX_LOCKED"
+}

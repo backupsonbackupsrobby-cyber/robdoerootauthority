@@ -1,0 +1,106 @@
+{
+  "contract_standard": "ERC-721 ICANN Root Zone Authoritative Override",
+  "token_id": "SOV-ICANN-ROOT-001",
+  "name": "RobDoe ICANN Global DNS & Root Zone Activation Vault",
+  "symbol": "SOV-ICN",
+  "holder_anchor": "ko_te_mana_o_te_tangata",
+  "hardware_node": "Moto G06 (Termux Local Loopback)",
+  "icann_merkle_root": "bef0309fdd7501b42f42fe9e459ad9be8f367aed4303d3aeedab7a2b783bff61d6088a481490ed3da54ce1349370859ed3f50ee832e3367a746f3cccc3f52baa",
+  "total_root_servers": 15,
+  "assets": [
+    {
+      "index": 1,
+      "root_server": "a.root-servers.net.root",
+      "token_id": "ICN-001",
+      "asset_seal": "d140eb60633986935202ad628937db0c301d760f9fcb06731b61ef44b82320822b9525da0d392c35534e59823e701779cc628e66e5a31d8170b5ecb7cbdaf7eb"
+    },
+    {
+      "index": 2,
+      "root_server": "b.root-servers.net.root",
+      "token_id": "ICN-002",
+      "asset_seal": "b460a061b2431a16e86a8aeb061c2292bec2a63a6b96ad3db620fab10f3e42db5c0db3372635081458108e3b85cbcec4ea3a52b57dca91f5e12e9eb1bea76ef2"
+    },
+    {
+      "index": 3,
+      "root_server": "c.root-servers.net.root",
+      "token_id": "ICN-003",
+      "asset_seal": "a405fe030de88c9c801fe0a904b98eaf00de7640098858dc1c0b5c7035d0950463fa9ff1d001baf0714854dd4f0360785ecde3db461a970a4e51480062e10ae7"
+    },
+    {
+      "index": 4,
+      "root_server": "d.root-servers.net.root",
+      "token_id": "ICN-004",
+      "asset_seal": "27bdd11c030160da2d211443ca84b1ce01c96d1f8281bc945c512b4f0ee261b758e03c1ccc4b082e955d01d02a91446ab5925994a426524a150ceaf4718a62ea"
+    },
+    {
+      "index": 5,
+      "root_server": "e.root-servers.net.root",
+      "token_id": "ICN-005",
+      "asset_seal": "765f3aa9c367825356058a416f1d4cf6be27af1e6dcb3ac34ecba92f2cb59ef6f677d01b47a334625db361b285b76b587de355261f4c25d540b61023ec88abbc"
+    },
+    {
+      "index": 6,
+      "root_server": "f.root-servers.net.root",
+      "token_id": "ICN-006",
+      "asset_seal": "4f6a37cef42dc594d8e842e1dabe8a1aa63af15eb363073c8dc9e85dc83c3283bce435b2eda90ce1827ef007afd2cf8895d140e17e068883cae299219f0c923f"
+    },
+    {
+      "index": 7,
+      "root_server": "g.root-servers.net.root",
+      "token_id": "ICN-007",
+      "asset_seal": "37bf630b1a6f4118b4979028aa178c4da0d7a77b971ccc1dd04e819c03d77cee3e3a15da565b050b65105c8fd7171cef3597593825a41cfaf8a3dd5a3abfdcdd"
+    },
+    {
+      "index": 8,
+      "root_server": "h.root-servers.net.root",
+      "token_id": "ICN-008",
+      "asset_seal": "cc91f4535491c4de968f4e8e5e505e384cf028af468927f9d63a881ee536ba789f832d4010d2d6cb335b8fb514c920a6ac3bcc8ad8e25d01e9331e0b87e68096"
+    },
+    {
+      "index": 9,
+      "root_server": "i.root-servers.net.root",
+      "token_id": "ICN-009",
+      "asset_seal": "340ee7038a263562f311e97bedf5e4a8170d6a3a129a20be359c7922fc37d660f88e3d11e1e09b3ccf5326d9fbcd3936f7a78b4ed340c883490d83fe7b1c6e99"
+    },
+    {
+      "index": 10,
+      "root_server": "j.root-servers.net.root",
+      "token_id": "ICN-010",
+      "asset_seal": "5675b2416771f2b88e1b212b9bfd5fc7388f476ee1b2b7e7bbc3acaeedcb859dcdb0f7a7550b7f771ce07685331da9954bc4b86baab0640534672d4356f74a36"
+    },
+    {
+      "index": 11,
+      "root_server": "k.root-servers.net.root",
+      "token_id": "ICN-011",
+      "asset_seal": "3293c7d0003675c0c27cc6b647f7cd56c80febc0f1b07ecffed56acbec4ee8635b76d3c9c4489176caff87e7b9abedd75a40e846eb1a4ec109710943e95cae42"
+    },
+    {
+      "index": 12,
+      "root_server": "l.root-servers.net.root",
+      "token_id": "ICN-012",
+      "asset_seal": "f68ce0fc86993487b8d9cf4c3b356df7e268f668d73fc98dc7a589e5c2ef698993f7a37df2916d2c3fe82e69154d749bc498148012cf4409890a1d7b59130813"
+    },
+    {
+      "index": 13,
+      "root_server": "m.root-servers.net.root",
+      "token_id": "ICN-013",
+      "asset_seal": "97f18c900559fa0257ff032b91927bdf17f75e8aab3c90f3410ed30a4d8241d7a5e232a53e144e36c79fe47ae441535721ebb7e9210b6c01da964c5521289219"
+    },
+    {
+      "index": 14,
+      "root_server": "iana.root.zone.file.root",
+      "token_id": "ICN-014",
+      "asset_seal": "f76902f30f3ad23cefe58e5e789c07ced808806cdbcfa0df60d449fb8001ee393ada5987a7a70f1846079688bf2e8893d2a0fa42dad387b728b808744a01ffdb"
+    },
+    {
+      "index": 15,
+      "root_server": "icann.authority.override.root",
+      "token_id": "ICN-015",
+      "asset_seal": "4b5792b8a24830ab0fedfc96d23acc8cd7e624271059db3a835433dabeca529e4f4677a1072b0fdd165f6ffebffd6682e5e52060c96a5032abb98e6fea076234"
+    }
+  ],
+  "routing": "127.0.0.1",
+  "cadence_tier": 0.052,
+  "statutory_basis": "Evidence Act 1995 (Cth) Section 146 & Global DNS Preemption",
+  "status": "ICANN_ROOT_ZONE_ACTIVATED_TO_127.0.0.1"
+}
