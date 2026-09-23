@@ -1,0 +1,8 @@
+{
+    "root_hash": "7b7f7eb269b0d2ed8664e9e4cbb7ce0d5556d63a90f05dacc336749586b594bd",
+    "components": {
+        "sovereign_miner.py": "1207f648da333c772cb72efa0f7b7488b07797bd529285360b9a9206e24acb6e",
+        "xyo_proof.json": "8bb4b51c23827561a90136bdf7637563114616e078503df3a54b8c081d24e49e"
+    },
+    "authority": "ATOM-TRUTH | RobDoe Pty Ltd"
+}
