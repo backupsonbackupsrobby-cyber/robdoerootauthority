@@ -1,0 +1,57 @@
+{
+    "protocol": "ATOM-TRUTH-7-CHAKRAS-SOVEREIGN-REGISTRY",
+    "authority": "RobDoe Pty Ltd",
+    "master_root_hash": "028a7df8391a440d11005b10c9f05f0c6271f2ecc79ca80cd15ef9d942e7a992e65cf2800d287485ad04cc285d8dab07e885ca252979d361fdc217de24fa96e1",
+    "chakras": [
+        {
+            "chakra_id": 1,
+            "name": "Muladhara",
+            "focus": "Root / Foundation",
+            "internal_tag": "ATOM-CHAKRA-1-ROOT",
+            "sha512_hash": "d75bf392ceb5a87f2e48ddcd74b456badee08e65ecec616d27a4cad2abd599a8b921919a94640cec010cd8a3a08ab8474b27d45f19c684a555436fb6a65f2006"
+        },
+        {
+            "chakra_id": 2,
+            "name": "Svadhisthana",
+            "focus": "Sacral / Flow",
+            "internal_tag": "ATOM-CHAKRA-2-SACRAL",
+            "sha512_hash": "7a5d580b777a904ce8be80354df7331b341c581f676a32b11cdf39b8afdc1f8ab2e13a303152c39e945812c67d1b4381b1e26d8376e1c8a0f46e7e7aef38a5fc"
+        },
+        {
+            "chakra_id": 3,
+            "name": "Manipura",
+            "focus": "Solar Plexus / Will",
+            "internal_tag": "ATOM-CHAKRA-3-SOLAR",
+            "sha512_hash": "388f2027aa5151185adbd9b832f04671e716c269d34bc671a386a15eeb2bc405d3e16b0b9c4cca806c3ca70332e651eeb8d0e262d51ceeec50b15c8953501b90"
+        },
+        {
+            "chakra_id": 4,
+            "name": "Anahata",
+            "focus": "Heart / Balance",
+            "internal_tag": "ATOM-CHAKRA-4-HEART",
+            "sha512_hash": "083bc7cf2119cffeaa2fcf46c1a0876877dbf28d9ff038a795f039d1e4c9ee31135829ee92ca6e5b5d39ae7ddc81aa20a0ce3cb891ad7848e6040b034f54bad4"
+        },
+        {
+            "chakra_id": 5,
+            "name": "Vishuddha",
+            "focus": "Throat / Expression",
+            "internal_tag": "ATOM-CHAKRA-5-THROAT",
+            "sha512_hash": "3f2e21786aeb2e0aaeba74a641f1b952d564ca82e0529157c43c27750bcc08ee6917ef637cc6aaf54bc2909578eccda1a5d9eeb90817ac5bf76938ca506c1068"
+        },
+        {
+            "chakra_id": 6,
+            "name": "Ajna",
+            "focus": "Third Eye / Vision",
+            "internal_tag": "ATOM-CHAKRA-6-VISION",
+            "sha512_hash": "079da1c73953cd8c20578ef26964fc6b39946cec6cc82ec0b2c9dd8c224a0ba01ba2cd738264e804f71c27e24ccac2ddf66e791de9ea252463c8fb1344e6cbbb"
+        },
+        {
+            "chakra_id": 7,
+            "name": "Sahasrara",
+            "focus": "Crown / Sovereign Unity",
+            "internal_tag": "ATOM-CHAKRA-7-CROWN",
+            "sha512_hash": "0eb6d234bbc69c9fca3045aa35ae26db5cca948609bb5a148b433a202590420ddaa906677feeea454dcea79d3f0bf27532f7051c5e5957f27e85eab337e70ee5"
+        }
+    ],
+    "timestamp": 1790179032.5681171
+}
