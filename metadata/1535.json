@@ -1,0 +1,29 @@
+{
+  "name": "AtomTruth Sovereign #1535",
+  "description": "Individual 4-tier sovereign genesis asset. Classification: Bundle #1535.",
+  "image": "https://robdoe.com.au/assets/images/1535.png",
+  "external_url": "https://robdoe.com.au/token/1535",
+  "attributes": [
+    {
+      "trait_type": "Token ID",
+      "value": 1535
+    },
+    {
+      "trait_type": "Classification",
+      "value": "Bundle #1535"
+    },
+    {
+      "trait_type": "Te Reo Manifold Signature",
+      "value": "OMŌŪMMWNgKIWhMĪWHOĒNgIĀANWĀŪNgHMŌĒOWh"
+    },
+    {
+      "trait_type": "SHA-512 Root Hash",
+      "value": "2efccf099884ed261f68c70c19396e062bb204793c7189011dee82c0933f068be89f4e8590cd9f4108b9f5c4cd3bcea4e56385365a774ba2e6d418a32825f2f0"
+    },
+    {
+      "trait_type": "Supply Structure",
+      "value": "5,000 Bundles + 1 Solo Remainder"
+    }
+  ],
+  "timestamp": 1790331357
+}
