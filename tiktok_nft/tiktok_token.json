@@ -1,0 +1,25 @@
+{
+  "name": "TikTok Sovereign Asset",
+  "symbol": "TT",
+  "description": "Sovereign cryptographic representation of TikTok namespace under RobDoe Pty Ltd authority.",
+  "token_id": 1001,
+  "namespace": "tiktok.atom",
+  "issuer": "RobDoe Pty Ltd",
+  "legal_framework": "Evidence Act 1995 (Cth) s 146",
+  "git_commit_hash": "1a66039da3dbd10c7900f2805cf293643b8c45b4",
+  "individual_root_hash": "0xb0816854449c827ceddfe2110031caa217e3e3c4b1c0a1948c652fd94c69bb6c",
+  "attributes": [
+    {
+      "trait_type": "Asset Class",
+      "value": "Media Platform Namespace"
+    },
+    {
+      "trait_type": "Authority",
+      "value": "ATOM-TRUTH"
+    },
+    {
+      "trait_type": "Jurisdiction",
+      "value": "Australia"
+    }
+  ]
+}

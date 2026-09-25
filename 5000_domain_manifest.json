@@ -1,0 +1,39 @@
+{
+  "chest_id": 1,
+  "total_domains": 5000,
+  "base_tld": "atom",
+  "timestamp": 1790172402,
+  "domain_merkle_root": "be02e21e4cd6c7724c3e61070a20fa8ac0a9cd9f7e057ded663f43a06b1e4b91",
+  "domains_sample": [
+    {
+      "index": 0,
+      "domain": "node-0000.atom",
+      "label_hash": "0x7dddb9c00d0c9677ebd82889012ae1f5558f871a1c684e9781b066e2692074e1",
+      "chest_id": 1
+    },
+    {
+      "index": 1,
+      "domain": "node-0001.atom",
+      "label_hash": "0x131035fa74f9ca3ebec76aa741beb46def7dad3ff629b9df9c4cf1023df6e1ef",
+      "chest_id": 1
+    },
+    {
+      "index": 2,
+      "domain": "node-0002.atom",
+      "label_hash": "0x21df101e165a04481cd03113e066d2b5f2e6802cca08228a8674aa5f937635a8",
+      "chest_id": 1
+    },
+    {
+      "index": 3,
+      "domain": "node-0003.atom",
+      "label_hash": "0x7801b97babe3d40ff7cd05cadd6bb78c96b65a70276d546d749c09db3edd965d",
+      "chest_id": 1
+    },
+    {
+      "index": 4,
+      "domain": "node-0004.atom",
+      "label_hash": "0x503cb1b88f7dd6305fa8f9f066edf7e6a80a398f9d355ab88acca3eddf8de238",
+      "chest_id": 1
+    }
+  ]
+}

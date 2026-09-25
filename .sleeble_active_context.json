@@ -1,6 +1,13 @@
 {
-  "system_status": "ONLINE",
-  "metric": "93312000_ARC_SECONDS",
-  "multiplier": "x72",
-  "sha1024_root": "268d06c07f2f695188ae257958b444cd026b0924ed8e356fbdf814d84aabf48b7fbb3d1d8002de796b2088837e3496a9801b162f0b1d58f9bf14b004d1a632c6ddda88c5c10bdb877b5cd0c3b1db7cff66a06115a5d2095c305691539e5aea40ffbd498edb6536a34e02ddf2ea8242be1ddaa9efacc14f8d0b149e7d37b82cd4"
+    "timestamp": 1790260497,
+    "authority": "ROBDOE-ROOT-AUTHORITY",
+    "active_nodes": 4,
+    "leaf_hashes": [
+        "b80255155566407b2a36a05c3d922d15de6d917d3e20bf31a0e434b86c5c10c0",
+        "003fdad6fdbb757fa73c25b046c65dd3f001f4f18805e312dd446e0f0a7da660",
+        "ad383e180a91900e52d9ae70379af4031f3783c59638cd8d8ab0f387ab309331",
+        "1df0e8583558c40006480e1cccd0a68b2ea51fa3163fd012ca6deeccc40c9a32"
+    ],
+    "merkle_root": "695cc4334f8c15ba2b3c0ddb94b369f03d12e6097470ce0d641231331067e557",
+    "status": "IMMUTABLE_GROUND_TRUTH"
 }

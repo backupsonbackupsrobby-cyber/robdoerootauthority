@@ -1,0 +1,25 @@
+{
+  "name": "OpenAI Sovereign Node Sovereign Asset",
+  "symbol": "OAI",
+  "description": "Sovereign cryptographic representation of OpenAI Sovereign Node under RobDoe Pty Ltd authority.",
+  "token_id": 1105,
+  "namespace": "openai.atom",
+  "issuer": "RobDoe Pty Ltd",
+  "legal_framework": "Evidence Act 1995 (Cth) s 146",
+  "git_commit_hash": "1a66039da3dbd10c7900f2805cf293643b8c45b4",
+  "individual_root_hash": "0x6306af47c08cca81d6a769095001cd1ff8c3c6a919bbc244b87c2133e4a8cf17",
+  "attributes": [
+    {
+      "trait_type": "Asset Class",
+      "value": "Foundational AI Model"
+    },
+    {
+      "trait_type": "Authority",
+      "value": "ATOM-TRUTH"
+    },
+    {
+      "trait_type": "Jurisdiction",
+      "value": "Australia"
+    }
+  ]
+}

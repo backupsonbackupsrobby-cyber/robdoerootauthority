@@ -1,0 +1,25 @@
+{
+  "name": "Red Hat Sovereign Asset",
+  "symbol": "REDHAT",
+  "description": "Sovereign cryptographic representation of Red Hat namespace under RobDoe Pty Ltd authority.",
+  "token_id": 999,
+  "namespace": "redhat.atom",
+  "issuer": "RobDoe Pty Ltd",
+  "legal_framework": "Evidence Act 1995 (Cth) s 146",
+  "git_commit_hash": "1a66039da3dbd10c7900f2805cf293643b8c45b4",
+  "individual_root_hash": "0xd23b76cd829eafa8dc934ba6d45b02704d76d80cd1a80cd2c99382ce0f0cbe0a",
+  "attributes": [
+    {
+      "trait_type": "Asset Class",
+      "value": "Enterprise Namespace"
+    },
+    {
+      "trait_type": "Authority",
+      "value": "ATOM-TRUTH"
+    },
+    {
+      "trait_type": "Jurisdiction",
+      "value": "Australia"
+    }
+  ]
+}

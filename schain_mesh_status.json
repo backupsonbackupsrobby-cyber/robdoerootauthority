@@ -1,0 +1,30 @@
+[
+  {
+    "schain_id": "schain-nebula",
+    "schain_type": "Gaming / NFT Storage",
+    "merkle_root": "42b147851d1346f863bf877f2fa50ae29e33131af9543a68e2ddd20e15f6b9c1",
+    "cross_chain_proof": "7f56fea8915745174e742b9acfe4b6df8a97c5469a9bbb171ac8dde07ffd45a9",
+    "status": "ANCHORED"
+  },
+  {
+    "schain_id": "schain-calypso",
+    "schain_type": "NFT Marketplace Hub",
+    "merkle_root": "42b147851d1346f863bf877f2fa50ae29e33131af9543a68e2ddd20e15f6b9c1",
+    "cross_chain_proof": "6a2ff785c6a1bd78d018b4010506fa0373dcca8631a8866d74bc78a0c3c29514",
+    "status": "ANCHORED"
+  },
+  {
+    "schain_id": "schain-europa",
+    "schain_type": "Liquidity & Exchange",
+    "merkle_root": "42b147851d1346f863bf877f2fa50ae29e33131af9543a68e2ddd20e15f6b9c1",
+    "cross_chain_proof": "263caea92205363d20e30de88c52d1f3c5c1eb4fa9f5545c735b4556bee0fb0b",
+    "status": "ANCHORED"
+  },
+  {
+    "schain_id": "schain-titan",
+    "schain_type": "AI & Compute Nodes",
+    "merkle_root": "42b147851d1346f863bf877f2fa50ae29e33131af9543a68e2ddd20e15f6b9c1",
+    "cross_chain_proof": "99ee8d87cec316cc6dc510aea28a49deaf5c848f5f78a48e61977556b2e9ea1c",
+    "status": "ANCHORED"
+  }
+]

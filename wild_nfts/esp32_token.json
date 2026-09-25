@@ -1,0 +1,25 @@
+{
+  "name": "ESP32 Hardware Core Sovereign Asset",
+  "symbol": "ESP32",
+  "description": "Sovereign cryptographic representation of ESP32 Hardware Core under RobDoe Pty Ltd authority.",
+  "token_id": 2026,
+  "namespace": "esp32.atom",
+  "issuer": "RobDoe Pty Ltd",
+  "legal_framework": "Evidence Act 1995 (Cth) s 146",
+  "git_commit_hash": "1a66039da3dbd10c7900f2805cf293643b8c45b4",
+  "individual_root_hash": "0x08a1616c09e6a17ac52d06a2b24d89dd8a091b91d4879867d6b416dd8650ed88",
+  "attributes": [
+    {
+      "trait_type": "Asset Class",
+      "value": "Embedded Edge IoT"
+    },
+    {
+      "trait_type": "Authority",
+      "value": "ATOM-TRUTH"
+    },
+    {
+      "trait_type": "Jurisdiction",
+      "value": "Australia"
+    }
+  ]
+}

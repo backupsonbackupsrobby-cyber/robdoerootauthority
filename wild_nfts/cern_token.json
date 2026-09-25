@@ -1,0 +1,25 @@
+{
+  "name": "CERN Research Facility Sovereign Asset",
+  "symbol": "CERN",
+  "description": "Sovereign cryptographic representation of CERN Research Facility under RobDoe Pty Ltd authority.",
+  "token_id": 1104,
+  "namespace": "cern.atom",
+  "issuer": "RobDoe Pty Ltd",
+  "legal_framework": "Evidence Act 1995 (Cth) s 146",
+  "git_commit_hash": "1a66039da3dbd10c7900f2805cf293643b8c45b4",
+  "individual_root_hash": "0x7957dd1efd272642323c1da77ede89c94d3257987ff5ec056218158ff6e2b663",
+  "attributes": [
+    {
+      "trait_type": "Asset Class",
+      "value": "Particle Physics Lab"
+    },
+    {
+      "trait_type": "Authority",
+      "value": "ATOM-TRUTH"
+    },
+    {
+      "trait_type": "Jurisdiction",
+      "value": "Australia"
+    }
+  ]
+}

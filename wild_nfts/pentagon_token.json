@@ -1,0 +1,25 @@
+{
+  "name": "Pentagon Defense Node Sovereign Asset",
+  "symbol": "PENTAGON",
+  "description": "Sovereign cryptographic representation of Pentagon Defense Node under RobDoe Pty Ltd authority.",
+  "token_id": 1103,
+  "namespace": "pentagon.atom",
+  "issuer": "RobDoe Pty Ltd",
+  "legal_framework": "Evidence Act 1995 (Cth) s 146",
+  "git_commit_hash": "1a66039da3dbd10c7900f2805cf293643b8c45b4",
+  "individual_root_hash": "0x8735e817319383743343e532a73cb8c901fa08e21639f23c8e9da790112e49c8",
+  "attributes": [
+    {
+      "trait_type": "Asset Class",
+      "value": "Defense & Aerospace"
+    },
+    {
+      "trait_type": "Authority",
+      "value": "ATOM-TRUTH"
+    },
+    {
+      "trait_type": "Jurisdiction",
+      "value": "Australia"
+    }
+  ]
+}

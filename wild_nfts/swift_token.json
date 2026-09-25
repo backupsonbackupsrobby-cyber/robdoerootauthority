@@ -1,0 +1,25 @@
+{
+  "name": "SWIFT Settlement Layer Sovereign Asset",
+  "symbol": "SWIFT",
+  "description": "Sovereign cryptographic representation of SWIFT Settlement Layer under RobDoe Pty Ltd authority.",
+  "token_id": 1110,
+  "namespace": "swift.atom",
+  "issuer": "RobDoe Pty Ltd",
+  "legal_framework": "Evidence Act 1995 (Cth) s 146",
+  "git_commit_hash": "1a66039da3dbd10c7900f2805cf293643b8c45b4",
+  "individual_root_hash": "0xb4d243a526cf84b73a0e454ebe86d49918009be0d76c085190eb9eace1013a8c",
+  "attributes": [
+    {
+      "trait_type": "Asset Class",
+      "value": "Global Wire Routing"
+    },
+    {
+      "trait_type": "Authority",
+      "value": "ATOM-TRUTH"
+    },
+    {
+      "trait_type": "Jurisdiction",
+      "value": "Australia"
+    }
+  ]
+}

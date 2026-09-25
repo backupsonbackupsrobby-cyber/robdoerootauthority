@@ -1,0 +1,6 @@
+{
+  "total_domains": 5000,
+  "payload_bytes_len": 74999,
+  "merkle_root": "0xc778c561fc61e82d42a53cf6020612f3a994acf84cf7a003e77a03f78fcc718f",
+  "hex_bytecode_preview": "0x6e6f64652d303030302e61746f6d2c6e6f64652d303030312e61746f6d2c6e6f..."
+}

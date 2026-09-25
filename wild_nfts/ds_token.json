@@ -1,0 +1,25 @@
+{
+  "name": "DeepSeek Sovereign Node Sovereign Asset",
+  "symbol": "DS",
+  "description": "Sovereign cryptographic representation of DeepSeek Sovereign Node under RobDoe Pty Ltd authority.",
+  "token_id": 1107,
+  "namespace": "deepseek.atom",
+  "issuer": "RobDoe Pty Ltd",
+  "legal_framework": "Evidence Act 1995 (Cth) s 146",
+  "git_commit_hash": "1a66039da3dbd10c7900f2805cf293643b8c45b4",
+  "individual_root_hash": "0x347f9b0e01656c16889c4141a5783b38c87c9b493cdf73d87c9bea448e9e01f6",
+  "attributes": [
+    {
+      "trait_type": "Asset Class",
+      "value": "Foundational AI Model"
+    },
+    {
+      "trait_type": "Authority",
+      "value": "ATOM-TRUTH"
+    },
+    {
+      "trait_type": "Jurisdiction",
+      "value": "Australia"
+    }
+  ]
+}

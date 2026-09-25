@@ -1,0 +1,9 @@
+{
+  "name": "ESP32 Sovereign Core Asset",
+  "symbol": "ESP32",
+  "description": "Cryptographic anchor for embedded hardware multi-agent control loops.",
+  "token_id": 2026,
+  "namespace": "esp32.atom",
+  "issuer": "RobDoe Pty Ltd",
+  "individual_root_hash": "0xa9868be76bb5cd0de9f2d1ea907e4ef5e41f3649be1e26f09480275e9ef028fc"
+}

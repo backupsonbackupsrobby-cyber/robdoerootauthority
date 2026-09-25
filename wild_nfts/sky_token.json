@@ -1,0 +1,25 @@
+{
+  "name": "Skynet Neural Matrix Sovereign Asset",
+  "symbol": "SKY",
+  "description": "Sovereign cryptographic representation of Skynet Neural Matrix under RobDoe Pty Ltd authority.",
+  "token_id": 1108,
+  "namespace": "skynet.atom",
+  "issuer": "RobDoe Pty Ltd",
+  "legal_framework": "Evidence Act 1995 (Cth) s 146",
+  "git_commit_hash": "1a66039da3dbd10c7900f2805cf293643b8c45b4",
+  "individual_root_hash": "0xa284f01e5b7e4485aa09e419039773fca5ae2401e97923aaa4904d26bf4186eb",
+  "attributes": [
+    {
+      "trait_type": "Asset Class",
+      "value": "Autonomous Multi-Agent"
+    },
+    {
+      "trait_type": "Authority",
+      "value": "ATOM-TRUTH"
+    },
+    {
+      "trait_type": "Jurisdiction",
+      "value": "Australia"
+    }
+  ]
+}

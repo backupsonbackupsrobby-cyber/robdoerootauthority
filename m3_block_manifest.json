@@ -1,0 +1,9 @@
+{
+  "block": "M3",
+  "chest_id": 1,
+  "capacity": 5000,
+  "timestamp": 1790172323,
+  "genesis_ref": "e14f9a8d",
+  "tag_ref": "v14.0.0-erc721-mainnet-root-20260923-134439",
+  "m3_merkle_root": "42b147851d1346f863bf877f2fa50ae29e33131af9543a68e2ddd20e15f6b9c1"
+}

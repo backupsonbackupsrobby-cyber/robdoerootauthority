@@ -1,0 +1,302 @@
+[
+  {
+    "name": "Emergency Dispatch 000 Sovereign Asset",
+    "symbol": "000",
+    "description": "Sovereign cryptographic representation of Emergency Dispatch 000 under RobDoe Pty Ltd authority.",
+    "token_id": 1100,
+    "namespace": "000.atom",
+    "issuer": "RobDoe Pty Ltd",
+    "legal_framework": "Evidence Act 1995 (Cth) s 146",
+    "git_commit_hash": "1a66039da3dbd10c7900f2805cf293643b8c45b4",
+    "individual_root_hash": "0x5fdc5b799492f2554fdc4b3c880b46ddfad201d4b59346c71e973c7dfceb0e28",
+    "attributes": [
+      {
+        "trait_type": "Asset Class",
+        "value": "Emergency Infrastructure"
+      },
+      {
+        "trait_type": "Authority",
+        "value": "ATOM-TRUTH"
+      },
+      {
+        "trait_type": "Jurisdiction",
+        "value": "Australia"
+      }
+    ]
+  },
+  {
+    "name": "Emergency Dispatch 111 Sovereign Asset",
+    "symbol": "111",
+    "description": "Sovereign cryptographic representation of Emergency Dispatch 111 under RobDoe Pty Ltd authority.",
+    "token_id": 1101,
+    "namespace": "111.atom",
+    "issuer": "RobDoe Pty Ltd",
+    "legal_framework": "Evidence Act 1995 (Cth) s 146",
+    "git_commit_hash": "1a66039da3dbd10c7900f2805cf293643b8c45b4",
+    "individual_root_hash": "0x4452e41eace5f45c6f67e2f2d1f478d1981fa03b2beeda0022b56790c30b938b",
+    "attributes": [
+      {
+        "trait_type": "Asset Class",
+        "value": "Emergency Infrastructure"
+      },
+      {
+        "trait_type": "Authority",
+        "value": "ATOM-TRUTH"
+      },
+      {
+        "trait_type": "Jurisdiction",
+        "value": "Australia"
+      }
+    ]
+  },
+  {
+    "name": "Internet Root DNS Sovereign Asset",
+    "symbol": "ROOT",
+    "description": "Sovereign cryptographic representation of Internet Root DNS under RobDoe Pty Ltd authority.",
+    "token_id": 1102,
+    "namespace": "root.atom",
+    "issuer": "RobDoe Pty Ltd",
+    "legal_framework": "Evidence Act 1995 (Cth) s 146",
+    "git_commit_hash": "1a66039da3dbd10c7900f2805cf293643b8c45b4",
+    "individual_root_hash": "0x932760c094b3e83a82b9e26b0b7f3509f817e806fa35015e6f639c7c03fd1626",
+    "attributes": [
+      {
+        "trait_type": "Asset Class",
+        "value": "Global Core Network"
+      },
+      {
+        "trait_type": "Authority",
+        "value": "ATOM-TRUTH"
+      },
+      {
+        "trait_type": "Jurisdiction",
+        "value": "Australia"
+      }
+    ]
+  },
+  {
+    "name": "Pentagon Defense Node Sovereign Asset",
+    "symbol": "PENTAGON",
+    "description": "Sovereign cryptographic representation of Pentagon Defense Node under RobDoe Pty Ltd authority.",
+    "token_id": 1103,
+    "namespace": "pentagon.atom",
+    "issuer": "RobDoe Pty Ltd",
+    "legal_framework": "Evidence Act 1995 (Cth) s 146",
+    "git_commit_hash": "1a66039da3dbd10c7900f2805cf293643b8c45b4",
+    "individual_root_hash": "0x8735e817319383743343e532a73cb8c901fa08e21639f23c8e9da790112e49c8",
+    "attributes": [
+      {
+        "trait_type": "Asset Class",
+        "value": "Defense & Aerospace"
+      },
+      {
+        "trait_type": "Authority",
+        "value": "ATOM-TRUTH"
+      },
+      {
+        "trait_type": "Jurisdiction",
+        "value": "Australia"
+      }
+    ]
+  },
+  {
+    "name": "CERN Research Facility Sovereign Asset",
+    "symbol": "CERN",
+    "description": "Sovereign cryptographic representation of CERN Research Facility under RobDoe Pty Ltd authority.",
+    "token_id": 1104,
+    "namespace": "cern.atom",
+    "issuer": "RobDoe Pty Ltd",
+    "legal_framework": "Evidence Act 1995 (Cth) s 146",
+    "git_commit_hash": "1a66039da3dbd10c7900f2805cf293643b8c45b4",
+    "individual_root_hash": "0x7957dd1efd272642323c1da77ede89c94d3257987ff5ec056218158ff6e2b663",
+    "attributes": [
+      {
+        "trait_type": "Asset Class",
+        "value": "Particle Physics Lab"
+      },
+      {
+        "trait_type": "Authority",
+        "value": "ATOM-TRUTH"
+      },
+      {
+        "trait_type": "Jurisdiction",
+        "value": "Australia"
+      }
+    ]
+  },
+  {
+    "name": "OpenAI Sovereign Node Sovereign Asset",
+    "symbol": "OAI",
+    "description": "Sovereign cryptographic representation of OpenAI Sovereign Node under RobDoe Pty Ltd authority.",
+    "token_id": 1105,
+    "namespace": "openai.atom",
+    "issuer": "RobDoe Pty Ltd",
+    "legal_framework": "Evidence Act 1995 (Cth) s 146",
+    "git_commit_hash": "1a66039da3dbd10c7900f2805cf293643b8c45b4",
+    "individual_root_hash": "0x6306af47c08cca81d6a769095001cd1ff8c3c6a919bbc244b87c2133e4a8cf17",
+    "attributes": [
+      {
+        "trait_type": "Asset Class",
+        "value": "Foundational AI Model"
+      },
+      {
+        "trait_type": "Authority",
+        "value": "ATOM-TRUTH"
+      },
+      {
+        "trait_type": "Jurisdiction",
+        "value": "Australia"
+      }
+    ]
+  },
+  {
+    "name": "Anthropic Sovereign Node Sovereign Asset",
+    "symbol": "ANTH",
+    "description": "Sovereign cryptographic representation of Anthropic Sovereign Node under RobDoe Pty Ltd authority.",
+    "token_id": 1106,
+    "namespace": "anthropic.atom",
+    "issuer": "RobDoe Pty Ltd",
+    "legal_framework": "Evidence Act 1995 (Cth) s 146",
+    "git_commit_hash": "1a66039da3dbd10c7900f2805cf293643b8c45b4",
+    "individual_root_hash": "0xcb291990a1233203b2600ffb7b6b12d0be0107d7ffb06ba5f7d7a7ca0554f148",
+    "attributes": [
+      {
+        "trait_type": "Asset Class",
+        "value": "Foundational AI Model"
+      },
+      {
+        "trait_type": "Authority",
+        "value": "ATOM-TRUTH"
+      },
+      {
+        "trait_type": "Jurisdiction",
+        "value": "Australia"
+      }
+    ]
+  },
+  {
+    "name": "DeepSeek Sovereign Node Sovereign Asset",
+    "symbol": "DS",
+    "description": "Sovereign cryptographic representation of DeepSeek Sovereign Node under RobDoe Pty Ltd authority.",
+    "token_id": 1107,
+    "namespace": "deepseek.atom",
+    "issuer": "RobDoe Pty Ltd",
+    "legal_framework": "Evidence Act 1995 (Cth) s 146",
+    "git_commit_hash": "1a66039da3dbd10c7900f2805cf293643b8c45b4",
+    "individual_root_hash": "0x347f9b0e01656c16889c4141a5783b38c87c9b493cdf73d87c9bea448e9e01f6",
+    "attributes": [
+      {
+        "trait_type": "Asset Class",
+        "value": "Foundational AI Model"
+      },
+      {
+        "trait_type": "Authority",
+        "value": "ATOM-TRUTH"
+      },
+      {
+        "trait_type": "Jurisdiction",
+        "value": "Australia"
+      }
+    ]
+  },
+  {
+    "name": "Skynet Neural Matrix Sovereign Asset",
+    "symbol": "SKY",
+    "description": "Sovereign cryptographic representation of Skynet Neural Matrix under RobDoe Pty Ltd authority.",
+    "token_id": 1108,
+    "namespace": "skynet.atom",
+    "issuer": "RobDoe Pty Ltd",
+    "legal_framework": "Evidence Act 1995 (Cth) s 146",
+    "git_commit_hash": "1a66039da3dbd10c7900f2805cf293643b8c45b4",
+    "individual_root_hash": "0xa284f01e5b7e4485aa09e419039773fca5ae2401e97923aaa4904d26bf4186eb",
+    "attributes": [
+      {
+        "trait_type": "Asset Class",
+        "value": "Autonomous Multi-Agent"
+      },
+      {
+        "trait_type": "Authority",
+        "value": "ATOM-TRUTH"
+      },
+      {
+        "trait_type": "Jurisdiction",
+        "value": "Australia"
+      }
+    ]
+  },
+  {
+    "name": "Federal Reserve Core Sovereign Asset",
+    "symbol": "FED",
+    "description": "Sovereign cryptographic representation of Federal Reserve Core under RobDoe Pty Ltd authority.",
+    "token_id": 1109,
+    "namespace": "fed.atom",
+    "issuer": "RobDoe Pty Ltd",
+    "legal_framework": "Evidence Act 1995 (Cth) s 146",
+    "git_commit_hash": "1a66039da3dbd10c7900f2805cf293643b8c45b4",
+    "individual_root_hash": "0x18b4556a0bb5cf1609b7b9d75cff0adbb7c980cfbe82c6bf193f662b5b329259",
+    "attributes": [
+      {
+        "trait_type": "Asset Class",
+        "value": "Central Bank Settlement"
+      },
+      {
+        "trait_type": "Authority",
+        "value": "ATOM-TRUTH"
+      },
+      {
+        "trait_type": "Jurisdiction",
+        "value": "Australia"
+      }
+    ]
+  },
+  {
+    "name": "SWIFT Settlement Layer Sovereign Asset",
+    "symbol": "SWIFT",
+    "description": "Sovereign cryptographic representation of SWIFT Settlement Layer under RobDoe Pty Ltd authority.",
+    "token_id": 1110,
+    "namespace": "swift.atom",
+    "issuer": "RobDoe Pty Ltd",
+    "legal_framework": "Evidence Act 1995 (Cth) s 146",
+    "git_commit_hash": "1a66039da3dbd10c7900f2805cf293643b8c45b4",
+    "individual_root_hash": "0xb4d243a526cf84b73a0e454ebe86d49918009be0d76c085190eb9eace1013a8c",
+    "attributes": [
+      {
+        "trait_type": "Asset Class",
+        "value": "Global Wire Routing"
+      },
+      {
+        "trait_type": "Authority",
+        "value": "ATOM-TRUTH"
+      },
+      {
+        "trait_type": "Jurisdiction",
+        "value": "Australia"
+      }
+    ]
+  },
+  {
+    "name": "ESP32 Hardware Core Sovereign Asset",
+    "symbol": "ESP32",
+    "description": "Sovereign cryptographic representation of ESP32 Hardware Core under RobDoe Pty Ltd authority.",
+    "token_id": 2026,
+    "namespace": "esp32.atom",
+    "issuer": "RobDoe Pty Ltd",
+    "legal_framework": "Evidence Act 1995 (Cth) s 146",
+    "git_commit_hash": "1a66039da3dbd10c7900f2805cf293643b8c45b4",
+    "individual_root_hash": "0x08a1616c09e6a17ac52d06a2b24d89dd8a091b91d4879867d6b416dd8650ed88",
+    "attributes": [
+      {
+        "trait_type": "Asset Class",
+        "value": "Embedded Edge IoT"
+      },
+      {
+        "trait_type": "Authority",
+        "value": "ATOM-TRUTH"
+      },
+      {
+        "trait_type": "Jurisdiction",
+        "value": "Australia"
+      }
+    ]
+  }
+]

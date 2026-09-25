@@ -1,0 +1,25 @@
+{
+  "name": "Emergency Dispatch 111 Sovereign Asset",
+  "symbol": "111",
+  "description": "Sovereign cryptographic representation of Emergency Dispatch 111 under RobDoe Pty Ltd authority.",
+  "token_id": 1101,
+  "namespace": "111.atom",
+  "issuer": "RobDoe Pty Ltd",
+  "legal_framework": "Evidence Act 1995 (Cth) s 146",
+  "git_commit_hash": "1a66039da3dbd10c7900f2805cf293643b8c45b4",
+  "individual_root_hash": "0x4452e41eace5f45c6f67e2f2d1f478d1981fa03b2beeda0022b56790c30b938b",
+  "attributes": [
+    {
+      "trait_type": "Asset Class",
+      "value": "Emergency Infrastructure"
+    },
+    {
+      "trait_type": "Authority",
+      "value": "ATOM-TRUTH"
+    },
+    {
+      "trait_type": "Jurisdiction",
+      "value": "Australia"
+    }
+  ]
+}

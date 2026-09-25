@@ -1,0 +1,25 @@
+{
+  "name": "Federal Reserve Core Sovereign Asset",
+  "symbol": "FED",
+  "description": "Sovereign cryptographic representation of Federal Reserve Core under RobDoe Pty Ltd authority.",
+  "token_id": 1109,
+  "namespace": "fed.atom",
+  "issuer": "RobDoe Pty Ltd",
+  "legal_framework": "Evidence Act 1995 (Cth) s 146",
+  "git_commit_hash": "1a66039da3dbd10c7900f2805cf293643b8c45b4",
+  "individual_root_hash": "0x18b4556a0bb5cf1609b7b9d75cff0adbb7c980cfbe82c6bf193f662b5b329259",
+  "attributes": [
+    {
+      "trait_type": "Asset Class",
+      "value": "Central Bank Settlement"
+    },
+    {
+      "trait_type": "Authority",
+      "value": "ATOM-TRUTH"
+    },
+    {
+      "trait_type": "Jurisdiction",
+      "value": "Australia"
+    }
+  ]
+}
