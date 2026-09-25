@@ -1,0 +1,8 @@
+{
+  "domain": "genesis-1790332647-e09336c4d04a.com",
+  "commitHash": "21fef327ea1f3dfd0894747a08c9e0dcf5e9bc05",
+  "witnessHash": "e09336c4d04a98075bf60add84e7c637853a2c868769dade40d2d080a91dbcd3",
+  "merkleRoot": "0x0c4241e0c5a96ccfc7e952c135a4bd16d8223239e7ababcc62cba82fd0ff4666",
+  "timestamp": 1790332647,
+  "anchorType": "sovereign-local-merkle"
+}
