@@ -1,6 +1,6 @@
 {
-  "name": "AtomTruth Sovereign #411",
-  "description": "Individual 4-tier sovereign genesis asset. Classification: Bundle #411.",
+  "name": "AtomTruth Domain Genesis #411",
+  "description": "Individual 4-tier sovereign .com domain genesis asset #411 anchored to robdoe.com.au.",
   "image": "https://robdoe.com.au/assets/images/411.png",
   "external_url": "https://robdoe.com.au/token/411",
   "attributes": [
@@ -9,21 +9,21 @@
       "value": 411
     },
     {
-      "trait_type": "Classification",
-      "value": "Bundle #411"
+      "trait_type": "Asset Type",
+      "value": "Sovereign .com Domain Genesis"
     },
     {
       "trait_type": "Te Reo Manifold Signature",
-      "value": "ŪWhWhŌKŪOURMWhRWhPINgNgUIOEONMNgIOOWhAKU"
+      "value": "WŌĒRNgĀTĀEITMTTUĒNgŌEIWAWhROŪUOAHWhR"
     },
     {
       "trait_type": "SHA-512 Root Hash",
-      "value": "81c74f2fab1d1ae4afe877af775e048a9e6c18067a920d0cb2b8a6ba278cd3bc8a11ed5c01fe609912b4340ff8f2f0848710646e903e4657ac906c1360fe105e"
+      "value": "9d078fc326dd4c1552ccb05c24606c1776cf0254edf0b3eb56316cba8c0a63afc0441b07fc825c632ab2901a3c6c99d80d29952f482bb2edd090b41d3680cc64"
     },
     {
-      "trait_type": "Supply Structure",
-      "value": "5,000 Bundles + 1 Solo Remainder"
+      "trait_type": "Total Genesis Supply",
+      "value": 500
     }
   ],
-  "timestamp": 1790331357
+  "timestamp": 1790331609
 }
