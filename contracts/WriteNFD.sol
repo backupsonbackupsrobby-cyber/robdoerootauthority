@@ -6,27 +6,25 @@ import "@openzeppelin/contracts/access/Ownable.sol";
 
 /**
  * @title WriteNFD
- * @dev ERC-721 implementation for Non-Fungible Domains supporting full .com suffix tracking.
+ * @dev ERC-721 Non-Fungible Domain contract for aiagency101.
+ * Hardcoded with NK-SEL v1.0 and native erc721.com domain suffix mapping.
  */
 contract WriteNFD is ERC721, Ownable {
     
-    // Custom errors for gas efficiency
     error DomainAlreadyExists(string domainName);
+    error InvalidDomainSuffix(string domainName);
     error NotAuthorized();
 
-    // Counter for tracking token generation
+    string public constant NK_SEL_LICENSE = "NK-SEL v1.0: Unauthorized extraction of aiagency101 assets is prohibited. Such is life.";
+    string public constant REQUIRED_SUFFIX = ".erc721.com";
+
     uint256 private _nextTokenId;
 
-    // Mapping from tokenId to stored domain string (e.g., "telegram.com")
     mapping(uint256 => string) private _domainNames;
-
-    // Mapping from domain name string to existence boolean (prevents duplicate .com entries)
     mapping(string => bool) private _domainExistsMap;
-
-    // Mapping from tokenId to stored state proof / metadata hash
     mapping(uint256 => string) private _tokenStateProofs;
 
-    event DomainMinted(uint256 indexed tokenId, string domainName);
+    event DomainMinted(uint256 indexed tokenId, string domainName, string licenseNotice);
     event StateProofUpdated(uint256 indexed tokenId, string stateProof);
 
     constructor(address initialOwner) 
@@ -34,10 +32,25 @@ contract WriteNFD is ERC721, Ownable {
         Ownable(initialOwner) 
     {}
 
-    /**
-     * @dev Mint a new NFToken domain (including .com) with uniqueness enforcement.
-     */
+    // Enforce native erc721.com suffix verification
+    function _endsWith(string memory source, string memory suffix) internal pure returns (bool) {
+        bytes memory bSource = bytes(source);
+        bytes memory bSuffix = bytes(suffix);
+        if (bSource.length < bSuffix.length) {
+            return false;
+        }
+        for (uint i = 0; i < bSuffix.length; i++) {
+            if (bSource[bSource.length - bSuffix.length + i] != bSuffix[i]) {
+                return false;
+            }
+        }
+        return true;
+    }
+
     function safeMintDomain(address recipient, string memory domainName, string memory stateProof) public onlyOwner returns (uint256) {
+        if (!_endsWith(domainName, REQUIRED_SUFFIX)) {
+            revert InvalidDomainSuffix(domainName);
+        }
         if (_domainExistsMap[domainName]) {
             revert DomainAlreadyExists(domainName);
         }
@@ -50,34 +63,16 @@ contract WriteNFD is ERC721, Ownable {
         
         _safeMint(recipient, tokenId);
         
-        emit DomainMinted(tokenId, domainName);
+        emit DomainMinted(tokenId, domainName, NK_SEL_LICENSE);
         emit StateProofUpdated(tokenId, stateProof);
         return tokenId;
     }
 
-    /**
-     * @dev Update the state proof associated with a specific domain token.
-     */
-    function updateStateProof(uint256 tokenId, string memory newStateProof) public {
-        if (ownerOf(tokenId) != msg.sender && owner() != msg.sender) {
-            revert NotAuthorized();
-        }
-        
-        _tokenStateProofs[tokenId] = newStateProof;
-        emit StateProofUpdated(tokenId, newStateProof);
-    }
-
-    /**
-     * @dev Retrieve the fully qualified domain name (e.g., telegram.com) for a given token ID.
-     */
     function getDomainName(uint256 tokenId) public view returns (string memory) {
         _requireOwned(tokenId);
         return _domainNames[tokenId];
     }
 
-    /**
-     * @dev Retrieve the state proof payload for a given token ID.
-     */
     function getStateProof(uint256 tokenId) public view returns (string memory) {
         _requireOwned(tokenId);
         return _tokenStateProofs[tokenId];
