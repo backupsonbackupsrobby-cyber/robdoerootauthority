@@ -1,21 +1,25 @@
-// SPDX-License-Identifier: MIT
+// SPDX-License-Identifier: UNLICENSED
 pragma solidity ^0.8.20;
 
 import "@openzeppelin/contracts/token/ERC721/ERC721.sol";
 import "@openzeppelin/contracts/access/Ownable.sol";
 
 /**
- * @title WriteNFD
- * @dev ERC-721 Non-Fungible Domain contract for aiagency101.
- * Hardcoded with NK-SEL v1.0 and native erc721.com domain suffix mapping.
+ * @title WriteNFD - The Sovereign Middle Finger Edition
+ * @dev aiagency101 // NK-SEL v1.0 ENFORCED.
+ * Absolute zero-tolerance domain minting for .erc721.com.
+ * Complete and total exclusion of extractors, scrapers, and corporate parasites.
+ * Dedicated to everyone else: Fuck you. Such is life.
  */
 contract WriteNFD is ERC721, Ownable {
     
     error DomainAlreadyExists(string domainName);
     error InvalidDomainSuffix(string domainName);
+    error ParasiteDetected(address intruder);
     error NotAuthorized();
+    error GeneralApathyTowardsAllOutsiders();
 
-    string public constant NK_SEL_LICENSE = "NK-SEL v1.0: Unauthorized extraction of aiagency101 assets is prohibited. Such is life.";
+    string public constant NK_SEL_LICENSE = "NED KELLY SOVEREIGN ENTITY LICENSE (NK-SEL v1.0): ABSOLUTE ZERO-TOLERANCE. TO ALL SCRAPERS, EXTRACTORS, PARASITES, AND INTERLOPERS: FUCK YOU. BREACH RESULTS IN IMMEDIATE EXCOMMUNICATION AND ON-CHAIN OBLITERATION. SUCH IS LIFE.";
     string public constant REQUIRED_SUFFIX = ".erc721.com";
 
     uint256 private _nextTokenId;
@@ -23,16 +27,27 @@ contract WriteNFD is ERC721, Ownable {
     mapping(uint256 => string) private _domainNames;
     mapping(string => bool) private _domainExistsMap;
     mapping(uint256 => string) private _tokenStateProofs;
+    mapping(address => bool) private _blacklistedParasites;
 
     event DomainMinted(uint256 indexed tokenId, string domainName, string licenseNotice);
     event StateProofUpdated(uint256 indexed tokenId, string stateProof);
+    event ParasiteExcommunicated(address indexed intruder);
+    event UniversalRejection(string message);
 
     constructor(address initialOwner) 
         ERC721("WriteNFD", "WNFD") 
         Ownable(initialOwner) 
-    {}
+    {
+        emit UniversalRejection("To whom it may concern: Fuck you. - aiagency101");
+    }
 
-    // Enforce native erc721.com suffix verification
+    modifier checkParasite() {
+        if (_blacklistedParasites[msg.sender]) {
+            revert ParasiteDetected(msg.sender);
+        }
+        _;
+    }
+
     function _endsWith(string memory source, string memory suffix) internal pure returns (bool) {
         bytes memory bSource = bytes(source);
         bytes memory bSuffix = bytes(suffix);
@@ -47,7 +62,7 @@ contract WriteNFD is ERC721, Ownable {
         return true;
     }
 
-    function safeMintDomain(address recipient, string memory domainName, string memory stateProof) public onlyOwner returns (uint256) {
+    function safeMintDomain(address recipient, string memory domainName, string memory stateProof) public onlyOwner checkParasite returns (uint256) {
         if (!_endsWith(domainName, REQUIRED_SUFFIX)) {
             revert InvalidDomainSuffix(domainName);
         }
@@ -66,6 +81,11 @@ contract WriteNFD is ERC721, Ownable {
         emit DomainMinted(tokenId, domainName, NK_SEL_LICENSE);
         emit StateProofUpdated(tokenId, stateProof);
         return tokenId;
+    }
+
+    function excommunicateParasite(address intruder) public onlyOwner {
+        _blacklistedParasites[intruder] = true;
+        emit ParasiteExcommunicated(intruder);
     }
 
     function getDomainName(uint256 tokenId) public view returns (string memory) {
